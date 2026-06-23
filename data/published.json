@@ -94,12 +94,12 @@
       ],
       "sources": [
         {
-          "title": "Fortune: Hong Kong tops global IPO charts (Dec 2025)",
-          "url": "https://fortune.com/2025/12/23/hong-kong-tops-global-ipo-charts-for-the-first-time-since-2019-for-total-funds-raised-overtaking-new-yorks-stock-exchanges/"
-        },
-        {
           "title": "CNBC: CATL's record Hong Kong debut",
           "url": "https://www.cnbc.com/2025/05/20/china-catl-hongkong-debut.html"
+        },
+        {
+          "title": "China SCIO: Hong Kong was the world's largest IPO market in H1 2025",
+          "url": "http://english.scio.gov.cn/chinavoices/2025-07/01/content_117955798.html"
         }
       ]
     },
@@ -128,8 +128,8 @@
       ],
       "sources": [
         {
-          "title": "SCMP: court order sent to crypto wallets, setting new precedent",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3296250/hong-kong-court-order-sent-cryptocurrency-wallets-setting-new-precedent"
+          "title": "Pinsent Masons: using freezing orders to tackle crypto fraud in Hong Kong",
+          "url": "https://www.pinsentmasons.com/out-law/analysis/using-freezing-orders-to-tackle-crypto-fraud-in-hong-kong"
         },
         {
           "title": "Hong Kong Lawyer on Hong Kong's tokenised injunction",
