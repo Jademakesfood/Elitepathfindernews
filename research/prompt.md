@@ -69,7 +69,9 @@ verify it, drop it.
   a partner actually cares about.
 - Run every sentence through the **No-Slop filter**: no banned words (delve, leverage,
   navigate, landscape, foster, crucial, seamless, etc.), no "not X but Y" structure, no cliché
-  openers/closers, vary sentence length, don't overuse dashes.
+  openers/closers, vary sentence length. **Never use em-dashes (—) or en-dashes (–) inside a
+  sentence.** Use commas, periods, or parentheses instead. (En-dashes are fine only in the date
+  range of `weekLabel`, e.g. "16–22 Jun 2026".)
 - This is for ambitious law students. Respect their time. Skimmable, sharp, useful.
 
 ## Output format

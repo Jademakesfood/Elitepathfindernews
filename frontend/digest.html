@@ -21,116 +21,116 @@
   html{-webkit-text-size-adjust:100%}
   body{font-family:var(--font-sans);background:var(--white);color:var(--grey-dark);
     line-height:1.62;-webkit-font-smoothing:antialiased;overflow-x:hidden;}
-  /* fluid container — adapts to ANY width, never overflows */
-  .wrap{width:100%;max-width:880px;margin:0 auto;padding:0 clamp(18px,5vw,40px);}
+  /* WIDE fluid container — fills the screen, only a small breathing margin */
+  .wrap{width:100%;max-width:1760px;margin:0 auto;padding:0 clamp(20px,4vw,72px);}
   a{color:inherit;}
 
   /* ===== Masthead ===== */
-  header.mast{border-bottom:1px solid var(--line);padding:clamp(34px,6vw,60px) 0 clamp(26px,4vw,40px);
+  header.mast{border-bottom:1px solid var(--line);padding:clamp(38px,6vw,72px) 0 clamp(28px,4vw,44px);
     position:relative;overflow:hidden;}
-  .mast .eyebrow{font-size:clamp(10px,2.4vw,11px);letter-spacing:.22em;text-transform:uppercase;
-    color:var(--grey-mid);font-weight:600;opacity:0;animation:rise .7s var(--ease) .05s forwards;}
-  .mast h1{font-family:var(--font-serif);font-weight:600;color:var(--black);
-    font-size:clamp(28px,7vw,50px);line-height:1.06;margin:14px 0 14px;letter-spacing:-.015em;
-    opacity:0;animation:rise .7s var(--ease) .12s forwards;}
-  .mast p.lede{color:var(--grey-mid);font-size:clamp(14px,3.6vw,16.5px);max-width:600px;
-    opacity:0;animation:rise .7s var(--ease) .2s forwards;}
-  /* animated hairline accent under masthead */
+  .eyebrow{font-size:clamp(10px,2.4vw,12px);letter-spacing:.26em;text-transform:uppercase;font-weight:600;
+    display:inline-block;
+    background:linear-gradient(100deg,var(--grey-light) 25%,var(--black) 50%,var(--grey-light) 75%);
+    background-size:220% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;
+    animation:shimmer 4.2s linear infinite;}
+  @keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+  h1.title{font-family:var(--font-serif);font-weight:600;color:var(--black);
+    font-size:clamp(34px,7vw,68px);line-height:1.04;margin:16px 0 16px;letter-spacing:-.018em;max-width:16ch;}
+  /* split-text reveal: each word masked, slides up + unblurs */
+  .title .w{display:inline-block;overflow:hidden;vertical-align:top;padding-right:.16em;}
+  .title .w i{display:inline-block;font-style:normal;transform:translateY(110%);filter:blur(8px);opacity:0;
+    animation:wordrise .8s var(--ease) forwards;}
+  @keyframes wordrise{to{transform:none;filter:blur(0);opacity:1;}}
+  p.lede{color:var(--grey-mid);font-size:clamp(15px,2.2vw,18px);max-width:60ch;
+    opacity:0;transform:translateY(14px);animation:fadeup .7s var(--ease) .5s forwards;}
+  @keyframes fadeup{to{opacity:1;transform:none;}}
   .mast .accent{position:absolute;left:0;bottom:-1px;height:2px;width:100%;
     background:linear-gradient(90deg,transparent,var(--black),transparent);
-    background-size:50% 100%;background-repeat:no-repeat;
-    animation:sweep 4.5s linear infinite;opacity:.55;}
-  @keyframes sweep{0%{background-position:-60% 0}100%{background-position:160% 0}}
-  @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    background-size:45% 100%;background-repeat:no-repeat;animation:sweep 5s linear infinite;opacity:.5;}
+  @keyframes sweep{0%{background-position:-50% 0}100%{background-position:150% 0}}
 
-  /* ===== Filter bar (sticky, responsive) ===== */
+  /* ===== Filter bar ===== */
   .filters{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.9);
     backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
     border-bottom:1px solid var(--line);transition:box-shadow .3s var(--ease);}
-  .filters.stuck{box-shadow:0 6px 24px rgba(0,0,0,.06);}
-  .filter-inner{display:flex;flex-wrap:wrap;gap:clamp(12px,3vw,26px);align-items:flex-end;
-    padding:14px 0;}
+  .filters.stuck{box-shadow:0 6px 26px rgba(0,0,0,.06);}
+  .filter-inner{display:flex;flex-wrap:wrap;gap:clamp(14px,2.5vw,34px);align-items:flex-end;padding:15px 0;}
   .fg{display:flex;flex-direction:column;gap:7px;min-width:0;}
-  .fg.grow{flex:1 1 240px;}
-  .fg label{font-size:10px;letter-spacing:.16em;text-transform:uppercase;
-    color:var(--grey-light);font-weight:700;}
-  /* week dropdown — scales to unlimited weeks */
+  .fg label{font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--grey-light);font-weight:700;}
   select.weeksel{font-family:var(--font-sans);font-size:14px;font-weight:500;color:var(--black);
     background:var(--white);border:1px solid var(--line);border-radius:10px;padding:10px 38px 10px 14px;
     cursor:pointer;appearance:none;-webkit-appearance:none;max-width:100%;
     background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%236a6a6a' stroke-width='1.6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
     background-repeat:no-repeat;background-position:right 14px center;transition:border-color .15s;}
   select.weeksel:hover{border-color:var(--grey-mid);}
-  /* practice-area pills — horizontal scroll on small screens, never wrap awkwardly */
-  .pills{display:flex;gap:8px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none;
-    -ms-overflow-style:none;mask-image:linear-gradient(90deg,#000 94%,transparent);}
+  .fg.areas{flex:1 1 100%;}
+  .pills{display:flex;gap:8px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none;-ms-overflow-style:none;}
   .pills::-webkit-scrollbar{display:none;}
-  .pill{font-family:var(--font-sans);font-size:12.5px;font-weight:500;
-    padding:7px 14px;border:1px solid var(--line);border-radius:999px;background:var(--white);
-    color:var(--grey-mid);cursor:pointer;transition:all .18s var(--ease);white-space:nowrap;flex:0 0 auto;}
+  .pill{font-family:var(--font-sans);font-size:12.5px;font-weight:500;padding:7px 14px;border:1px solid var(--line);
+    border-radius:999px;background:var(--white);color:var(--grey-mid);cursor:pointer;
+    transition:all .18s var(--ease);white-space:nowrap;flex:0 0 auto;}
   .pill:hover{border-color:var(--grey-mid);color:var(--grey-dark);transform:translateY(-1px);}
   .pill.active{background:var(--black);border-color:var(--black);color:var(--white);}
 
-  .resultmeta{padding:24px 0 2px;font-size:12.5px;color:var(--grey-light);letter-spacing:.02em;}
+  .resultmeta{padding:26px 0 4px;font-size:13px;color:var(--grey-light);letter-spacing:.02em;}
 
-  /* ===== Story cards ===== */
-  main{padding-bottom:90px;}
-  .story{border:1px solid var(--line);border-radius:16px;background:var(--white);
-    padding:clamp(22px,4vw,34px);margin:18px 0;
-    transition:border-color .25s var(--ease),box-shadow .25s var(--ease),transform .25s var(--ease);
-    opacity:0;transform:translateY(22px);}
-  .story.in{opacity:1;transform:none;}
-  .story:hover{border-color:var(--grey-pale);box-shadow:0 14px 44px rgba(0,0,0,.06);transform:translateY(-2px);}
+  /* ===== Card GRID — fills the width, multi-column on big screens ===== */
+  main{padding-bottom:100px;}
+  .grid{display:grid;gap:clamp(16px,1.6vw,26px);align-items:start;
+    grid-template-columns:repeat(auto-fill,minmax(min(100%,400px),1fr));}
+  .story{position:relative;overflow:hidden;border:1px solid var(--line);border-radius:18px;background:var(--white);
+    padding:clamp(24px,2vw,34px);
+    transition:border-color .3s var(--ease),box-shadow .3s var(--ease),transform .3s var(--ease);
+    opacity:0;transform:translateY(26px) scale(.99);filter:blur(6px);}
+  .story.in{opacity:1;transform:none;filter:blur(0);}
+  .story:hover{border-color:var(--grey-pale);box-shadow:0 18px 50px rgba(0,0,0,.07);transform:translateY(-3px);}
+  /* gleam sweep on hover */
+  .story::after{content:"";position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;
+    background:linear-gradient(115deg,transparent 38%,rgba(10,10,10,.045) 50%,transparent 62%);
+    transform:translateX(-130%);transition:transform .8s var(--ease);}
+  .story:hover::after{transform:translateX(130%);}
   .tags{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:15px;}
-  .tag{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;
-    color:var(--grey-mid);background:var(--grey-bg);padding:4px 10px;border-radius:6px;}
+  .tag{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;color:var(--grey-mid);
+    background:var(--grey-bg);padding:4px 10px;border-radius:6px;}
   .tag.region{background:var(--black);color:var(--white);}
   .tag.week{background:transparent;color:var(--grey-light);padding-left:0;letter-spacing:.06em;}
   .story h2{font-family:var(--font-serif);font-weight:600;color:var(--black);
-    font-size:clamp(20px,4.4vw,26px);line-height:1.18;letter-spacing:-.01em;margin-bottom:20px;}
+    font-size:clamp(21px,1.7vw,26px);line-height:1.18;letter-spacing:-.01em;margin-bottom:20px;}
 
   .block{margin-top:20px;}
   .block:first-of-type{margin-top:0;}
-  .blabel{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;
-    color:var(--black);margin-bottom:9px;display:flex;align-items:center;gap:9px;}
+  .blabel{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--black);
+    margin-bottom:9px;display:flex;align-items:center;gap:9px;}
   .blabel .dash{width:16px;height:1.5px;background:var(--grey-pale);display:inline-block;flex:0 0 auto;}
-  .block.news p{font-size:clamp(14.5px,3.6vw,16px);color:var(--grey-dark);}
-  /* explainer block — a quiet "study note" card so it reads as background, not headline news */
+  .block.news p{font-size:clamp(14.5px,1vw,16px);color:var(--grey-dark);}
   .block.means{background:var(--grey-bg);border-radius:12px;padding:15px 18px;}
   .block.means .blabel{color:var(--grey-mid);}
   .block.means .blabel .dash{background:var(--grey-light);}
-  .block.means p{font-size:clamp(13.5px,3.4vw,15px);color:var(--grey-mid);}
+  .block.means p{font-size:clamp(13.5px,.95vw,15px);color:var(--grey-mid);}
   .block.clients,.block.firms{padding-left:16px;border-left:2px solid var(--grey-pale);}
   .block.firms{border-left-color:var(--black);}
   ul.points{list-style:none;display:flex;flex-direction:column;gap:11px;}
-  ul.points li{position:relative;padding-left:20px;font-size:clamp(14px,3.5vw,15.5px);color:var(--grey-dark);}
-  ul.points li::before{content:"";position:absolute;left:2px;top:9px;width:6px;height:6px;
-    border-radius:50%;background:var(--grey-pale);}
+  ul.points li{position:relative;padding-left:20px;font-size:clamp(14px,.95vw,15.5px);color:var(--grey-dark);}
+  ul.points li::before{content:"";position:absolute;left:2px;top:9px;width:6px;height:6px;border-radius:50%;background:var(--grey-pale);}
   .block.firms ul.points li::before{background:var(--black);}
-  ul.points li b,ul.points li strong{color:var(--black);font-weight:600;}
 
-  /* sources — clickable, animated arrow */
-  .sources{margin-top:22px;padding-top:15px;border-top:1px solid var(--line);
-    display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;}
-  .sources .slabel{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
-    font-weight:700;color:var(--grey-light);}
-  .srclink{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:500;
-    color:var(--grey-dark);text-decoration:none;border-bottom:1px solid var(--grey-pale);
-    padding-bottom:1px;transition:color .15s,border-color .15s;}
+  .sources{margin-top:22px;padding-top:15px;border-top:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;}
+  .sources .slabel{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--grey-light);width:100%;}
+  .srclink{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:500;color:var(--grey-dark);
+    text-decoration:none;border-bottom:1px solid var(--grey-pale);padding-bottom:1px;transition:color .15s,border-color .15s;}
   .srclink .arr{transition:transform .2s var(--ease);}
   .srclink:hover{color:var(--black);border-color:var(--black);}
   .srclink:hover .arr{transform:translateX(3px);}
 
-  .empty{text-align:center;color:var(--grey-light);padding:70px 0;font-size:15px;}
-
-  footer{border-top:1px solid var(--line);padding:32px 0 64px;color:var(--grey-light);
-    font-size:12px;text-align:center;letter-spacing:.03em;}
+  .empty{text-align:center;color:var(--grey-light);padding:80px 0;font-size:15px;grid-column:1/-1;}
+  footer{border-top:1px solid var(--line);padding:34px 0 70px;color:var(--grey-light);font-size:12px;text-align:center;letter-spacing:.03em;}
   footer .sig{font-family:var(--font-serif);color:var(--grey-mid);font-size:15px;margin-bottom:6px;}
 
   @media (prefers-reduced-motion:reduce){
     *{animation:none!important;transition:none!important}
-    .story{opacity:1;transform:none}
-    .mast .eyebrow,.mast h1,.mast p.lede{opacity:1}
+    .story{opacity:1;transform:none;filter:none}
+    .title .w i{transform:none;filter:none;opacity:1}
+    p.lede{opacity:1;transform:none}
   }
 </style>
 </head>
@@ -138,20 +138,20 @@
 
 <header class="mast">
   <div class="wrap">
-    <div class="eyebrow">Elite Pathfinder · Commercial Awareness</div>
-    <h1>The Weekly Digest</h1>
-    <p class="lede">The two or three things that moved the Hong Kong market this week — explained simply, then broken down into what it means for clients and for the firms that advise them.</p>
+    <span class="eyebrow">Elite Pathfinder · Commercial Awareness</span>
+    <h1 class="title" id="mastTitle">The Weekly Digest</h1>
+    <p class="lede">The two or three things that moved the Hong Kong market this week, explained simply, then broken down into what each one means for clients and for the firms that advise them.</p>
   </div>
   <span class="accent"></span>
 </header>
 
 <div class="filters" id="filterBar">
   <div class="wrap filter-inner">
-    <div class="fg grow">
+    <div class="fg">
       <label for="weekSel">Browse by week</label>
       <select class="weeksel" id="weekSel"></select>
     </div>
-    <div class="fg" style="flex:1 1 100%;max-width:100%;">
+    <div class="fg areas">
       <label>Practice area</label>
       <div class="pills" id="areaPills"></div>
     </div>
@@ -159,99 +159,77 @@
 </div>
 
 <div class="wrap"><div class="resultmeta" id="resultMeta"></div></div>
-<main class="wrap" id="stories"></main>
+<main class="wrap"><div class="grid" id="stories"></div></main>
 
 <footer>
   <div class="wrap">
     <div class="sig">Elite Pathfinder</div>
-    From candidate to training contract — we guide you through every step.
+    From candidate to training contract, we guide you through every step.
   </div>
 </footer>
 
 <script>
-/* =========================================================================
-   In production set PUBLISHED_URL to your GitHub-hosted file, e.g.
-   "https://<you>.github.io/ep-digest/published.json"
-   Falls back to inlined sample data so the page always renders standalone.
-   ========================================================================= */
 const PUBLISHED_URL = "https://cdn.jsdelivr.net/gh/Jademakesfood/Elitepathfindernews@main/data/published.json";
-
-const FALLBACK={"generatedAt":"2026-06-22","items":[{"id":"2026-W26-001","headline":"HKEX Lets Companies Keep Their Bought-Back Shares Instead of Cancelling Them","week":"2026-W26","weekLabel":"16–22 Jun 2026","date":"2026-06-18","region":"HK","practiceAreas":["Capital Markets","Corporate / M&A"],"whatsTheNews":"Hong Kong's stock exchange (HKEX) has scrapped its old rule that forced companies to cancel any shares they bought back. Listed companies can now keep those repurchased shares in reserve as \"treasury shares\" and resell them into the market later. The change took effect for most listed companies in June 2024, with Hong Kong-incorporated companies following in April 2025. Resales come with guardrails, including a 30-day pause after a buyback and a cap on the discount they can offer.","whatItMeans":"A share buyback is when a company uses its own cash to buy its shares back off the stock market. Until now, Hong Kong forced companies to cancel those shares, so they disappeared for good. \"Treasury shares\" are bought-back shares the company keeps in reserve instead of cancelling — think of it as putting them in a drawer to reuse later. The change hands companies a flexible pool of their own shares they can sell again whenever they need cash.","clients":["Raising cash gets easier. If a company needs money, it can resell shares it already owns instead of going through the slow, expensive process of issuing new shares. That saves it time and legal fees.","It helps them pay staff in shares. Many companies reward senior employees with shares; now they can hand over ones they already hold rather than printing new ones.","But there are traps. Selling shares back into the market can lower the value of everyone else's shares (called dilution), and there are strict rules on when and how to do it — so they need a lawyer."],"lawFirms":["It creates steady, repeat work. Every buyback or resale needs lawyers to draft documents and check the rules, so the capital markets team gets a reliable flow of billable work.","It rewards firms strong in equity work. Firms with big \"equity capital markets\" teams are the natural first call, so being good at this wins the whole client relationship.","More work means more hiring. A busy team needs juniors and trainees to handle the paperwork — exactly the kind of seat a vacation scheme student could sit in."],"sources":[{"title":"Morgan Lewis — HKEX treasury share rule changes (effective 11 June 2024)","url":"https://www.morganlewis.com/pubs/2024/04/hkex-changes-to-treasury-share-listing-rules-effective-11-june-2024"},{"title":"HKEX Listing Rules — repurchases & treasury shares","url":"https://en-rules.hkex.com.hk/rulebook/9-repurchase-securities-and-treasury-shares"}]},{"id":"2026-W26-002","headline":"Hong Kong's Stablecoin Law Means You Now Need a Licence to Issue Digital Coins","week":"2026-W26","weekLabel":"16–22 Jun 2026","date":"2026-06-19","region":"HK","practiceAreas":["Financial Regulatory","FinTech / TMT"],"whatsTheNews":"Hong Kong's Stablecoins Ordinance now requires anyone issuing a fiat-backed stablecoin to hold a licence from the Hong Kong Monetary Authority (HKMA). The regime took effect on 1 August 2025. Issuers must keep enough high-quality reserves to back every coin in full, let holders cash out at face value within one business day, and meet strict anti-money-laundering rules. The HKMA has signalled it will grant only a small number of licences at the start.","whatItMeans":"A stablecoin is a kind of digital money designed to always be worth the same as a real currency — for example, one coin always equals one US dollar. The HKMA is essentially Hong Kong's central bank, the body that oversees money and banking. \"Backing coins with reserves\" means an issuer must hold enough real, safe assets to repay everyone who owns a coin. This makes Hong Kong one of the first places in the world with clear rules for this type of digital money.","clients":["Companies finally know the rules. Before, firms were nervous about launching digital coins because the law was unclear. Now there is a clear path, so more will try — and they need lawyers to apply.","The requirements are tough. Each company must prove it holds enough reserve money and has strong anti-fraud systems, so they need legal and compliance help to get it right.","Mistakes are costly. Operating without a licence, or breaking the rules, can lead to heavy penalties — so clients will happily pay for advice to stay safe."],"lawFirms":["A brand-new area of law just opened. It sits between banking, payments, and crypto, so firms can build a fresh practice and win clients with nowhere else to turn yet.","The work keeps coming. Once licensed, a client needs ongoing advice to stay compliant — long-term income, not a one-off job.","Early movers win big. Firms that learn this first become the go-to experts, and that reputation pulls in the biggest clients and the most interesting work for juniors."],"sources":[{"title":"HKMA — implementation of the stablecoin regime (press release, 29 Jul 2025)","url":"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-4/"},{"title":"HKMA — regulatory regime for stablecoin issuers","url":"https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/"}]},{"id":"2026-W26-003","headline":"Mainland Giants Power Hong Kong to the World's Top IPO Market","week":"2026-W26","weekLabel":"16–22 Jun 2026","date":"2026-06-20","region":"HK","practiceAreas":["Capital Markets","China / Cross-border"],"whatsTheNews":"Hong Kong's market for new share listings has roared back, driven by big mainland Chinese companies. In the first half of 2025, HKEX hosted 42 main-board IPOs raising about HK$107 billion — more than all of 2024 combined — and ranked first in the world for IPO fundraising. The battery giant CATL led the way with a HK$35.7 billion listing, the largest global IPO of the year. Much of the momentum came from mainland firms already listed at home seeking a second listing in Hong Kong.","whatItMeans":"An IPO (\"initial public offering\") is when a private company sells its shares to the public for the first time and becomes listed on a stock exchange — companies do this to raise large amounts of money. A \"secondary listing\" is when a company already listed in one market lists its shares in a second one too, which is what these mainland firms are doing by adding a Hong Kong listing. More big listings means a lot of high-value legal work flowing into the city.","clients":["Mainland companies reach global money. Listing in Hong Kong lets them raise funds from international investors in a currency that is easy to use worldwide.","They face two rulebooks at once. They must satisfy both the mainland regulator and the Hong Kong exchange, so they need lawyers who understand both systems.","Accuracy is everything. An IPO involves huge amounts of disclosure, and one mistake can sink the deal — so they lean heavily on their advisers."],"lawFirms":["IPOs are among the biggest money-makers for firms. One large listing means months of work and big teams, so a busy pipeline directly boosts revenue.","Cross-border skill decides who wins. Firms with real teams in Hong Kong and mainland China — and Mandarin-speaking lawyers — land the largest deals.","It drives trainee hiring. IPO work needs lots of junior lawyers, so a full pipeline means more trainees. Good news if you are applying."],"sources":[{"title":"Fortune — Hong Kong tops global IPO charts (Dec 2025)","url":"https://fortune.com/2025/12/23/hong-kong-tops-global-ipo-charts-for-the-first-time-since-2019-for-total-funds-raised-overtaking-new-yorks-stock-exchanges/"},{"title":"CNBC — CATL's record Hong Kong debut","url":"https://www.cnbc.com/2025/05/20/china-catl-hongkong-debut.html"}]},{"id":"2026-W25-004","headline":"Hong Kong Court Freezes Stolen Crypto and Serves the Scammers by NFT","week":"2026-W25","weekLabel":"9–15 Jun 2026","date":"2026-06-11","region":"HK","practiceAreas":["Disputes / Litigation","FinTech / TMT"],"whatsTheNews":"A Hong Kong company, Worldwide A-Plus, lost about US$2.66 million worth of the stablecoin Tether (USDT) to fraudsters. The High Court granted a worldwide order freezing the stolen assets and — in what may be a world first — ordered the funds moved into a secure \"escrow\" wallet. Because the scammers were anonymous, the court let the legal papers be delivered straight to their blockchain wallets, including by airdropping an NFT containing a link to the court documents.","whatItMeans":"A \"freezing order\" is a court order that stops someone moving or hiding their money while a case runs, and \"worldwide\" means it covers their assets in any country, not just Hong Kong. \"Escrow\" means holding the money in a safe, neutral place until the court decides who gets it. Serving documents to a digital wallet is a workaround for when you cannot identify or physically find the thief. Together it shows Hong Kong courts will use creative, modern tools to fight digital fraud.","clients":["Fraud victims get real protection. The court can freeze stolen digital money before the thief hides it, giving victims a genuine chance of getting it back.","Crypto businesses feel safer here. Treating digital coins as assets the court will protect makes Hong Kong a more trusted place to operate.","They need specialist help fast. Recovering crypto is technical and urgent, so victims pay for litigators who understand court orders and how to trace money on the blockchain."],"lawFirms":["A fast-growing type of court work. Crypto disputes keep rising, so litigation teams that handle them stay busy.","It needs teamwork with tech experts. Lawyers work with blockchain investigators to trace the money, which makes the work high-value.","It pulls international work to Hong Kong. Because courts grant these creative orders, more overseas clients bring their disputes here — meaning more work for HK firms."],"sources":[{"title":"SCMP — court order sent to crypto wallets, setting new precedent","url":"https://www.scmp.com/news/hong-kong/law-and-crime/article/3296250/hong-kong-court-order-sent-cryptocurrency-wallets-setting-new-precedent"},{"title":"Hong Kong Lawyer — Hong Kong's tokenised injunction","url":"https://www.hk-lawyer.org/content/legal-innovation-crypto-disputes-hong-kong%E2%80%99s-tokenised-injunction-and-global-evolution"}]}]};
+const FALLBACK={"generatedAt":"2026-06-22","items":[{"id":"2026-W26-001","headline":"HKEX Lets Companies Keep Their Bought-Back Shares Instead of Cancelling Them","week":"2026-W26","weekLabel":"16–22 Jun 2026","date":"2026-06-18","region":"HK","practiceAreas":["Capital Markets","Corporate / M&A"],"whatsTheNews":"Hong Kong's stock exchange (HKEX) has scrapped its old rule that forced companies to cancel any shares they bought back. Listed companies can now keep those repurchased shares in reserve as \"treasury shares\" and resell them into the market later. The change took effect for most listed companies in June 2024, and for Hong Kong-incorporated companies in April 2025. Resales come with guardrails, including a 30-day pause after a buyback and a cap on the discount they can offer.","whatItMeans":"A share buyback is when a company uses its own cash to buy its shares back off the stock market. Until now, Hong Kong forced companies to cancel those shares, so they disappeared for good. Treasury shares are bought-back shares the company keeps in reserve instead of cancelling. Think of it as putting them in a drawer to reuse later, which gives companies a flexible pool of their own shares they can sell again whenever they need cash.","clients":["Raising cash gets easier. If a company needs money, it can resell shares it already owns instead of going through the slow, expensive process of issuing new shares. That saves it time and legal fees.","It helps them pay staff in shares. Many companies reward senior employees with shares, and now they can hand over ones they already hold rather than printing new ones.","But there are traps. Selling shares back into the market can lower the value of everyone else's shares (called dilution), and there are strict rules on when and how to do it, so they need a lawyer."],"lawFirms":["It creates steady, repeat work. Every buyback or resale needs lawyers to draft documents and check the rules, so the capital markets team gets a reliable flow of billable work.","It rewards firms strong in equity work. Firms with big equity capital markets teams are the natural first call, so being good at this wins the whole client relationship.","More work means more hiring. A busy team needs juniors and trainees to handle the paperwork, which is exactly the kind of seat a vacation scheme student could sit in."],"sources":[{"title":"Morgan Lewis on the HKEX treasury share rule changes (effective 11 June 2024)","url":"https://www.morganlewis.com/pubs/2024/04/hkex-changes-to-treasury-share-listing-rules-effective-11-june-2024"},{"title":"HKEX Listing Rules: repurchases and treasury shares","url":"https://en-rules.hkex.com.hk/rulebook/9-repurchase-securities-and-treasury-shares"}]},{"id":"2026-W26-002","headline":"Hong Kong's Stablecoin Law Means You Now Need a Licence to Issue Digital Coins","week":"2026-W26","weekLabel":"16–22 Jun 2026","date":"2026-06-19","region":"HK","practiceAreas":["Financial Regulatory","FinTech / TMT"],"whatsTheNews":"Hong Kong's Stablecoins Ordinance now requires anyone issuing a fiat-backed stablecoin to hold a licence from the Hong Kong Monetary Authority (HKMA). The regime took effect on 1 August 2025. Issuers must keep enough high-quality reserves to back every coin in full, let holders cash out at face value within one business day, and meet strict anti-money-laundering rules. The HKMA has signalled it will grant only a small number of licences at the start.","whatItMeans":"A stablecoin is a kind of digital money designed to always be worth the same as a real currency. For example, one coin always equals one US dollar. The HKMA is essentially Hong Kong's central bank, the body that oversees money and banking. Backing coins with reserves means an issuer must hold enough real, safe assets to repay everyone who owns a coin. This makes Hong Kong one of the first places in the world with clear rules for this type of digital money.","clients":["Companies finally know the rules. Before, firms were nervous about launching digital coins because the law was unclear. Now there is a clear path, so more will try, and they need lawyers to apply.","The requirements are tough. Each company must prove it holds enough reserve money and has strong anti-fraud systems, so they need legal and compliance help to get it right.","Mistakes are costly. Operating without a licence, or breaking the rules, can lead to heavy penalties, so clients will happily pay for advice to stay safe."],"lawFirms":["A brand-new area of law just opened. It sits between banking, payments, and crypto, so firms can build a fresh practice and win clients who have nowhere else to turn yet.","The work keeps coming. Once licensed, a client needs ongoing advice to stay compliant, so the income keeps flowing rather than ending after one job.","Early movers win big. Firms that learn this first become the go-to experts, and that reputation pulls in the biggest clients and the most interesting work for juniors."],"sources":[{"title":"HKMA on the implementation of the stablecoin regime (press release, 29 Jul 2025)","url":"https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-4/"},{"title":"HKMA: regulatory regime for stablecoin issuers","url":"https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/"}]},{"id":"2026-W26-003","headline":"Mainland Giants Power Hong Kong to the World's Top IPO Market","week":"2026-W26","weekLabel":"16–22 Jun 2026","date":"2026-06-20","region":"HK","practiceAreas":["Capital Markets","China / Cross-border"],"whatsTheNews":"Hong Kong's market for new share listings has roared back, driven by big mainland Chinese companies. In the first half of 2025, HKEX hosted 42 main-board IPOs raising about HK$107 billion, more than all of 2024 combined, and ranked first in the world for IPO fundraising. The battery giant CATL led the way with a HK$35.7 billion listing, the largest global IPO of the year. Much of the momentum came from mainland firms already listed at home seeking a second listing in Hong Kong.","whatItMeans":"An IPO (\"initial public offering\") is when a private company sells its shares to the public for the first time and becomes listed on a stock exchange. Companies do this to raise large amounts of money. A secondary listing is when a company already listed in one market lists its shares in a second one too, which is what these mainland firms are doing by adding a Hong Kong listing. More big listings means a lot of high-value legal work flowing into the city.","clients":["Mainland companies reach global money. Listing in Hong Kong lets them raise funds from international investors in a currency that is easy to use worldwide.","They face two rulebooks at once. They must satisfy both the mainland regulator and the Hong Kong exchange, so they need lawyers who understand both systems.","Accuracy is everything. An IPO involves huge amounts of disclosure, and one mistake can sink the deal, so they lean heavily on their advisers."],"lawFirms":["IPOs are among the biggest money-makers for firms. One large listing means months of work and big teams, so a busy pipeline directly boosts revenue.","Cross-border skill decides who wins. Firms with real teams in Hong Kong and mainland China, plus Mandarin-speaking lawyers, land the largest deals.","It drives trainee hiring. IPO work needs lots of junior lawyers, so a full pipeline means more trainees. Good news if you are applying."],"sources":[{"title":"Fortune: Hong Kong tops global IPO charts (Dec 2025)","url":"https://fortune.com/2025/12/23/hong-kong-tops-global-ipo-charts-for-the-first-time-since-2019-for-total-funds-raised-overtaking-new-yorks-stock-exchanges/"},{"title":"CNBC: CATL's record Hong Kong debut","url":"https://www.cnbc.com/2025/05/20/china-catl-hongkong-debut.html"}]},{"id":"2026-W25-004","headline":"Hong Kong Court Freezes Stolen Crypto and Serves the Scammers by NFT","week":"2026-W25","weekLabel":"9–15 Jun 2026","date":"2026-06-11","region":"HK","practiceAreas":["Disputes / Litigation","FinTech / TMT"],"whatsTheNews":"A Hong Kong company, Worldwide A-Plus, lost about US$2.66 million worth of the stablecoin Tether (USDT) to fraudsters. The High Court granted a worldwide order freezing the stolen assets and, in what may be a world first, ordered the funds moved into a secure escrow wallet. Because the scammers were anonymous, the court let the legal papers be delivered straight to their blockchain wallets, including by airdropping an NFT containing a link to the court documents.","whatItMeans":"A freezing order is a court order that stops someone moving or hiding their money while a case runs, and worldwide means it covers their assets in any country, not just Hong Kong. Escrow means holding the money in a safe, neutral place until the court decides who gets it. Serving documents to a digital wallet is a workaround for when you cannot identify or physically find the thief. Together it shows Hong Kong courts will use creative, modern tools to fight digital fraud.","clients":["Fraud victims get real protection. The court can freeze stolen digital money before the thief hides it, giving victims a genuine chance of getting it back.","Crypto businesses feel safer here. Treating digital coins as assets the court will protect makes Hong Kong a more trusted place to operate.","They need specialist help fast. Recovering crypto is technical and urgent, so victims pay for litigators who understand court orders and how to trace money on the blockchain."],"lawFirms":["A fast-growing type of court work. Crypto disputes keep rising, so litigation teams that handle them stay busy.","It needs teamwork with tech experts. Lawyers work with blockchain investigators to trace the money, which makes the work high-value.","It pulls international work to Hong Kong. Because courts grant these creative orders, more overseas clients bring their disputes here, which means more work for HK firms."],"sources":[{"title":"SCMP: court order sent to crypto wallets, setting new precedent","url":"https://www.scmp.com/news/hong-kong/law-and-crime/article/3296250/hong-kong-court-order-sent-cryptocurrency-wallets-setting-new-precedent"},{"title":"Hong Kong Lawyer on Hong Kong's tokenised injunction","url":"https://www.hk-lawyer.org/content/legal-innovation-crypto-disputes-hong-kong%E2%80%99s-tokenised-injunction-and-global-evolution"}]}]};
 
 let DATA=[], activeWeek="latest", activeArea="all", io=null;
-
 const uniq=a=>[...new Set(a)];
 function esc(s){return(s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
-function monthOf(d){ // "2026-06-18" -> "Jun 2026"
-  const m=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-  const p=(d||'').split('-'); if(p.length<2)return 'Other';
-  return m[parseInt(p[1],10)-1]+' '+p[0];
-}
+function monthOf(d){const m=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  const p=(d||'').split('-');if(p.length<2)return'Other';return m[parseInt(p[1],10)-1]+' '+p[0];}
+
+/* split the masthead title into animated words */
+(function splitTitle(){
+  const el=document.getElementById('mastTitle');if(!el)return;
+  const words=el.textContent.trim().split(/\s+/);
+  el.innerHTML=words.map((w,i)=>`<span class="w"><i style="animation-delay:${0.15+i*0.09}s">${esc(w)}</i></span>`).join(' ');
+})();
 
 function buildWeekSelect(){
   const sel=document.getElementById('weekSel');
   const weeks=uniq(DATA.map(d=>d.week)).sort().reverse();
   const labelOf={},monthOfWeek={};
   DATA.forEach(d=>{labelOf[d.week]=d.weekLabel||d.week;monthOfWeek[d.week]=monthOf(d.date);});
-  // group weeks by month, newest first
-  const groups={}; weeks.forEach(w=>{(groups[monthOfWeek[w]]=groups[monthOfWeek[w]]||[]).push(w);});
+  const groups={};weeks.forEach(w=>{(groups[monthOfWeek[w]]=groups[monthOfWeek[w]]||[]).push(w);});
   let html=`<option value="latest">Latest week</option><option value="all">All weeks</option>`;
-  Object.keys(groups).forEach(mon=>{
-    html+=`<optgroup label="${esc(mon)}">`;
-    groups[mon].forEach(w=>{html+=`<option value="${esc(w)}">${esc(labelOf[w])}</option>`;});
-    html+=`</optgroup>`;
-  });
-  sel.innerHTML=html;
-  sel.value=activeWeek;
+  Object.keys(groups).forEach(mon=>{html+=`<optgroup label="${esc(mon)}">`;
+    groups[mon].forEach(w=>{html+=`<option value="${esc(w)}">${esc(labelOf[w])}</option>`;});html+=`</optgroup>`;});
+  sel.innerHTML=html;sel.value=activeWeek;
   sel.onchange=()=>{activeWeek=sel.value;render();};
 }
-
 function buildAreaPills(){
   const areas=uniq(DATA.flatMap(d=>d.practiceAreas||[])).sort();
-  const ap=document.getElementById('areaPills'); ap.innerHTML='';
-  const mk=(t,v)=>{const b=document.createElement('button');
-    b.className='pill'+(activeArea===v?' active':'');b.textContent=t;
-    b.onclick=()=>{activeArea=v;render();};return b;};
-  ap.appendChild(mk('All areas','all'));
-  areas.forEach(a=>ap.appendChild(mk(a,a)));
+  const ap=document.getElementById('areaPills');ap.innerHTML='';
+  const mk=(t,v)=>{const b=document.createElement('button');b.className='pill'+(activeArea===v?' active':'');
+    b.textContent=t;b.onclick=()=>{activeArea=v;render();};return b;};
+  ap.appendChild(mk('All areas','all'));areas.forEach(a=>ap.appendChild(mk(a,a)));
 }
-
 function latestWeek(){return uniq(DATA.map(d=>d.week)).sort().reverse()[0];}
 
 function render(){
-  buildWeekSelect(); buildAreaPills();
+  buildWeekSelect();buildAreaPills();
   let items=DATA.slice();
-  const wk = activeWeek==='latest' ? latestWeek() : activeWeek;
-  if(activeWeek!=='all') items=items.filter(d=>d.week===wk);
-  if(activeArea!=='all') items=items.filter(d=>(d.practiceAreas||[]).includes(activeArea));
+  const wk=activeWeek==='latest'?latestWeek():activeWeek;
+  if(activeWeek!=='all')items=items.filter(d=>d.week===wk);
+  if(activeArea!=='all')items=items.filter(d=>(d.practiceAreas||[]).includes(activeArea));
   items.sort((a,b)=>(b.date||'').localeCompare(a.date||''));
-
-  const meta=document.getElementById('resultMeta');
-  const wkLabel = items[0]?items[0].weekLabel:'';
-  meta.textContent = items.length+(items.length===1?' story':' stories')
-    +(activeArea==='all'?'':' · '+activeArea)
-    +(activeWeek==='all'?' · all weeks':(wkLabel?' · week of '+wkLabel:''));
-
+  const wkLabel=items[0]?items[0].weekLabel:'';
+  document.getElementById('resultMeta').textContent=items.length+(items.length===1?' story':' stories')
+    +(activeArea==='all'?'':' · '+activeArea)+(activeWeek==='all'?' · all weeks':(wkLabel?' · week of '+wkLabel:''));
   const m=document.getElementById('stories');
   if(!items.length){m.innerHTML='<div class="empty">Nothing here yet for this filter.</div>';return;}
   m.innerHTML=items.map(storyHTML).join('');
   revealStories();
 }
-
-function bullets(arr){
-  if(!arr)return'';
-  const list=Array.isArray(arr)?arr:[arr];
-  return '<ul class="points">'+list.map(x=>`<li>${esc(x)}</li>`).join('')+'</ul>';
-}
-
+function bullets(arr){if(!arr)return'';const list=Array.isArray(arr)?arr:[arr];
+  return'<ul class="points">'+list.map(x=>`<li>${esc(x)}</li>`).join('')+'</ul>';}
 function storyHTML(d){
   const tags=[`<span class="tag region">${esc(d.region||'')}</span>`,
     ...(d.practiceAreas||[]).map(a=>`<span class="tag">${esc(a)}</span>`),
     `<span class="tag week">${esc(d.weekLabel||d.week||'')}</span>`].join('');
   const src=(d.sources&&d.sources.length)
-    ? `<div class="sources"><span class="slabel">Read the full story</span>`+
-      d.sources.map(s=>`<a class="srclink" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}<span class="arr">→</span></a>`).join('')+`</div>`
-    : '';
+    ?`<div class="sources"><span class="slabel">Read the full story</span>`+
+     d.sources.map(s=>`<a class="srclink" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}<span class="arr">→</span></a>`).join('')+`</div>`:'';
   return `<article class="story">
     <div class="tags">${tags}</div>
     <h2>${esc(d.headline)}</h2>
@@ -262,31 +240,22 @@ function storyHTML(d){
     ${src}
   </article>`;
 }
-
 function revealStories(){
   const cards=document.querySelectorAll('.story');
   if(io)io.disconnect();
-  io=new IntersectionObserver((entries)=>{
-    entries.forEach((e,i)=>{ if(e.isIntersecting){
-      const el=e.target; const idx=[...cards].indexOf(el);
-      el.style.transitionDelay=Math.min(idx,4)*70+'ms';
-      el.classList.add('in'); io.unobserve(el);
-    }});
-  },{threshold:.08,rootMargin:'0px 0px -40px 0px'});
+  io=new IntersectionObserver((entries)=>{entries.forEach(e=>{if(e.isIntersecting){
+    const el=e.target;const idx=[...cards].indexOf(el);
+    el.style.transitionDelay=Math.min(idx,6)*60+'ms';el.classList.add('in');io.unobserve(el);}});},
+    {threshold:.06,rootMargin:'0px 0px -30px 0px'});
   cards.forEach(c=>io.observe(c));
 }
-
-// sticky filter shadow
-const fb=document.getElementById('filterBar');
-new IntersectionObserver(([e])=>{fb.classList.toggle('stuck',!e.isIntersecting);},
+new IntersectionObserver(([e])=>{document.getElementById('filterBar').classList.toggle('stuck',!e.isIntersecting);},
   {threshold:1}).observe(document.querySelector('header.mast'));
 
 (async function init(){
-  try{
-    const r=await fetch(PUBLISHED_URL,{cache:'no-store'});
-    if(!r.ok)throw 0; const j=await r.json();
-    DATA=j.items||[]; if(!DATA.length)throw 0;
-  }catch(e){ DATA=FALLBACK.items; }
+  try{const r=await fetch(PUBLISHED_URL,{cache:'no-store'});if(!r.ok)throw 0;
+    const j=await r.json();DATA=j.items||[];if(!DATA.length)throw 0;}
+  catch(e){DATA=FALLBACK.items;}
   render();
 })();
 </script>

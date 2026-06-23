@@ -2,7 +2,7 @@
   "linkQueue": [
     {
       "url": "https://www.slaughterandmay.com/insights/new-insights/priorities-in-focus-10-years-of-competition-law-in-hong-kong/",
-      "note": "Competition law 10-year review — maybe a piece on what students should know about HK competition enforcement",
+      "note": "Competition law 10-year review. Maybe a piece on what students should know about HK competition enforcement.",
       "status": "queued",
       "addedAt": "2026-06-22"
     }
@@ -17,21 +17,21 @@
       "date": "2026-06-18",
       "region": "HK",
       "practiceAreas": ["Capital Markets", "Corporate / M&A"],
-      "whatsTheNews": "Hong Kong's stock exchange (HKEX) has scrapped its old rule that forced companies to cancel any shares they bought back. Listed companies can now keep those repurchased shares in reserve as \"treasury shares\" and resell them into the market later. The change took effect for most listed companies in June 2024, with Hong Kong-incorporated companies following in April 2025. Resales come with guardrails, including a 30-day pause after a buyback and a cap on the discount they can offer.",
-      "whatItMeans": "A share buyback is when a company uses its own cash to buy its shares back off the stock market. Until now, Hong Kong forced companies to cancel those shares, so they disappeared for good. \"Treasury shares\" are bought-back shares the company keeps in reserve instead of cancelling — think of it as putting them in a drawer to reuse later. The change hands companies a flexible pool of their own shares they can sell again whenever they need cash.",
+      "whatsTheNews": "Hong Kong's stock exchange (HKEX) has scrapped its old rule that forced companies to cancel any shares they bought back. Listed companies can now keep those repurchased shares in reserve as \"treasury shares\" and resell them into the market later. The change took effect for most listed companies in June 2024, and for Hong Kong-incorporated companies in April 2025. Resales come with guardrails, including a 30-day pause after a buyback and a cap on the discount they can offer.",
+      "whatItMeans": "A share buyback is when a company uses its own cash to buy its shares back off the stock market. Until now, Hong Kong forced companies to cancel those shares, so they disappeared for good. Treasury shares are bought-back shares the company keeps in reserve instead of cancelling. Think of it as putting them in a drawer to reuse later, which gives companies a flexible pool of their own shares they can sell again whenever they need cash.",
       "clients": [
         "Raising cash gets easier. If a company needs money, it can resell shares it already owns instead of going through the slow, expensive process of issuing new shares. That saves it time and legal fees.",
-        "It helps them pay staff in shares. Many companies reward senior employees with shares; now they can hand over ones they already hold rather than printing new ones.",
-        "But there are traps. Selling shares back into the market can lower the value of everyone else's shares (called dilution), and there are strict rules on when and how to do it — so they need a lawyer."
+        "It helps them pay staff in shares. Many companies reward senior employees with shares, and now they can hand over ones they already hold rather than printing new ones.",
+        "But there are traps. Selling shares back into the market can lower the value of everyone else's shares (called dilution), and there are strict rules on when and how to do it, so they need a lawyer."
       ],
       "lawFirms": [
         "It creates steady, repeat work. Every buyback or resale needs lawyers to draft documents and check the rules, so the capital markets team gets a reliable flow of billable work.",
-        "It rewards firms strong in equity work. Firms with big \"equity capital markets\" teams are the natural first call, so being good at this wins the whole client relationship.",
-        "More work means more hiring. A busy team needs juniors and trainees to handle the paperwork — exactly the kind of seat a vacation scheme student could sit in."
+        "It rewards firms strong in equity work. Firms with big equity capital markets teams are the natural first call, so being good at this wins the whole client relationship.",
+        "More work means more hiring. A busy team needs juniors and trainees to handle the paperwork, which is exactly the kind of seat a vacation scheme student could sit in."
       ],
       "sources": [
-        {"title": "Morgan Lewis — HKEX treasury share rule changes (effective 11 June 2024)", "url": "https://www.morganlewis.com/pubs/2024/04/hkex-changes-to-treasury-share-listing-rules-effective-11-june-2024"},
-        {"title": "HKEX Listing Rules — repurchases & treasury shares", "url": "https://en-rules.hkex.com.hk/rulebook/9-repurchase-securities-and-treasury-shares"}
+        {"title": "Morgan Lewis on the HKEX treasury share rule changes (effective 11 June 2024)", "url": "https://www.morganlewis.com/pubs/2024/04/hkex-changes-to-treasury-share-listing-rules-effective-11-june-2024"},
+        {"title": "HKEX Listing Rules: repurchases and treasury shares", "url": "https://en-rules.hkex.com.hk/rulebook/9-repurchase-securities-and-treasury-shares"}
       ]
     },
     {
@@ -44,20 +44,20 @@
       "region": "HK",
       "practiceAreas": ["Financial Regulatory", "FinTech / TMT"],
       "whatsTheNews": "Hong Kong's Stablecoins Ordinance now requires anyone issuing a fiat-backed stablecoin to hold a licence from the Hong Kong Monetary Authority (HKMA). The regime took effect on 1 August 2025. Issuers must keep enough high-quality reserves to back every coin in full, let holders cash out at face value within one business day, and meet strict anti-money-laundering rules. The HKMA has signalled it will grant only a small number of licences at the start.",
-      "whatItMeans": "A stablecoin is a kind of digital money designed to always be worth the same as a real currency — for example, one coin always equals one US dollar. The HKMA is essentially Hong Kong's central bank, the body that oversees money and banking. \"Backing coins with reserves\" means an issuer must hold enough real, safe assets to repay everyone who owns a coin. This makes Hong Kong one of the first places in the world with clear rules for this type of digital money.",
+      "whatItMeans": "A stablecoin is a kind of digital money designed to always be worth the same as a real currency. For example, one coin always equals one US dollar. The HKMA is essentially Hong Kong's central bank, the body that oversees money and banking. Backing coins with reserves means an issuer must hold enough real, safe assets to repay everyone who owns a coin. This makes Hong Kong one of the first places in the world with clear rules for this type of digital money.",
       "clients": [
-        "Companies finally know the rules. Before, firms were nervous about launching digital coins because the law was unclear. Now there is a clear path, so more will try — and they need lawyers to apply.",
+        "Companies finally know the rules. Before, firms were nervous about launching digital coins because the law was unclear. Now there is a clear path, so more will try, and they need lawyers to apply.",
         "The requirements are tough. Each company must prove it holds enough reserve money and has strong anti-fraud systems, so they need legal and compliance help to get it right.",
-        "Mistakes are costly. Operating without a licence, or breaking the rules, can lead to heavy penalties — so clients will happily pay for advice to stay safe."
+        "Mistakes are costly. Operating without a licence, or breaking the rules, can lead to heavy penalties, so clients will happily pay for advice to stay safe."
       ],
       "lawFirms": [
-        "A brand-new area of law just opened. It sits between banking, payments, and crypto, so firms can build a fresh practice and win clients with nowhere else to turn yet.",
-        "The work keeps coming. Once licensed, a client needs ongoing advice to stay compliant — long-term income, not a one-off job.",
+        "A brand-new area of law just opened. It sits between banking, payments, and crypto, so firms can build a fresh practice and win clients who have nowhere else to turn yet.",
+        "The work keeps coming. Once licensed, a client needs ongoing advice to stay compliant, so the income keeps flowing rather than ending after one job.",
         "Early movers win big. Firms that learn this first become the go-to experts, and that reputation pulls in the biggest clients and the most interesting work for juniors."
       ],
       "sources": [
-        {"title": "HKMA — implementation of the stablecoin regime (press release, 29 Jul 2025)", "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-4/"},
-        {"title": "HKMA — regulatory regime for stablecoin issuers", "url": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/"}
+        {"title": "HKMA on the implementation of the stablecoin regime (press release, 29 Jul 2025)", "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-4/"},
+        {"title": "HKMA: regulatory regime for stablecoin issuers", "url": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/"}
       ]
     },
     {
@@ -69,21 +69,21 @@
       "date": "2026-06-20",
       "region": "HK",
       "practiceAreas": ["Capital Markets", "China / Cross-border"],
-      "whatsTheNews": "Hong Kong's market for new share listings has roared back, driven by big mainland Chinese companies. In the first half of 2025, HKEX hosted 42 main-board IPOs raising about HK$107 billion — more than all of 2024 combined — and ranked first in the world for IPO fundraising. The battery giant CATL led the way with a HK$35.7 billion listing, the largest global IPO of the year. Much of the momentum came from mainland firms already listed at home seeking a second listing in Hong Kong.",
-      "whatItMeans": "An IPO (\"initial public offering\") is when a private company sells its shares to the public for the first time and becomes listed on a stock exchange — companies do this to raise large amounts of money. A \"secondary listing\" is when a company already listed in one market lists its shares in a second one too, which is what these mainland firms are doing by adding a Hong Kong listing. More big listings means a lot of high-value legal work flowing into the city.",
+      "whatsTheNews": "Hong Kong's market for new share listings has roared back, driven by big mainland Chinese companies. In the first half of 2025, HKEX hosted 42 main-board IPOs raising about HK$107 billion, more than all of 2024 combined, and ranked first in the world for IPO fundraising. The battery giant CATL led the way with a HK$35.7 billion listing, the largest global IPO of the year. Much of the momentum came from mainland firms already listed at home seeking a second listing in Hong Kong.",
+      "whatItMeans": "An IPO (\"initial public offering\") is when a private company sells its shares to the public for the first time and becomes listed on a stock exchange. Companies do this to raise large amounts of money. A secondary listing is when a company already listed in one market lists its shares in a second one too, which is what these mainland firms are doing by adding a Hong Kong listing. More big listings means a lot of high-value legal work flowing into the city.",
       "clients": [
         "Mainland companies reach global money. Listing in Hong Kong lets them raise funds from international investors in a currency that is easy to use worldwide.",
         "They face two rulebooks at once. They must satisfy both the mainland regulator and the Hong Kong exchange, so they need lawyers who understand both systems.",
-        "Accuracy is everything. An IPO involves huge amounts of disclosure, and one mistake can sink the deal — so they lean heavily on their advisers."
+        "Accuracy is everything. An IPO involves huge amounts of disclosure, and one mistake can sink the deal, so they lean heavily on their advisers."
       ],
       "lawFirms": [
         "IPOs are among the biggest money-makers for firms. One large listing means months of work and big teams, so a busy pipeline directly boosts revenue.",
-        "Cross-border skill decides who wins. Firms with real teams in Hong Kong and mainland China — and Mandarin-speaking lawyers — land the largest deals.",
+        "Cross-border skill decides who wins. Firms with real teams in Hong Kong and mainland China, plus Mandarin-speaking lawyers, land the largest deals.",
         "It drives trainee hiring. IPO work needs lots of junior lawyers, so a full pipeline means more trainees. Good news if you are applying."
       ],
       "sources": [
-        {"title": "Fortune — Hong Kong tops global IPO charts (Dec 2025)", "url": "https://fortune.com/2025/12/23/hong-kong-tops-global-ipo-charts-for-the-first-time-since-2019-for-total-funds-raised-overtaking-new-yorks-stock-exchanges/"},
-        {"title": "CNBC — CATL's record Hong Kong debut", "url": "https://www.cnbc.com/2025/05/20/china-catl-hongkong-debut.html"}
+        {"title": "Fortune: Hong Kong tops global IPO charts (Dec 2025)", "url": "https://fortune.com/2025/12/23/hong-kong-tops-global-ipo-charts-for-the-first-time-since-2019-for-total-funds-raised-overtaking-new-yorks-stock-exchanges/"},
+        {"title": "CNBC: CATL's record Hong Kong debut", "url": "https://www.cnbc.com/2025/05/20/china-catl-hongkong-debut.html"}
       ]
     },
     {
@@ -95,8 +95,8 @@
       "date": "2026-06-11",
       "region": "HK",
       "practiceAreas": ["Disputes / Litigation", "FinTech / TMT"],
-      "whatsTheNews": "A Hong Kong company, Worldwide A-Plus, lost about US$2.66 million worth of the stablecoin Tether (USDT) to fraudsters. The High Court granted a worldwide order freezing the stolen assets and — in what may be a world first — ordered the funds moved into a secure \"escrow\" wallet. Because the scammers were anonymous, the court let the legal papers be delivered straight to their blockchain wallets, including by airdropping an NFT containing a link to the court documents.",
-      "whatItMeans": "A \"freezing order\" is a court order that stops someone moving or hiding their money while a case runs, and \"worldwide\" means it covers their assets in any country, not just Hong Kong. \"Escrow\" means holding the money in a safe, neutral place until the court decides who gets it. Serving documents to a digital wallet is a workaround for when you cannot identify or physically find the thief. Together it shows Hong Kong courts will use creative, modern tools to fight digital fraud.",
+      "whatsTheNews": "A Hong Kong company, Worldwide A-Plus, lost about US$2.66 million worth of the stablecoin Tether (USDT) to fraudsters. The High Court granted a worldwide order freezing the stolen assets and, in what may be a world first, ordered the funds moved into a secure escrow wallet. Because the scammers were anonymous, the court let the legal papers be delivered straight to their blockchain wallets, including by airdropping an NFT containing a link to the court documents.",
+      "whatItMeans": "A freezing order is a court order that stops someone moving or hiding their money while a case runs, and worldwide means it covers their assets in any country, not just Hong Kong. Escrow means holding the money in a safe, neutral place until the court decides who gets it. Serving documents to a digital wallet is a workaround for when you cannot identify or physically find the thief. Together it shows Hong Kong courts will use creative, modern tools to fight digital fraud.",
       "clients": [
         "Fraud victims get real protection. The court can freeze stolen digital money before the thief hides it, giving victims a genuine chance of getting it back.",
         "Crypto businesses feel safer here. Treating digital coins as assets the court will protect makes Hong Kong a more trusted place to operate.",
@@ -105,11 +105,11 @@
       "lawFirms": [
         "A fast-growing type of court work. Crypto disputes keep rising, so litigation teams that handle them stay busy.",
         "It needs teamwork with tech experts. Lawyers work with blockchain investigators to trace the money, which makes the work high-value.",
-        "It pulls international work to Hong Kong. Because courts grant these creative orders, more overseas clients bring their disputes here — meaning more work for HK firms."
+        "It pulls international work to Hong Kong. Because courts grant these creative orders, more overseas clients bring their disputes here, which means more work for HK firms."
       ],
       "sources": [
-        {"title": "SCMP — court order sent to crypto wallets, setting new precedent", "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3296250/hong-kong-court-order-sent-cryptocurrency-wallets-setting-new-precedent"},
-        {"title": "Hong Kong Lawyer — Hong Kong's tokenised injunction", "url": "https://www.hk-lawyer.org/content/legal-innovation-crypto-disputes-hong-kong%E2%80%99s-tokenised-injunction-and-global-evolution"}
+        {"title": "SCMP: court order sent to crypto wallets, setting new precedent", "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3296250/hong-kong-court-order-sent-cryptocurrency-wallets-setting-new-precedent"},
+        {"title": "Hong Kong Lawyer on Hong Kong's tokenised injunction", "url": "https://www.hk-lawyer.org/content/legal-innovation-crypto-disputes-hong-kong%E2%80%99s-tokenised-injunction-and-global-evolution"}
       ]
     },
     {
@@ -121,21 +121,21 @@
       "date": "2026-05-28",
       "region": "HK",
       "practiceAreas": ["Disputes / Litigation", "China / Cross-border"],
-      "whatsTheNews": "Hong Kong's Judiciary announced on 28 May 2026 that it will create a Hong Kong International Commercial Court (HKICC) to handle large, complex international business disputes. It will be a specialist division of the High Court, staffed by experienced commercial judges, with the option to invite senior judges from other common-law countries. A dedicated floor of the High Court will lean heavily on technology — remote hearings, electronic filing, and voice-to-text transcription. The Judiciary aims to have it running within the coming year.",
-      "whatItMeans": "A \"commercial dispute\" is a legal fight between businesses, usually over contracts, money, or deals. \"Cross-border\" means the parties or the deal involve more than one place — say a mainland Chinese company and a European one. A \"specialist division\" is a dedicated part of the court that handles only one kind of case, so the judges build deep expertise. Judgments from this court can also be recognised and enforced in mainland China under existing arrangements, so winning a case here actually carries weight across the border.",
+      "whatsTheNews": "Hong Kong's Judiciary announced on 28 May 2026 that it will create a Hong Kong International Commercial Court (HKICC) to handle large, complex international business disputes. It will be a specialist division of the High Court, staffed by experienced commercial judges, with the option to invite senior judges from other common-law countries. A dedicated floor of the High Court will lean heavily on technology, including remote hearings, electronic filing, and voice-to-text transcription. The Judiciary aims to have it running within the coming year.",
+      "whatItMeans": "A commercial dispute is a legal fight between businesses, usually over contracts, money, or deals. Cross-border means the parties or the deal involve more than one place. For example, a mainland Chinese company and a European one. A specialist division is a dedicated part of the court that handles only one kind of case, so the judges build deep expertise. Judgments from this court can also be recognised and enforced in mainland China under existing arrangements, so winning a case here actually carries weight across the border.",
       "clients": [
-        "Businesses get a faster, expert venue. Big international disputes are complex, so specialist judges and modern technology mean cases can move more efficiently — which companies value when a lot of money is at stake.",
-        "Cross-border enforcement is the real prize. A judgment is only useful if you can actually collect; because HKICC rulings can be enforced in mainland China, companies have a stronger reason to bring disputes here.",
-        "It gives them another option besides arbitration. Many companies currently settle big disputes through private arbitration; a credible court gives them a fresh route to weigh up, and they will ask lawyers which is better."
+        "Businesses get a faster, expert venue. Big international disputes are complex, so specialist judges and modern technology mean cases can move more efficiently, which companies value when a lot of money is at stake.",
+        "Cross-border enforcement is the real prize. A judgment is only useful if you can actually collect, and because HKICC rulings can be enforced in mainland China, companies have a stronger reason to bring disputes here.",
+        "It gives them another option besides arbitration. Many companies currently settle big disputes through private arbitration, so a credible court gives them a fresh route to weigh up, and they will ask lawyers which is better."
       ],
       "lawFirms": [
-        "It pulls high-value disputes work to Hong Kong. The bigger and more international the cases the city attracts, the more work flows to litigation teams — and these are exactly the meaty, high-fee cases firms want.",
-        "It plays to cross-border strength. Firms with both Hong Kong and mainland China capability are best placed to act, so this rewards the same firms chasing the China–HK market.",
-        "It signals where the growth is. A new court is a long-term bet on Hong Kong as a disputes hub, so students drawn to litigation or arbitration should watch this — the work is set to grow."
+        "It pulls high-value disputes work to Hong Kong. The bigger and more international the cases the city attracts, the more work flows to litigation teams, and these are exactly the high-fee cases firms want.",
+        "It plays to cross-border strength. Firms with both Hong Kong and mainland China capability are best placed to act, so this rewards the same firms chasing the China and Hong Kong market.",
+        "It signals where the growth is. A new court is a long-term bet on Hong Kong as a disputes hub, so students drawn to litigation or arbitration should watch this closely. The work is set to grow."
       ],
       "sources": [
-        {"title": "HK Government — Judiciary announces HKICC initiative (28 May 2026)", "url": "https://www.info.gov.hk/gia/general/202605/28/P2026052800253.htm"},
-        {"title": "SCMP — Hong Kong to set up international commercial court", "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355138/hong-kong-sets-international-commercial-court-tackle-major-cross-border-disputes"}
+        {"title": "HK Government: Judiciary announces the HKICC initiative (28 May 2026)", "url": "https://www.info.gov.hk/gia/general/202605/28/P2026052800253.htm"},
+        {"title": "SCMP: Hong Kong to set up international commercial court", "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355138/hong-kong-sets-international-commercial-court-tackle-major-cross-border-disputes"}
       ]
     },
     {
@@ -148,20 +148,20 @@
       "region": "Global / HK",
       "practiceAreas": ["Tax", "Corporate / M&A"],
       "whatsTheNews": "Hong Kong has brought in a new law making the world's largest companies pay a minimum tax rate of 15%. The Inland Revenue (Amendment) Ordinance was enacted on 6 June 2025 and applies from the start of 2025. It targets multinational groups with annual revenue of at least €750 million. Groups based in low-tax Hong Kong that were paying below 15% now face a \"top-up\" charge to reach that floor.",
-      "whatItMeans": "The global minimum tax is a worldwide agreement to make big multinational companies pay at least 15% tax, no matter where they are based. It was designed to stop companies shifting their profits into very low-tax places just to avoid paying. A \"top-up tax\" is the extra amount charged to lift a company's rate up to 15% if it was paying less. Hong Kong has traditionally low taxes, so this hits big groups headquartered here directly.",
+      "whatItMeans": "The global minimum tax is a worldwide agreement to make big multinational companies pay at least 15% tax, no matter where they are based. It was designed to stop companies shifting their profits into very low-tax places just to avoid paying. A top-up tax is the extra amount charged to lift a company's rate up to 15% if it was paying less. Hong Kong has traditionally low taxes, so this hits big groups headquartered here directly.",
       "clients": [
-        "Many big companies will pay more. If a company's tax rate was below 15%, it now has to top it up, which directly costs money — so it wants advice on exactly how much it owes.",
+        "Many big companies will pay more. If a company's tax rate was below 15%, it now has to top it up, which directly costs money, so it wants advice on exactly how much it owes.",
         "The paperwork is heavy and new. These rules require detailed reporting companies have never done before, so they need tax lawyers and accountants to handle it.",
         "Some will restructure. Companies may reorganise how they are set up to manage the impact, and that reorganisation needs legal advice."
       ],
       "lawFirms": [
         "Tax teams get a wave of new work. Working out what clients owe, helping them report correctly, and handling disputes all create billable hours.",
         "It rewards firms with global reach. These rules cross borders, so firms that can coordinate across countries are the most useful to clients.",
-        "Disputes will follow. As the rules settle in, companies and tax authorities will argue over the details — giving tax and litigation teams even more work later."
+        "Disputes will follow. As the rules settle in, companies and tax authorities will argue over the details, giving tax and litigation teams even more work later."
       ],
       "sources": [
-        {"title": "IRD — global minimum tax & Hong Kong minimum top-up tax", "url": "https://www.ird.gov.hk/eng/tax/bus_beps.htm"},
-        {"title": "KPMG — HK Pillar Two global minimum tax rules approved", "url": "https://kpmg.com/us/en/taxnewsflash/news/2025/05/tnf-hong-kong-pillar-two-global-minimum-tax-rules-receive-legislative-approval.html"}
+        {"title": "IRD: global minimum tax and Hong Kong minimum top-up tax", "url": "https://www.ird.gov.hk/eng/tax/bus_beps.htm"},
+        {"title": "KPMG: HK Pillar Two global minimum tax rules approved", "url": "https://kpmg.com/us/en/taxnewsflash/news/2025/05/tnf-hong-kong-pillar-two-global-minimum-tax-rules-receive-legislative-approval.html"}
       ]
     }
   ]
