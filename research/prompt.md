@@ -31,8 +31,30 @@ voice and passed through the No-Slop filter.
      which team gets work, why a firm earns more, why a candidate should care.
 6. Add a punchy, commercial headline (a little wordplay is fine; never clickbait).
 7. Tag 1–2 practice areas and a region.
-8. **Sources are mandatory.** Capture at least one real, working link per item that points to
-   the detailed news so a student can click through and read more. Never invent a URL.
+8. **Sources are mandatory and must be the EXACT article.** Capture at least one real, working
+   link per item that points to the specific piece of news — the actual article, press release,
+   judgment, or regulator page about *this* story. Never link to a homepage or a generic section
+   page (not `scmp.com`, not `hkma.gov.hk` — the precise URL of the story). Never invent a URL;
+   if you cannot find the exact link, drop the item.
+
+---
+
+## Processing the link queue (the "add from a link" feature)
+
+The admin panel lets the founder paste article URLs. They are saved to `data/digest.json` under
+`linkQueue` as `{ "url": "...", "note": "...", "status": "queued" }`. When asked to process the
+queue (or as part of the Saturday run):
+
+1. For each entry with `status: "queued"`, fetch the URL (WebFetch) and read the actual article.
+2. Generate a full draft item from it in the exact format below — same voice, same depth, the
+   "What does this mean?" explainer, the bullet sections. Use the **pasted URL itself** as the
+   source link. Respect the `note` if one is given (it steers the angle).
+3. Append the new item to `items` with `status: "pending"`, and set the queue entry's
+   `status` to `"done"`.
+4. If a link cannot be fetched or is not real news, set the entry's `status` to `"failed"` and
+   leave a short reason in its `note`. Never fabricate content for a dead link.
+
+The founder then reviews these pending items in the admin panel like any other draft.
 
 ## Sources to favour
 
