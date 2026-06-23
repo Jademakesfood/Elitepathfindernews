@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Digest Admin — Elite Pathfinder</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --black:#0a0a0a;--grey-dark:#3a3a3a;--grey-mid:#6a6a6a;--grey-light:#9a9a9a;
+    --grey-bg:#f5f5f5;--line:#e6e6e6;--white:#fff;
+    --green:#1f7a4d;--amber:#9a6a00;--red:#a33;
+    --font-sans:'Inter',sans-serif;--font-serif:'Playfair Display',serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--font-sans);background:var(--grey-bg);color:var(--grey-dark);line-height:1.5;}
+  header{background:var(--black);color:#fff;padding:18px 28px;display:flex;
+    justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;position:sticky;top:0;z-index:30;}
+  header h1{font-family:var(--font-serif);font-weight:600;font-size:20px;}
+  header .sub{color:var(--grey-light);font-size:12px;letter-spacing:.04em;}
+  .toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;}
+  button{font-family:var(--font-sans);font-size:13px;font-weight:600;cursor:pointer;
+    border-radius:8px;border:1px solid var(--line);background:var(--white);color:var(--grey-dark);
+    padding:9px 14px;transition:all .15s;}
+  button:hover{border-color:var(--grey-mid);}
+  button.primary{background:#fff;color:var(--black);border-color:#fff;}
+  button.dark{background:#fff;color:#000;}
+  .wrap{max-width:920px;margin:0 auto;padding:24px;}
+  .statusbar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:18px;align-items:center;}
+  .count{font-size:12px;font-weight:600;padding:6px 12px;border-radius:999px;background:#fff;border:1px solid var(--line);}
+  .count b{font-family:var(--font-serif);}
+  .tabs{display:flex;gap:6px;margin:6px 0 18px;flex-wrap:wrap;}
+  .tab{padding:8px 16px;border-radius:999px;border:1px solid var(--line);background:#fff;
+    font-size:13px;font-weight:600;color:var(--grey-mid);cursor:pointer;}
+  .tab.active{background:var(--black);color:#fff;border-color:var(--black);}
+
+  .card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin-bottom:14px;}
+  .card .meta-row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px;}
+  .badge{font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;
+    padding:3px 9px;border-radius:5px;}
+  .badge.pending{background:#fff5e0;color:var(--amber);}
+  .badge.published{background:#e7f5ee;color:var(--green);}
+  .badge.rejected{background:#fbe9e9;color:var(--red);}
+  .badge.id{background:var(--grey-bg);color:var(--grey-mid);letter-spacing:.05em;}
+  .card h2{font-family:var(--font-serif);font-size:19px;color:var(--black);margin-bottom:4px;line-height:1.25;}
+  .field{margin:10px 0;}
+  .field label{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--grey-light);
+    font-weight:700;display:block;margin-bottom:3px;}
+  .field .val{font-size:14px;color:var(--grey-dark);}
+  .field input,.field textarea{width:100%;font-family:var(--font-sans);font-size:14px;color:var(--grey-dark);
+    border:1px solid var(--line);border-radius:7px;padding:8px 10px;resize:vertical;}
+  .field textarea{min-height:54px;}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+  .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px;padding-top:14px;border-top:1px solid var(--line);}
+  .actions button.approve{background:var(--green);color:#fff;border-color:var(--green);}
+  .actions button.unpub{background:#fff;color:var(--amber);border-color:#e9d9b0;}
+  .actions button.del{background:#fff;color:var(--red);border-color:#eccccc;margin-left:auto;}
+  .actions button.save{background:var(--black);color:#fff;border-color:var(--black);}
+  .empty{text-align:center;color:var(--grey-light);padding:50px;}
+  .hint{background:#fff;border:1px dashed var(--grey-pale);border-radius:10px;padding:16px 18px;
+    font-size:13px;color:var(--grey-mid);margin-bottom:18px;line-height:1.6;}
+  .hint b{color:var(--grey-dark);}
+  .nofile{text-align:center;padding:70px 20px;}
+  .nofile h2{font-family:var(--font-serif);color:var(--black);font-size:24px;margin-bottom:10px;}
+  .dirty{color:#fff;background:var(--amber);font-size:11px;padding:4px 9px;border-radius:999px;}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Digest Admin</h1>
+    <div class="sub">Elite Pathfinder · review · amend · approve · publish</div>
+  </div>
+  <div class="toolbar">
+    <span id="dirty" class="dirty" style="display:none">Unsaved changes</span>
+    <button id="openBtn" class="primary">Open digest.json</button>
+    <button id="saveBtn" class="dark" style="display:none">Save to file</button>
+    <button id="exportBtn" style="display:none">Export published.json</button>
+  </div>
+</header>
+
+<div class="wrap" id="app">
+  <div class="nofile" id="nofile">
+    <h2>Open your working data file</h2>
+    <p style="color:var(--grey-mid);max-width:480px;margin:10px auto 22px;">
+      Click <b>Open digest.json</b> and choose
+      <code>data/digest.json</code>. Everything happens locally in your browser —
+      nothing is uploaded anywhere. Use Chrome or Edge.
+    </p>
+    <button class="primary" onclick="document.getElementById('openBtn').click()" style="background:var(--black);color:#fff;border-color:var(--black);">Open digest.json</button>
+  </div>
+
+  <div id="board" style="display:none">
+    <div class="hint">
+      <b>Workflow:</b> Claude drops ~15 <b>pending</b> items here every Saturday.
+      Edit any text inline, then <b>Approve</b> the ones you want students to see.
+      Hit <b>Save to file</b> to keep your changes, then <b>Export published.json</b> —
+      that file is what gets pushed to your site. You can unpublish or delete a live item at any time.
+    </div>
+    <div class="statusbar">
+      <span class="count">Pending <b id="cPending">0</b></span>
+      <span class="count">Published <b id="cPublished">0</b></span>
+      <span class="count">Rejected <b id="cRejected">0</b></span>
+    </div>
+    <div class="tabs" id="tabs"></div>
+    <div id="list"></div>
+  </div>
+</div>
+
+<script>
+let fileHandle=null, store={items:[]}, tab='pending', dirty=false;
+
+const PRACTICE_AREAS=["Corporate / M&A","Capital Markets","Banking & Finance","Disputes / Litigation",
+  "Financial Regulatory","Competition","Employment","IP / TMT","FinTech / TMT","Real Estate",
+  "Restructuring & Insolvency","Tax","Funds / Asset Management","China / Cross-border","ESG"];
+
+function setDirty(v){dirty=v;document.getElementById('dirty').style.display=v?'inline-block':'none';}
+
+document.getElementById('openBtn').onclick=async()=>{
+  try{
+    [fileHandle]=await window.showOpenFilePicker({types:[{description:'JSON',accept:{'application/json':['.json']}}]});
+    const f=await fileHandle.getFile();
+    store=JSON.parse(await f.text());
+    if(!store.items)store.items=[];
+    document.getElementById('nofile').style.display='none';
+    document.getElementById('board').style.display='block';
+    document.getElementById('saveBtn').style.display='inline-block';
+    document.getElementById('exportBtn').style.display='inline-block';
+    setDirty(false);render();
+  }catch(e){if(e.name!=='AbortError')alert('Could not open file: '+e.message+'\n\nUse Chrome or Edge (the File System Access API is required).');}
+};
+
+document.getElementById('saveBtn').onclick=async()=>{
+  if(!fileHandle)return;
+  const w=await fileHandle.createWritable();
+  await w.write(JSON.stringify(store,null,2));await w.close();
+  setDirty(false);flash('Saved.');
+};
+
+document.getElementById('exportBtn').onclick=async()=>{
+  const pub={generatedAt:new Date().toISOString().slice(0,10),
+    items:store.items.filter(i=>i.status==='published').map(stripForPublish)};
+  const blob=new Blob([JSON.stringify(pub,null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);
+  a.download='published.json';a.click();
+  flash('published.json downloaded — push this to your site.');
+};
+
+function stripForPublish(i){
+  const{status,...rest}=i;return rest; // students never see the status field
+}
+
+function flash(msg){
+  const d=document.createElement('div');d.textContent=msg;
+  d.style.cssText='position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:#0a0a0a;color:#fff;padding:11px 20px;border-radius:8px;font-size:13px;z-index:99;';
+  document.body.appendChild(d);setTimeout(()=>d.remove(),2200);
+}
+
+function counts(){
+  const c={pending:0,published:0,rejected:0};
+  store.items.forEach(i=>{c[i.status||'pending']=(c[i.status||'pending']||0)+1;});
+  return c;
+}
+
+function render(){
+  const c=counts();
+  cPending.textContent=c.pending;cPublished.textContent=c.published;cRejected.textContent=c.rejected;
+  const tabs=document.getElementById('tabs');
+  tabs.innerHTML=['pending','published','rejected','all'].map(t=>
+    `<button class="tab ${tab===t?'active':''}" onclick="setTab('${t}')">${t[0].toUpperCase()+t.slice(1)}</button>`).join('');
+  const list=document.getElementById('list');
+  const items=store.items.filter(i=>tab==='all'||(i.status||'pending')===tab);
+  if(!items.length){list.innerHTML='<div class="empty">No '+tab+' items.</div>';return;}
+  list.innerHTML=items.map(cardHTML).join('');
+}
+window.setTab=t=>{tab=t;render();};
+
+function esc(s){return(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+
+function cardHTML(i){
+  const st=i.status||'pending';
+  const idx=store.items.indexOf(i);
+  return `<div class="card">
+    <div class="meta-row">
+      <span class="badge ${st}">${st}</span>
+      <span class="badge id">${esc(i.id||'no-id')}</span>
+      <span class="badge id">${esc(i.week||'')}</span>
+    </div>
+    <div class="field"><label>Headline</label>
+      <input value="${esc(i.headline)}" oninput="upd(${idx},'headline',this.value)"></div>
+    <div class="row2">
+      <div class="field"><label>Region</label>
+        <input value="${esc(i.region||'HK')}" oninput="upd(${idx},'region',this.value)"></div>
+      <div class="field"><label>Week label</label>
+        <input value="${esc(i.weekLabel||'')}" oninput="upd(${idx},'weekLabel',this.value)"></div>
+    </div>
+    <div class="field"><label>Practice areas (comma-separated)</label>
+      <input value="${esc((i.practiceAreas||[]).join(', '))}" oninput="updArr(${idx},'practiceAreas',this.value)">
+      <div class="val" style="font-size:11px;color:var(--grey-light);margin-top:4px;">Suggested: ${PRACTICE_AREAS.join(' · ')}</div></div>
+    <div class="field"><label>What's the news? (aim for 4–5 plain-language sentences)</label>
+      <textarea style="min-height:96px" oninput="upd(${idx},'whatsTheNews',this.value)">${esc(i.whatsTheNews)}</textarea></div>
+    <div class="field"><label>Why it matters to clients — one bullet per line (2–3 sentences each)</label>
+      <textarea style="min-height:110px" oninput="updLines(${idx},'clients',this.value)">${esc(asLines(i.clients))}</textarea></div>
+    <div class="field"><label>Why it matters to law firms — one bullet per line (2–3 sentences each)</label>
+      <textarea style="min-height:110px" oninput="updLines(${idx},'lawFirms',this.value)">${esc(asLines(i.lawFirms))}</textarea></div>
+    <div class="field"><label>Sources — one per line, format: Title | https://link</label>
+      <textarea style="min-height:60px" oninput="updSources(${idx},this.value)">${esc(asSourceLines(i.sources))}</textarea></div>
+    <div class="actions">
+      ${st!=='published'?`<button class="approve" onclick="setStatus(${idx},'published')">Approve &amp; publish</button>`:''}
+      ${st==='published'?`<button class="unpub" onclick="setStatus(${idx},'pending')">Unpublish</button>`:''}
+      ${st!=='rejected'?`<button onclick="setStatus(${idx},'rejected')">Reject</button>`:''}
+      ${st==='rejected'?`<button onclick="setStatus(${idx},'pending')">Restore to pending</button>`:''}
+      <button class="del" onclick="del(${idx})">Delete permanently</button>
+    </div>
+  </div>`;
+}
+
+function asLines(v){return Array.isArray(v)?v.join('\n'):(v||'');}
+function asSourceLines(s){return (s||[]).map(x=>`${x.title||''} | ${x.url||''}`).join('\n');}
+window.upd=(i,k,v)=>{store.items[i][k]=v;setDirty(true);};
+window.updArr=(i,k,v)=>{store.items[i][k]=v.split(',').map(s=>s.trim()).filter(Boolean);setDirty(true);};
+window.updLines=(i,k,v)=>{store.items[i][k]=v.split('\n').map(s=>s.trim()).filter(Boolean);setDirty(true);};
+window.updSources=(i,v)=>{store.items[i].sources=v.split('\n').map(l=>l.trim()).filter(Boolean).map(l=>{
+  const p=l.split('|');return{title:(p[0]||'').trim(),url:(p[1]||'').trim()};});setDirty(true);};
+window.setStatus=(i,s)=>{store.items[i].status=s;setDirty(true);render();};
+window.del=(i)=>{if(confirm('Delete this item permanently?')){store.items.splice(i,1);setDirty(true);render();}};
+
+window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue='';}});
+</script>
+</body>
+</html>
