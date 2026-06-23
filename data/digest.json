@@ -95,8 +95,8 @@
       "date": "2026-06-11",
       "region": "HK",
       "practiceAreas": ["Disputes / Litigation", "FinTech / TMT"],
-      "whatsTheNews": "A Hong Kong company, Worldwide A-Plus, lost about US$2.66 million worth of the stablecoin Tether (USDT) to fraudsters. The High Court granted a worldwide order freezing the stolen assets and, in what may be a world first, ordered the funds moved into a secure escrow wallet. Because the scammers were anonymous, the court let the legal papers be delivered straight to their blockchain wallets, including by airdropping an NFT containing a link to the court documents.",
-      "whatItMeans": "A freezing order is a court order that stops someone moving or hiding their money while a case runs, and worldwide means it covers their assets in any country, not just Hong Kong. Escrow means holding the money in a safe, neutral place until the court decides who gets it. Serving documents to a digital wallet is a workaround for when you cannot identify or physically find the thief. Together it shows Hong Kong courts will use creative, modern tools to fight digital fraud.",
+      "whatsTheNews": "In a Hong Kong fraud case, about US$50 million in the stablecoin USDC was taken from a victim and moved into anonymous wallets. The High Court granted a worldwide order freezing the assets and ordered them transferred into a secure escrow wallet held by a regulated custodian until trial, in what may be a world first. Because the fraudsters could not be identified, the court allowed the legal papers to be served straight to their wallets, including by airdropping an NFT that linked to the court documents.",
+      "whatItMeans": "A freezing order is a court order that stops someone moving or hiding their money while a case runs, and worldwide means it covers their assets in any country, not just Hong Kong. Escrow means holding the money in a safe, neutral place, here a regulated custodian, until the court decides who gets it. Serving documents by NFT airdrop is a workaround for when you cannot identify or physically find the thief, so the court sends the papers to the wallet itself. Together it shows Hong Kong courts will use creative, modern tools to fight digital fraud.",
       "clients": [
         "Fraud victims get real protection. The court can freeze stolen digital money before the thief hides it, giving victims a genuine chance of getting it back.",
         "Crypto businesses feel safer here. Treating digital coins as assets the court will protect makes Hong Kong a more trusted place to operate.",
@@ -108,8 +108,7 @@
         "It pulls international work to Hong Kong. Because courts grant these creative orders, more overseas clients bring their disputes here, which means more work for HK firms."
       ],
       "sources": [
-        {"title": "Pinsent Masons: using freezing orders to tackle crypto fraud in Hong Kong", "url": "https://www.pinsentmasons.com/out-law/analysis/using-freezing-orders-to-tackle-crypto-fraud-in-hong-kong"},
-        {"title": "Hong Kong Lawyer on Hong Kong's tokenised injunction", "url": "https://www.hk-lawyer.org/content/legal-innovation-crypto-disputes-hong-kong%E2%80%99s-tokenised-injunction-and-global-evolution"}
+        {"title": "Howse Williams: Regulatory Alert (April 2025) on the NFT-service and escrow ruling", "url": "https://www.howsewilliams.com/en/regulatory-alert-april-2025/"}
       ]
     },
     {
