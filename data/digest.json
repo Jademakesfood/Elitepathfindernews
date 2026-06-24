@@ -9,91 +9,746 @@
   ],
   "items": [
     {
-      "id": "2026-W24-001",
+      "headline": "Hong Kong's antitrust watchdog forces Keeta to drop exclusive-restaurant deals",
+      "date": "2026-06-17",
+      "region": "HK",
+      "practiceAreas": [
+        "Competition"
+      ],
+      "whatsTheNews": "On 17 June 2026 the Hong Kong Competition Commission accepted a formal commitment from Kangaroo Limited, which runs Keeta, the city's biggest online food delivery app. The Commission had been worried that Keeta's contracts with restaurants contained clauses that locked them in. Restaurants got lower commission rates only if they worked exclusively with Keeta, faced barriers to switching to rival apps, and were stopped from offering cheaper prices elsewhere. Keeta has now agreed to remove those exclusivity, switching and price parity restrictions, and the commitment is legally binding and enforceable. This is the first time the Commission has combined voluntary contract changes with a formal section 60 commitment.",
+      "whatItMeans": "A commitment under section 60 of the Competition Ordinance is a promise a company makes to the regulator to change its behaviour, which then becomes legally enforceable so the Commission does not have to take the firm to the Competition Tribunal. A price parity clause is a term that stops a restaurant from charging less on another app or its own website, which can keep prices high for everyone. Exclusivity incentives reward a business for using only one platform, which makes it harder for smaller rivals to enter. By stripping these out, the regulator is trying to open up competition in food delivery without a full court fight.",
+      "clients": [
+        "Restaurants that partner with delivery apps can now list on several platforms and set their own prices without losing their better commission rates. That lowers their costs and gives them more bargaining power against the dominant player.",
+        "Rival and smaller delivery platforms get a fairer shot at signing up restaurants, because the lock-in clauses that kept eateries tied to Keeta are gone. This could reshape market share in a sector that touches millions of consumers.",
+        "Any large platform business in Hong Kong, from ride-hailing to e-commerce, should read this as a warning that exclusivity and price parity terms attract regulatory attention. Companies will want to review their own standard contracts before the Commission comes knocking."
+      ],
+      "lawFirms": [
+        "Competition teams advise platform clients on whether contract terms risk breaching the First Conduct Rule, and they negotiate commitments with the Commission. This case shows the commitment route is now a live tool, so firms with antitrust benches will be busy stress-testing client agreements.",
+        "Commercial and contracts lawyers get instructed to redraft restaurant and supplier agreements so they comply, which is high-volume work across the food delivery and gig economy space. Candidates should note this sits at the crossroads of competition and everyday commercial drafting.",
+        "Litigation and regulatory investigations teams benefit when the Commission signals a tougher enforcement posture, because clients want early advice to avoid a tribunal case. A trainee in a competition seat would see real strategy decisions about settling versus fighting."
+      ],
+      "sources": [
+        {
+          "title": "Antitrust watchdog accepts Keeta's commitment following concerns over restrictive restaurant contracts - The Standard",
+          "url": "https://www.thestandard.com.hk/news/article/334935/Antitrust-watchdog-accepts-Keetas-commitment-following-concerns-over-restrictive-restaurant-contracts"
+        },
+        {
+          "title": "Competition Commission reaches resolution with Keeta (press release PDF)",
+          "url": "https://www.compcomm.hk/en/media/press/files/Keeta_PR_EN.pdf"
+        }
+      ],
+      "week": "2026-W25",
+      "weekLabel": "15–21 Jun 2026",
       "status": "pending",
-      "headline": "Hong Kong Issues a Record HK$12 Billion Digital Bond",
-      "week": "2026-W24",
-      "weekLabel": "8–14 Jun 2026",
+      "id": "2026-W25-001"
+    },
+    {
+      "headline": "Hong Kong tests digital central bank money to settle derivatives trades around the clock",
+      "date": "2026-06-18",
+      "region": "HK",
+      "practiceAreas": [
+        "FinTech / TMT",
+        "Financial Regulatory"
+      ],
+      "whatsTheNews": "On 18 June 2026 Hong Kong Exchanges and Clearing (HKEX) and the Hong Kong Monetary Authority (HKMA) launched a joint pilot to use the e-HKD for margin payments during the derivatives after-hours trading session. The e-HKD is Hong Kong's wholesale central bank digital currency, which runs 24 hours a day, seven days a week. At present, clearing participants must submit margin requests by 3pm to take part in the later session, a cutoff tied to normal banking hours. The pilot lets eligible firms move margin money outside those hours, giving them more flexibility to manage risk. Hong Kong's derivatives market is busy, with average daily volume topping 1.78 million contracts in early 2026.",
+      "whatItMeans": "Margin is cash or collateral a trader must post to cover potential losses on a derivatives position, and the clearing house holds it to protect the market if someone defaults. A central bank digital currency is electronic money issued directly by the monetary authority, treated as risk-free because it is a claim on the central bank itself. Settling margin in e-HKD means firms can top up collateral at night or on weekends when banks are shut, which matters when prices move sharply after hours. The pilot is optional and still needs regulatory sign-off before any wider rollout.",
+      "clients": [
+        "Banks and brokers that clear derivatives gain a faster, around-the-clock way to meet margin calls, which reduces the chance of a forced position close-out simply because banks were closed. That improves their risk management and frees up working capital.",
+        "Asset managers and hedge funds trading Hong Kong futures and options get a more responsive market, since collateral can move when volatility spikes overnight. This makes Hong Kong a more attractive venue for cross-border trading strategies.",
+        "Payment and technology firms watching the e-HKD see a concrete institutional use case for central bank digital money, which could spread to other settlement areas. Early movers in the plumbing of tokenised finance stand to win mandates as the model scales."
+      ],
+      "lawFirms": [
+        "Financial regulatory teams advise clearing participants on the rules for using e-HKD and on whether trial transactions trigger licensing or reporting duties. As the pilot moves toward wider adoption, firms will draft the legal framework that makes digital central bank money usable as collateral.",
+        "FinTech and derivatives lawyers get work papering the trial arrangements between HKEX, the HKMA and participating banks, including collateral and default rules. Candidates interested in where finance meets technology should track this closely.",
+        "Banking and finance teams will revisit margin and collateral documentation, because settling in a new form of money changes the legal analysis of when a payment is final. This is detailed, high-value advisory work for clients who cannot afford ambiguity."
+      ],
+      "sources": [
+        {
+          "title": "HKEX and HKMA launch pilot project to enable digital payment solution for derivatives After-Hours Trading - HKEX",
+          "url": "https://www.hkex.com.hk/News/News-Release/2026/260618news?sc_lang=en"
+        },
+        {
+          "title": "HKEX and HKMA launch pilot project to enable digital payment solution for derivatives After-Hours Trading - gov.hk",
+          "url": "https://www.info.gov.hk/gia/general/202606/18/P2026061800728.htm"
+        }
+      ],
+      "week": "2026-W25",
+      "weekLabel": "15–21 Jun 2026",
+      "status": "pending",
+      "id": "2026-W25-002"
+    },
+    {
+      "headline": "Hong Kong banks line up to finance the Northern Metropolis mega-project",
+      "date": "2026-06-17",
+      "region": "HK",
+      "practiceAreas": [
+        "Banking & Finance",
+        "Real Estate"
+      ],
+      "whatsTheNews": "On 17 June 2026 a new Northern Metropolis Financial Advisory Taskforce, set up jointly by the HKMA and the Hong Kong Association of Banks, held its first meeting. The Northern Metropolis is a huge government plan to develop land near the border with Shenzhen into housing, innovation hubs and new towns over the coming years. Twenty-one banks plus government officials attended, and they discussed key sites including the Hetao Shenzhen-Hong Kong innovation zone and the Hung Shui Kiu development area. Banks said they would offer financing tailored to each project, given that some will use public-private partnership models. They also pledged to apply nature-based and sustainable finance guidelines to support greener development.",
+      "whatItMeans": "The Northern Metropolis is one of Hong Kong's largest ever urban development programmes, and projects on this scale need enormous amounts of long-term lending. A public-private partnership, or PPP, is an arrangement where government and private investors share the cost and risk of building infrastructure, with the private side often repaid over decades. A taskforce like this exists to line up the banking sector early so funding does not become a bottleneck. The sustainability pledges mean lenders will tie financing to environmental standards, which is increasingly how big infrastructure money flows.",
+      "clients": [
+        "Developers and construction firms bidding for Northern Metropolis sites now have clearer signals that bank funding is being organised, which de-risks their participation. That helps them commit capital and bid with confidence.",
+        "Banks get early access to a pipeline of large, long-dated lending opportunities, but they must structure deals around PPP models and green standards. Those that build expertise now will be first in line for the biggest tickets.",
+        "Greater Bay Area businesses, especially in technology and advanced manufacturing, benefit from new cross-border zones like Hetao that link Hong Kong capital with Shenzhen innovation. This opens fresh markets and operating bases close to the mainland."
+      ],
+      "lawFirms": [
+        "Banking and finance teams structure the project finance and syndicated loans behind these developments, which are complex, multi-year mandates. A trainee in a finance seat could spend months on a single Northern Metropolis facility.",
+        "Real estate and projects lawyers handle the land grants, PPP agreements and construction contracts that sit underneath the funding. This is foundational work that combines property, infrastructure and government negotiation.",
+        "ESG and sustainable finance specialists advise on tying loans to the nature-based and green guidelines the banks pledged to follow, a fast-growing niche. Candidates who understand both finance and sustainability will be in demand as these deals close."
+      ],
+      "sources": [
+        {
+          "title": "Northern Metropolis Financial Advisory Taskforce holds inaugural meeting - HKMA",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260617-6/"
+        }
+      ],
+      "week": "2026-W25",
+      "weekLabel": "15–21 Jun 2026",
+      "status": "pending",
+      "id": "2026-W25-003"
+    },
+    {
+      "headline": "Regulator confirms it will track who is trading Hong Kong derivatives",
+      "date": "2026-06-16",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Capital Markets"
+      ],
+      "whatsTheNews": "In June 2026 the Securities and Futures Commission (SFC) published its conclusions after consulting the market on extending the investor identification regime to Hong Kong's exchange-traded derivatives. The plan, known as HKIDR-DM, will require brokers to attach a unique code to each client and tag that code to the client's orders for futures, options and stock options. This mirrors a regime already running for the stock market since March 2023. Respondents broadly supported the move, saying it matches international practice and helps the SFC spot market abuse. The regulator intends to roll it out in the second quarter of 2028, after system testing and market rehearsals.",
+      "whatItMeans": "An investor identification regime gives the regulator the ability to see exactly which investor is behind each trade in real time, rather than only seeing the broker. The system uses a Broker-Client Assigned Number, a code linked to a named client, which is attached to every on-exchange order. The point is surveillance, because it lets the SFC detect insider dealing, manipulation and other misconduct far more quickly. Firms must collect and submit client identity data while obeying data privacy law, which adds compliance work.",
+      "clients": [
+        "Brokers and trading firms dealing in Hong Kong derivatives face new systems and compliance costs to assign codes, tag orders and submit client data correctly. They have until 2028 to build this, but the work and budgeting starts now.",
+        "Institutional investors and proprietary traders should expect their identities to be visible to the regulator on every derivatives order, which raises the stakes for clean trading practices. Sloppy or borderline strategies become much easier to catch.",
+        "Market operators and the wider Hong Kong financial centre benefit from a reputation for tighter oversight, which reassures international investors. A market seen as well-policed attracts more serious long-term capital."
+      ],
+      "lawFirms": [
+        "Financial regulatory teams advise brokers on how to implement the regime, including the tricky overlap with personal data privacy obligations when client information is submitted. This is detailed, deadline-driven advisory work running for years.",
+        "Capital markets and derivatives lawyers help clients update client agreements and terms of business to cover the new data collection and tagging. Candidates should note how a single regulatory change ripples through dozens of documents.",
+        "Data and cybersecurity practices get pulled in because moving client identity data into a central system raises privacy and security questions. Firms that can bridge financial regulation and data law will pick up the most interesting instructions."
+      ],
+      "sources": [
+        {
+          "title": "SFC concludes consultation on the investor identification regime for Hong Kong's exchange-traded derivatives market - SFC",
+          "url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR97"
+        },
+        {
+          "title": "Investor Identification Regime for the exchange-traded derivatives market - SFC",
+          "url": "https://www.sfc.hk/en/Rules-and-standards/Investor-Identification-Regime-for-the-exchange-traded-derivatives-market"
+        }
+      ],
+      "week": "2026-W25",
+      "weekLabel": "15–21 Jun 2026",
+      "status": "pending",
+      "id": "2026-W25-004"
+    },
+    {
+      "headline": "AI chip stock HQVT triples on its first day on the Hong Kong exchange",
+      "date": "2026-06-22",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "Corporate / M&A"
+      ],
+      "whatsTheNews": "Shenzhen HQVT Technology, a Chinese maker of multispectral artificial intelligence products, listed on the Main Board of the Hong Kong Stock Exchange on 22 June 2026. The company priced its IPO at HK$7.20 per share and raised roughly HK$537 million, with CMBC Capital and SPDB International as joint sponsors. Demand was extraordinary, with the retail tranche oversubscribed by more than 7,180 times and grey market trading starting on 18 June. On debut the stock opened at HK$29, more than four times the offer price, a gain of about 303 percent. The listing adds to a strong run for Hong Kong's IPO market in 2026, with the city back among the world's busiest listing venues.",
+      "whatItMeans": "An IPO, or initial public offering, is when a private company sells shares to the public for the first time and gets listed on a stock exchange. The offer price is what investors pay in the IPO, and a sponsor is the firm that guides the company through listing and vouches for it to the regulator. Oversubscription of 7,180 times means investors asked for thousands of times more shares than were available, a sign of intense demand. The grey market is unofficial trading before the official debut, which gives an early read on price. A jump like this rewards IPO investors but also raises questions about how the offer was priced.",
+      "clients": [
+        "Mainland technology companies see Hong Kong as a hot venue to raise money and gain an international shareholder base, which encourages more of them to file. A blockbuster debut like this makes the city's pitch to issuers even stronger.",
+        "Investment banks and sponsors earn fees and league-table credit from a packed IPO pipeline, and a hit deal builds their reputation for the next mandate. They also carry reputational risk if a stock that soars then slumps draws scrutiny.",
+        "Retail and institutional investors get access to fast-growing AI names, but the wild first-day swings show the risk of buying into hype. Cornerstone and long-term investors will weigh whether valuations are sustainable."
+      ],
+      "lawFirms": [
+        "Capital markets teams act for the issuer and the sponsors, drafting the prospectus, conducting due diligence and clearing the deal with the SFC and the exchange. A hot IPO market means trainees in these seats get hands-on listing experience quickly.",
+        "Corporate teams handle the pre-IPO restructuring that gets a company ready to list, including share reorganisation and shareholder agreements. This is the unglamorous but essential groundwork behind every debut.",
+        "Litigation and regulatory teams may be engaged later if a sharp price move attracts questions about disclosure or pricing. Candidates should see that capital markets work does not end at listing, since post-IPO scrutiny can follow."
+      ],
+      "sources": [
+        {
+          "title": "HQVT Technology surges over 300% on Hong Kong debut - Dimsum Daily",
+          "url": "https://www.dimsumdaily.hk/hqvt-technology-surges-over-300-on-hong-kong-debut/"
+        },
+        {
+          "title": "Shenzhen HQVT Technology surge over three times on Hong Kong debut - The Standard",
+          "url": "https://www.thestandard.com.hk/finance/article/335267/Shenzhen-HQVT-Technology-surge-over-three-times-on-Hong-Kong-debut"
+        }
+      ],
+      "week": "2026-W25",
+      "weekLabel": "15–21 Jun 2026",
+      "status": "pending",
+      "id": "2026-W25-005"
+    },
+    {
+      "headline": "Hong Kong prices the world's biggest digital bond at HK$12 billion",
       "date": "2026-06-11",
       "region": "HK",
-      "practiceAreas": ["Capital Markets", "FinTech / TMT"],
-      "whatsTheNews": "In June 2026, the Hong Kong Mortgage Corporation issued a HK$12 billion digital bond, its first public digital bond and one of the largest of its kind anywhere. A digital, or \"tokenised,\" bond is recorded using blockchain technology rather than through traditional paper and ledger systems. Hong Kong has led in this area, having issued the world's first tokenised government green bond back in 2023. The government is pushing more of these deals to build up the market and stay ahead as a finance hub.",
-      "whatItMeans": "A bond is basically a loan: an investor lends money to the issuer, gets paid interest, then gets the money back later. A digital or tokenised bond records who owns it on a blockchain, a shared digital ledger, which can make trading and settlement faster and cheaper. Settlement is the behind-the-scenes process of swapping the cash for the bond, and doing it on a blockchain can cut the time from days to almost instant. Hong Kong wants to lead this technology so it stays competitive as an international financial centre.",
+      "practiceAreas": [
+        "Capital Markets",
+        "FinTech / TMT"
+      ],
+      "whatsTheNews": "On 11 June 2026 the Hong Kong Mortgage Corporation (HKMC) confirmed it had priced about HK$12 billion of digital bonds, the largest such issuance in the world to date. The deal came in three tranches, a HK$6 billion two-year, a HK$2.5 billion five-year, and a CNH 3 billion three-year bond, under the HKMC's US$30 billion medium term note programme. The bonds are digitally native, created on the Central Moneymarkets Unit's distributed ledger platform, which cut the settlement cycle from five business days to three. More than 100 institutional accounts took part, including central banks, insurers and asset managers, with peak orders of around HK$24 billion. The HKMC is the first Hong Kong public sector body to issue digital bonds.",
+      "whatItMeans": "A bond is a loan from investors to an issuer that pays interest and returns the principal at the end. A digital or tokenised bond is recorded on a distributed ledger, a shared electronic record similar to the technology behind cryptocurrencies, instead of on traditional paper-based systems. Settlement is the process of swapping cash for the bond after a trade, and shortening it from five days to three frees up money and cuts risk. The HKMC is a government-owned body, so its issuance is a strong signal that Hong Kong wants tokenised finance to go mainstream. A multi-currency, multi-tranche structure shows the format can handle a large, complex deal.",
       "clients": [
-        "Issuers want in on the technology. Companies and public bodies considering digital bonds need advisers who understand both bond law and the technology, which opens new instructions.",
-        "Investors need comfort on the rules. Buyers want to know their rights are protected when ownership sits on a blockchain, which raises legal questions to answer.",
-        "Market infrastructure firms get involved. Banks and tech providers building these systems need contracts and regulatory advice to run them safely."
+        "Other issuers, including governments and big companies, now have proof that digital bonds can be done at scale, which encourages them to consider the format. Faster settlement and broad investor demand make it commercially attractive.",
+        "Banks and investors gain experience with tokenised assets and the infrastructure that supports them, building skills they will need as more of the market moves on-chain. Early participants position themselves as leaders in a growing area.",
+        "Hong Kong's standing as a bond and fintech hub strengthens, which draws issuance and trading business away from rival centres. That benefits the broad ecosystem of service providers based in the city."
       ],
       "lawFirms": [
-        "It is capital markets work with a technology twist. Firms that combine debt-issuance know-how with digital-asset skills are best placed to win these deals.",
-        "It rewards early movers. As Hong Kong pushes tokenisation, firms that act on the first deals build a reputation in a market set to grow.",
-        "It creates fresh, modern work for juniors. Digital bonds sit at the cutting edge of finance, giving trainees a skill set few lawyers yet have."
+        "Capital markets teams draft the bond documentation and advise on how a tokenised structure fits within existing securities law, which is novel and demanding work. Firms that lead on landmark deals like this win the next wave of digital issuances.",
+        "FinTech and technology lawyers advise on the distributed ledger platform, settlement mechanics and the legal status of a digitally native security. Candidates curious about blockchain in mainstream finance should watch this space.",
+        "Banking and finance teams handle the programme documentation and the interaction with clearing systems like the CMU, Euroclear and Clearstream. This blends traditional debt capital markets skills with new technology, a valuable combination for trainees."
       ],
       "sources": [
-        {"title": "HKMA: HKMC's HK$12 billion inaugural public digital bond issuance (11 Jun 2026)", "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260611-3/"}
-      ]
+        {
+          "title": "HKMC's HK$12 billion inaugural public digital bond issuance - HKMA",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260611-3/"
+        },
+        {
+          "title": "HKMC's HK$12 billion inaugural public digital bond issuance - gov.hk",
+          "url": "https://www.info.gov.hk/gia/general/202606/11/P2026061100302.htm"
+        }
+      ],
+      "week": "2026-W25",
+      "weekLabel": "15–21 Jun 2026",
+      "status": "pending",
+      "id": "2026-W25-006"
     },
     {
-      "id": "2026-W23-002",
+      "headline": "Hong Kong's monetary authority pushes tokenised money to corporate treasurers",
+      "date": "2026-06-10",
+      "region": "HK",
+      "practiceAreas": [
+        "FinTech / TMT",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "On 10 June 2026 the HKMA hosted a seminar called Corporate Treasury x Tokenisation: The Hong Kong Advantage in Action, drawing over 150 guests from about 50 corporates, 30 financial institutions and various treasury associations. The event showcased how tokenisation can make corporate treasury cheaper and more efficient, with two main use cases highlighted. The first was real-time treasury management through the HKMA's Project Ensemble, and the second was tokenisation in bond issuance and trade finance. This builds on EnsembleTX, the live phase of Project Ensemble that lets banks settle real-value tokenised deposit transactions through the Hong Kong dollar real time gross settlement system. The HKMA said it would follow up with corporate treasury centres interested in adopting the technology.",
+      "whatItMeans": "Corporate treasury is the function inside a company that manages cash, funding and financial risk across the business. Tokenisation means turning an asset, such as a bank deposit or a bond, into a digital token on a shared ledger so it can move and settle almost instantly. A tokenised deposit is commercial bank money represented as a token, which lets a company move funds and manage liquidity in real time rather than waiting for slower bank processes. Project Ensemble is the HKMA's programme to build the plumbing for this kind of tokenised finance. By targeting corporate treasurers, the HKMA is trying to move tokenisation from bank experiments toward everyday business use.",
+      "clients": [
+        "Multinational companies with treasury centres in Hong Kong could manage cash and liquidity in real time, reducing idle balances and financing costs. That is a direct efficiency gain for any large corporate's finance team.",
+        "Banks that offer tokenised deposit and trade finance services get a new product line and a reason for corporate clients to keep treasury operations in Hong Kong. Those that build capability early can lock in relationships.",
+        "Trade finance users, such as exporters and importers, stand to benefit if tokenisation speeds up the slow, paper-heavy processes that bog down cross-border trade. Faster settlement improves cash flow across supply chains."
+      ],
+      "lawFirms": [
+        "FinTech and banking teams advise corporates and banks on the legal treatment of tokenised deposits, including when a tokenised payment is final and who bears risk if something fails. This is cutting-edge advisory work with few precedents.",
+        "Banking and finance lawyers help structure tokenised trade finance and bond arrangements, adapting familiar instruments to a digital settlement environment. Candidates should see how core finance skills transfer into emerging technology.",
+        "Technology and commercial teams negotiate the contracts between corporates, banks and platform providers that make these use cases work. As Project Ensemble moves from pilot to production, demand for lawyers who understand both finance and tech will grow."
+      ],
+      "sources": [
+        {
+          "title": "HKMA demonstrates potential of tokenisation to corporate treasury community - HKMA",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260610-5/"
+        }
+      ],
+      "week": "2026-W25",
+      "weekLabel": "15–21 Jun 2026",
       "status": "pending",
-      "headline": "Hong Kong Builds a Rulebook for Digital Bonds With a New Expert Group",
-      "week": "2026-W23",
-      "weekLabel": "1–7 Jun 2026",
+      "id": "2026-W25-007"
+    },
+    {
+      "headline": "Senasic chip IPO draws frenzied retail demand as it kicks off in Hong Kong",
+      "date": "2026-06-09",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "On 9 June 2026 Senasic Electronics Technology, a mainland Chinese maker of wireless sensing chips, opened the public offer for its Hong Kong listing, aiming to raise about HK$980 million. The company set its price at HK$18.36 per share and offered roughly 53.4 million shares, with the offer period running from 9 to 12 June and a planned Main Board debut on 17 June. Retail demand was extraordinary, with the public tranche reported to be more than 5,000 times oversubscribed. Senasic specialises in system-on-chip products that power wireless sensors, including for cars. The deal is one of many in a busy 2026 for Hong Kong listings, which led global exchanges for funds raised in the first quarter.",
+      "whatItMeans": "An IPO, or initial public offering, is when a private company sells shares to the public for the first time and gets listed on a stock exchange. In Hong Kong an IPO usually splits its shares between big institutional investors and ordinary retail investors, and the retail portion being oversubscribed thousands of times means demand far outstripped supply. The Main Board is the senior segment of the Hong Kong Stock Exchange for larger, established companies. Heavy demand like this shows confidence in Hong Kong as a venue and in Chinese semiconductor names in particular.",
+      "clients": [
+        "Mainland Chinese tech and chip companies see Hong Kong as a reliable place to raise capital and reach international investors, especially when a US listing is harder. Strong demand for Senasic encourages more of them to file.",
+        "Investment banks acting as sponsors and bookrunners earn fees and league-table credit on hot deals, and a heavily oversubscribed book strengthens their pitch for the next mandate. Their structured-products and broking desks also benefit from the trading activity around a popular debut.",
+        "Existing Senasic shareholders and early backers get a liquid market and a valuation benchmark for their stakes, which makes it easier to plan future fundraising or exits. A successful debut also lifts sentiment across the chip sector."
+      ],
+      "lawFirms": [
+        "Capital markets teams act as issuer's counsel and underwriters' counsel, drafting the prospectus, running due diligence and clearing HKEX and SFC vetting. A wave of mainland tech IPOs keeps these teams busy and gives juniors heavy drafting and verification work.",
+        "China and cross-border practices handle the mainland regulatory approvals and corporate restructuring needed before a Chinese company can list H shares in Hong Kong. Candidates who can work across both legal systems are in demand.",
+        "Sponsor firms carry real liability if a prospectus is misleading, so the lawyers advising sponsors on disclosure standards are central to every deal. Trainees learn why careful verification protects both the client and the firm."
+      ],
+      "sources": [
+        {
+          "title": "The Standard: SENASIC Electronics Technology kicks off $980mln HK IPO",
+          "url": "https://www.thestandard.com.hk/finance/article/334124/SENASIC-Electronics-Technology-kicks-off-980mln-HK-IPO"
+        }
+      ],
+      "week": "2026-W24",
+      "weekLabel": "8–14 Jun 2026",
+      "status": "pending",
+      "id": "2026-W24-001"
+    },
+    {
+      "headline": "HKMA sets up an expert group to grow Hong Kong's tokenised bond market",
       "date": "2026-06-05",
       "region": "HK",
-      "practiceAreas": ["FinTech / TMT", "Capital Markets"],
-      "whatsTheNews": "On 5 June 2026, the Hong Kong Monetary Authority set up a Tokenised Bond Expert Group to help grow the market for digital bonds. The group brings together banks, lawyers, and market players to work out common standards and tackle the legal and technical hurdles. The aim is to turn one-off digital bond deals into a regular, scalable market. It sits alongside the HKMA's wider tokenisation work, including its Project Ensemble pilot running through 2026.",
-      "whatItMeans": "Tokenisation means turning a financial asset, like a bond, into a digital record on a blockchain. An expert group is a panel the regulator gathers to give advice and agree common ways of doing things, so the market does not grow in a messy, inconsistent way. \"Standards\" are shared rules and templates that let different banks and systems work together smoothly. The HKMA is trying to lay the groundwork now so Hong Kong becomes a natural home for this kind of finance.",
+      "practiceAreas": [
+        "Capital Markets",
+        "FinTech / TMT"
+      ],
+      "whatsTheNews": "On 5 June 2026 the Hong Kong Monetary Authority announced a new Tokenised Bond Expert Group to push wider adoption of tokenised bonds in the city. The group brings together industry bodies, financial institutions, law firms and financial-technology providers. It will study policy measures, market practices and innovations, and an early discussion looked at how Hong Kong's current legal and regulatory rules apply to issuing and trading tokenised bonds. The HKMA has worked on tokenisation since 2021, including the world's first tokenised government green bond in 2023. The authority is also working with the Financial Services and the Treasury Bureau on possible changes to the legal framework for tokenised fixed income.",
+      "whatItMeans": "Tokenisation means representing an asset, such as a bond, as a digital token on a shared ledger so it can be issued, held and traded electronically with fewer intermediaries. Fixed income is the umbrella term for bonds and similar products that pay set interest. An expert group is an advisory panel that helps a regulator design rules and standards before they become law. By gathering banks, lawyers and tech firms in one room, the HKMA wants to iron out the legal grey areas that currently make issuers cautious, so tokenised bonds move from one-off showcases to routine deals.",
       "clients": [
-        "Banks and issuers want a seat at the table. The firms shaping the standards gain an early edge, so they seek advisers who can engage with the regulator's work.",
-        "Clear standards lower the risk of acting. Once common rules exist, more companies will feel safe issuing digital bonds, and they will need legal help to do so.",
-        "Technology providers need guidance. Firms building the platforms must line up with the new standards, which means legal and regulatory advice."
+        "Banks and issuers that want to do tokenised deals gain a clearer rulebook, which reduces the legal uncertainty that has slowed adoption. More certainty means more issuers are willing to try the format.",
+        "Financial-technology vendors that build ledger and settlement platforms get a direct say in shaping standards, and a bigger market to sell into once rules are settled. Helping define the framework also positions them as the go-to providers.",
+        "Institutional investors benefit because clearer rules and standard practices make tokenised bonds easier to value, hold and trade. That widens the pool of buyers and supports better pricing for issuers."
       ],
       "lawFirms": [
-        "Lawyers help write the rulebook. Firms involved in the expert group and standard-setting shape the market and become the names clients trust.",
-        "It builds a practice for the future. Getting in early on tokenisation positions a firm to win the deals that follow as the market scales.",
-        "It blends finance and technology skills. The work suits lawyers who enjoy new areas, and it gives juniors a chance to specialise in something fresh."
+        "Law firms are literally in the room as expert group members, advising on how existing securities, property and contract law maps onto tokens. Being at the policy table builds the relationships that win the deal work later.",
+        "FinTech and capital markets teams will translate whatever framework emerges into deal documents and legal opinions for issuers and banks. Candidates who understand both ledger technology and bond law will be the ones drafting these.",
+        "Financial regulatory lawyers advise clients on licensing, custody and settlement questions that the group is trying to resolve. Early movers who track this work will have a head start as the rules firm up."
       ],
       "sources": [
-        {"title": "HKMA: HKMA establishes Tokenised Bond Expert Group (5 Jun 2026)", "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260605-3/"},
-        {"title": "Timothy Loh: HKMA establishes Tokenised Bond Expert Group", "url": "https://www.timothyloh.com/insights/latest-news/hkma-establishes-tokenised-bond-expert-group-20260605"}
-      ]
+        {
+          "title": "HKMA establishes Tokenised Bond Expert Group",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260605-3/"
+        }
+      ],
+      "week": "2026-W24",
+      "weekLabel": "8–14 Jun 2026",
+      "status": "pending",
+      "id": "2026-W24-002"
     },
     {
-      "id": "2026-W22-003",
+      "headline": "HKMA and SFC finalise simpler rules for clearing derivatives trades",
+      "date": "2026-06-05",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "On 5 June 2026 the Hong Kong Monetary Authority and the Securities and Futures Commission published the conclusions of a joint consultation on amending the Clearing Rules for over-the-counter derivative transactions. The change fixes two set windows each year, 1 March to 31 May and 1 September to 30 November, as the calculation periods used to work out clearing obligations. Respondents broadly backed the plan, saying it gives more certainty and makes internal planning easier. The new approach takes effect from 1 March 2027, and the regulators will now move ahead with the legislative steps to implement it. The goal is to avoid having to update the rules through legislation every time, which had been the previous practice.",
+      "whatItMeans": "An over-the-counter, or OTC, derivative is a financial contract whose value depends on something else (like an interest rate or currency) and which is traded privately between two parties rather than on an exchange. Clearing means routing those trades through a central body that sits between the two sides and guarantees the deal, reducing the risk that one party fails to pay. Mandatory clearing kicks in once a firm's trading volumes cross certain thresholds measured over a calculation period. Fixing those periods on the calendar removes guesswork and repeated rule changes, so banks and brokers can plan compliance in advance.",
+      "clients": [
+        "Banks and large trading firms that deal in OTC derivatives get predictable dates for measuring their clearing obligations, which makes compliance planning and systems work cheaper and simpler. Less ad hoc rule-changing means fewer last-minute scrambles.",
+        "Central clearing houses see clearer, steadier rules around who must clear and when, supporting stable volumes through their systems. Predictability helps them manage capacity and risk.",
+        "Corporate treasurers who use derivatives to hedge interest-rate or currency risk benefit from a more stable regulatory backdrop. Knowing the timetable in advance helps them structure hedges without unexpected clearing costs."
+      ],
+      "lawFirms": [
+        "Financial regulatory teams advise banks and brokers on whether they cross clearing thresholds and how to comply, and a rule change means client updates and memos across the board. Juniors learn how derivatives regulation actually bites on trading desks.",
+        "Banking and finance practices that paper derivatives trades and clearing arrangements will refresh templates and client guidance to reflect the new calculation periods. This is steady, detail-heavy work where precision matters.",
+        "Derivatives and structured products specialists are valued for understanding both the financial mechanics and the rulebook. Candidates who can read a clearing rule and explain its commercial effect become genuinely useful fast."
+      ],
+      "sources": [
+        {
+          "title": "HKMA and SFC conclude joint consultation on amendments to the Clearing Rules for OTC derivative transactions",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260605-6/"
+        }
+      ],
+      "week": "2026-W24",
+      "weekLabel": "8–14 Jun 2026",
       "status": "pending",
-      "headline": "Hong Kong Sets Up a New Court for Big Cross-Border Business Disputes",
+      "id": "2026-W24-003"
+    },
+    {
+      "headline": "SFC tells finance firms to brace for AI-powered hacks",
+      "date": "2026-06-02",
+      "region": "HK",
+      "practiceAreas": [
+        "Cybersecurity / Data",
+        "Financial Regulatory"
+      ],
+      "whatsTheNews": "On 2 June 2026, Hong Kong's Securities and Futures Commission (the SFC) issued a circular telling all the firms it licenses to upgrade their cyber defences against attacks powered by artificial intelligence. The SFC pointed to a 27% jump in reported cyber incidents in Hong Kong in 2025, rising to 15,877 cases. It warned that the latest AI models can find software weaknesses faster, chain small flaws into bigger attacks, and run large attacks at scale. The circular sets out five areas firms must work on, including patching software holes quickly, tighter access controls, better monitoring, supply-chain checks, and incident response plans. Larger retail brokers, fund depositaries and virtual asset trading platforms must put all the controls in place, while smaller firms must assess what fits their business.",
+      "whatItMeans": "The SFC is the regulator that licenses brokers, fund managers and crypto platforms in Hong Kong. A circular is formal guidance that licensed firms are expected to follow, even though it is not a new law. AI-enabled cyberattacks means hackers using artificial intelligence tools to break into computer systems more quickly and cheaply than before. Patching means fixing known software bugs, and least-privilege access means giving each staff member or system only the minimum access they need so a breach cannot spread. The practical message is that cybersecurity is now a board-level compliance duty, and senior managers can be held personally responsible if controls are weak.",
+      "clients": [
+        "Brokers, asset managers and virtual asset platforms now have to document and test their cyber controls against a five-part SFC checklist, which means spending on IT security, staff training and outside consultants. Firms that ignore this risk SFC enforcement and reputational damage if they suffer a breach.",
+        "Banks and fintech firms that supply software or cloud services to licensed firms will face tougher due diligence questions, because the circular pushes firms to manage third-party and supply-chain risk. Vendors that can show strong security credentials will win business, while weaker ones may be dropped.",
+        "Insurers and cyber-risk advisers stand to gain as financial firms buy more cyber insurance and pay for tabletop exercises and incident-response retainers. The regulator's clear expectation gives these providers a ready selling point with finance-sector clients."
+      ],
+      "lawFirms": [
+        "Financial regulatory and cybersecurity teams will be asked to translate the SFC's five focus areas into board papers, internal policies and updated outsourcing contracts. This is advisory work that recurs every time the SFC tightens its expectations, so it is steady billable work for the firms that move first.",
+        "Data and TMT lawyers get work drafting incident-response playbooks and advising on breach-notification duties, since the circular asks firms to report material cyber incidents to the SFC promptly. Candidates should care because cyber is one of the fastest-growing areas of regulatory practice.",
+        "Disputes and investigations teams will be on standby if a licensed firm is hacked or if the SFC opens an enforcement case over weak controls. Knowing both the technical and regulatory side of cyber makes a junior lawyer genuinely useful on these matters."
+      ],
+      "sources": [
+        {
+          "title": "Davis Polk client update: Hong Kong SFC calls for enhanced cybersecurity measures to combat AI-enabled cyberattacks",
+          "url": "https://www.davispolk.com/insights/client-update/hong-kong-sfc-calls-enhanced-cybersecurity-measures-combat-ai-enabled"
+        },
+        {
+          "title": "Charltons: New SFC Requirements for Cybersecurity to Counter AI-enabled Cyber Threats",
+          "url": "https://www.charltonslaw.com/new-sfc-requirements-for-cybersecurity-to-counter-ai-enabled-cyber-threats/"
+        }
+      ],
+      "week": "2026-W23",
+      "weekLabel": "1–7 Jun 2026",
+      "status": "pending",
+      "id": "2026-W23-001"
+    },
+    {
+      "headline": "China's new outbound investment rules turn Chinese buyers into a deal risk",
+      "date": "2026-06-01",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "China / Cross-border",
+        "Corporate / M&A"
+      ],
+      "whatsTheNews": "On 1 June 2026, China's State Council published the Regulation on Outbound Investment, its first dedicated national-level rulebook for Chinese money flowing overseas, taking effect on 1 July 2026. The regulation pulls together rules that were previously spread across different agencies and widens the net to cover technology deals and overseas investments by individuals living in China. It creates a new cross-agency national security review that can look through offshore holding companies in places like the Cayman Islands or BVI to reach China-origin technology. It bans transferring controlled technology and data abroad without approval, including indirect routes like moving technical staff overseas. Penalties are heavier, including fines, forced sale of completed deals, and bans on future outbound investment.",
+      "whatItMeans": "Outbound or overseas direct investment (ODI) means a Chinese person or company putting money into a business or asset outside China. The State Council is China's cabinet, so a State Council regulation sits near the top of the legal hierarchy below national law. A national security review is a government check on whether a deal could harm the country's strategic interests, here aimed at stopping sensitive technology from leaking out. The phrase looking through offshore structures means regulators can ignore a chain of holding companies set up in low-tax jurisdictions and treat the deal as Chinese for review purposes. For anyone doing a deal with a Chinese counterparty, this adds a new approval risk that can delay or even unwind a transaction.",
+      "clients": [
+        "Companies selling a business or technology to a Chinese buyer now face a real risk the buyer cannot get Chinese approval, which can collapse a signed deal or force a later divestment. Sellers will demand stronger conditions and break fees to protect themselves.",
+        "Multinationals with operations in China that rely on moving technology or staff across borders must check whether routine transfers now need approval. Getting this wrong can mean fines or being forced to reverse a transaction.",
+        "Chinese groups investing abroad, many of which use Hong Kong as a launch pad, will need to budget more time and legal cost for security review. Some may restructure deals or choose targets that attract less scrutiny."
+      ],
+      "lawFirms": [
+        "Cross-border M&A teams in Hong Kong, which sit between mainland China and the world, will be asked to add Chinese outbound approval risk into deal timetables, conditions and risk allocation. This is core transactional work that touches almost every China-linked deal.",
+        "Regulatory and national security specialists get advisory work mapping which deals trigger the new review and how to structure around it lawfully. Candidates should care because China outbound is a defining issue for Asia deal practices this decade.",
+        "Disputes teams may be instructed when deals fall apart over failed approvals or when buyers walk away, raising contract and break-fee fights. Understanding the new regulation helps a junior spot these risks before signing, not after."
+      ],
+      "sources": [
+        {
+          "title": "Mayer Brown: China Issues New Outbound Investment Regulation",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2026/06/china-issues-new-outbound-investment-regulation"
+        },
+        {
+          "title": "Morgan Lewis: Regulation on Outbound Investment, Why Chinese Counterparty Compliance Is Now a Deal Risk",
+          "url": "https://www.morganlewis.com/pubs/2026/06/regulation-on-outbound-investment-why-chinese-counterparty-compliance-is-now-a-deal-risk"
+        }
+      ],
+      "week": "2026-W23",
+      "weekLabel": "1–7 Jun 2026",
+      "status": "pending",
+      "id": "2026-W23-002"
+    },
+    {
+      "headline": "Hong Kong court tears up a crypto settlement signed without authority",
+      "date": "2026-06-01",
+      "region": "HK",
+      "practiceAreas": [
+        "Disputes / Litigation",
+        "Restructuring & Insolvency"
+      ],
+      "whatsTheNews": "The Hong Kong Court of First Instance declared a settlement agreement null and void in a dispute tied to a cryptocurrency arbitration, in the case reported as LT v RV [2026] HKCFI 1280. A director had signed the settlement to end an arbitration, but he did not have the authority to bind the company, because a Seychelles court-approved restructuring scheme required a creditor-appointed director to approve such decisions. The court rejected the argument that the director had apparent authority, finding the other side acted unreasonably by ignoring suspicious signs. The judgment confirms that Hong Kong courts will supervise settlements connected to arbitrations even when those settlements are not formal arbitration awards. Herbert Smith Freehills Kramer and Reed Smith both flagged the ruling in early June 2026 client notes.",
+      "whatItMeans": "Arbitration is a private way of resolving disputes outside the public courts, where a neutral arbitrator decides the case. A settlement agreement is a deal between the parties to end a dispute on agreed terms. Authority here means the legal power to make decisions for a company; if the person signing lacks it, the company may not be bound. Apparent authority is when an outsider reasonably believes someone can sign for a company even if they actually cannot, but that protection fails if there were obvious warning signs. A restructuring scheme is a court-approved plan for a troubled company, and it can place limits on who is allowed to make decisions, which is exactly what tripped up this settlement.",
+      "clients": [
+        "Companies entering settlements must now double-check that the person signing on the other side actually has the power to do so, especially where that company is in restructuring. Skipping this check can leave a settlement worthless and the dispute reopened.",
+        "Creditors of restructured companies gain reassurance that governance controls built into a rescue plan will be enforced by Hong Kong courts. This protects the value they are owed from being given away by a rogue director.",
+        "Crypto and offshore businesses, which often use complex multi-jurisdiction structures, are reminded that Hong Kong courts will look closely at who has authority across that web. Sloppy governance can sink a deal that looked closed."
+      ],
+      "lawFirms": [
+        "Disputes and arbitration teams get work advising on challenges to settlements and awards, and on the supervisory power of the Hong Kong courts over arbitration-related deals. This case is a citable authority they will use again, which is why firms rushed out client notes.",
+        "Restructuring and insolvency lawyers will point to the ruling when designing governance controls in rescue schemes, because the court enforced exactly such a control here. Juniors learn how insolvency and dispute issues collide in practice.",
+        "Corporate teams advising on settlement and transaction sign-off gain a concrete reason to run authority and capacity checks before closing. Candidates should care because authority questions come up constantly and are easy to get wrong."
+      ],
+      "sources": [
+        {
+          "title": "Reed Smith: Hong Kong court declares settlement agreement null and void in crypto asset arbitration dispute",
+          "url": "https://www.reedsmith.com/articles/hong-kong-court-declares-settlement-agreement-null-and-void-in-crypto-asset-arbitration-dispute/"
+        }
+      ],
+      "week": "2026-W23",
+      "weekLabel": "1–7 Jun 2026",
+      "status": "pending",
+      "id": "2026-W23-003"
+    },
+    {
+      "headline": "Hong Kong Johnson warns profit could fall up to 90% even as sales surge",
+      "date": "2026-06-06",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "Disputes / Litigation"
+      ],
+      "whatsTheNews": "On 6 June 2026, Hong Kong Johnson Holdings (HKEX stock code 1955), a cleaning and pest-control services group, issued a profit warning for its financial year ended 31 March 2026. The company said profit attributable to shareholders is likely to drop by around 85% to 90% from the prior year. Last year's profit was about HK$16 million, so this year's could fall to between roughly HK$1.6 million and HK$2.4 million. At the same time, revenue is expected to rise by about 82% to 87%, to somewhere between HK$3,338 million and HK$3,426 million. The company blamed rising operating costs linked to geopolitical tension and higher oil prices, plus intense competition squeezing margins.",
+      "whatItMeans": "A profit warning is a public statement by a listed company telling the market in advance that its results will be much worse than people expect. Hong Kong listing rules require a company to release price-sensitive information promptly, so investors are not trading in the dark. Profit attributable to shareholders is the bottom-line profit that belongs to the company's owners after costs and minority interests. The striking part here is that revenue is rising fast while profit collapses, which means the company is winning more work but barely making money on it because costs and competition are eating the margin. Margin is the gap between what a company charges and what it costs to deliver, and a thin margin makes a business fragile.",
+      "clients": [
+        "Service companies that win contracts on price face the same squeeze: more revenue does not help if rising wages, fuel and competition wipe out the margin. Boards will look hard at pricing discipline and cost control.",
+        "Suppliers and lenders to Hong Kong Johnson will watch the thin profit closely, because a company making almost no money has little cushion if conditions worsen. They may tighten credit terms or seek extra security.",
+        "Investors and analysts get a fresh reminder that headline revenue growth can hide a weak business. Many will re-check other labour-heavy service firms exposed to fuel and wage inflation."
+      ],
+      "lawFirms": [
+        "Capital markets and listing teams advise issuers on when and how to release a profit warning under the HKEX inside-information rules, since getting the timing wrong can itself breach the rules. This is recurring compliance work for every listed-company client.",
+        "Disputes and contentious regulatory lawyers may be needed if shareholders or the regulator question whether the warning came late or whether earlier disclosures were misleading. Juniors learn how disclosure duties create litigation risk.",
+        "Restructuring teams keep an eye on names where collapsing margins could become a solvency problem down the line. Candidates should care because spotting financial stress early is a core skill across corporate and contentious work."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Johnson Holdings issues profit warning for FY2026 despite revenue growth",
+          "url": "https://www.minichart.com.sg/2026/06/06/hong-kong-johnson-holdings-issues-profit-warning-for-fy2026-despite-revenue-growth-amid-rising-costs-and-intense-competition-12/"
+        }
+      ],
+      "week": "2026-W23",
+      "weekLabel": "1–7 Jun 2026",
+      "status": "pending",
+      "id": "2026-W23-004"
+    },
+    {
+      "headline": "K&L Gates hires a cross-border M&A partner to chase Greater China deals",
+      "date": "2026-06-02",
+      "region": "HK",
+      "practiceAreas": [
+        "Corporate / M&A",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "On 2 June 2026, the global law firm K&L Gates announced it had hired Yang Wang as a corporate and M&A partner in its Hong Kong office. Wang joins from Dechert, where he led the China practice from Singapore and was managing partner of the Beijing office. His work focuses on cross-border mergers and acquisitions, private equity and venture capital investments, with a particular focus on the Greater China region, along with capital markets transactions. The hire signals that international firms still see a pipeline of China-linked deal work flowing through Hong Kong. It comes in the same week China published tougher outbound investment rules, which adds complexity, and reward, to exactly this kind of cross-border practice.",
+      "whatItMeans": "A law firm partner is a senior lawyer who is part-owner of the firm and brings in and leads client work, so a lateral partner hire is a firm betting on more business in that person's area. M&A means mergers and acquisitions, where companies buy, sell or combine businesses. Private equity (PE) firms buy companies using investor money and aim to sell later at a profit, while venture capital (VC) backs young, fast-growing companies. Greater China usually means mainland China, Hong Kong, Macau and sometimes Taiwan. When a firm invests in a partner focused on cross-border China deals, it is reading the market as expecting more such transactions, even as the rules around them get harder.",
+      "clients": [
+        "Chinese and international companies doing cross-border deals get more senior legal capacity to call on in Hong Kong, which matters when deal approvals are getting more complex. Strong advisers help deals close on time and survive regulatory review.",
+        "Private equity and venture capital funds investing into or out of Greater China benefit from advisers who know both the deal mechanics and the new outbound rules. Good counsel can be the difference between a deal that completes and one that stalls.",
+        "Companies considering Hong Kong listings tied to M&A gain from a partner who also handles capital markets work, joining up the deal and the listing. One adviser across both reduces cost and coordination headaches."
+      ],
+      "lawFirms": [
+        "This is a direct signal to candidates that corporate and M&A teams in Hong Kong are hiring and expect deal flow, even in a tougher regulatory climate. Lateral partner moves often precede a build-out of junior roles around the new partner.",
+        "It shows the premium firms place on China and cross-border expertise, so trainees who build mainland knowledge and language skills make themselves more marketable. The work sits at the centre of Hong Kong's value as a deal hub.",
+        "It also highlights how M&A, private equity and capital markets work overlaps, so juniors who can move between these areas are more useful on a deal team. Candidates should care because flexible corporate lawyers get staffed on the best matters."
+      ],
+      "sources": [
+        {
+          "title": "K&L Gates Adds Corporate M&A Partner in Hong Kong",
+          "url": "https://www.klgates.com/KL-Gates-Adds-Corporate-MA-Partner-in-Hong-Kong-6-2-2026"
+        }
+      ],
+      "week": "2026-W23",
+      "weekLabel": "1–7 Jun 2026",
+      "status": "pending",
+      "id": "2026-W23-005"
+    },
+    {
+      "headline": "Hong Kong regulators slam the door on dodgy mainland trading accounts",
+      "date": "2026-05-22",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "China / Cross-border"
+      ],
+      "region": "Global / HK",
+      "whatsTheNews": "On 22 May 2026 Hong Kong's two main financial regulators moved together to tighten how brokers and banks open and run investment accounts for clients from mainland China. The Securities and Futures Commission (SFC), which polices brokers and fund managers, issued a circular after reviewing account-opening practices at 12 licensed brokers and finding weak checks. The Hong Kong Monetary Authority (HKMA), which supervises banks, issued a matching circular telling locally incorporated banks to apply stricter controls. Firms must now collect written declarations that a mainland client's money comes from lawful sources outside the mainland, route money only through bank accounts in the client's own name, close accounts opened with forged or questionable documents, and shut dormant zero-balance accounts. Banks must also review accounts opened since January 2023 for forged paperwork, and the news broke into wider coverage around 27 May, the same week China's own regulator fined three cross-border brokers a combined 2.3 billion yuan.",
+      "whatItMeans": "A circular is a formal instruction a regulator sends to the firms it supervises telling them what standards it expects. A licensed corporation is a firm the SFC has authorised to deal in shares or run funds. The worry here is cross-border money flow: mainland Chinese residents face strict limits on moving money abroad, so some have opened Hong Kong trading accounts using fake documents or other people's names to get around those rules, which creates money-laundering risk. Source of funds means showing where the cash came from. Hong Kong wants to keep its status as a global finance hub without becoming a back door around mainland capital controls, so it is forcing brokers and banks to verify clients much harder.",
+      "clients": [
+        "Brokers such as Futu, UP Fintech and Longbridge that built fast-growing businesses serving mainland customers now face a compliance bill and may have to turn away or close accounts, hitting revenue. They must run look-back reviews of accounts opened since January 2023 and may need external consultants to do it.",
+        "Banks in Hong Kong have to re-screen large books of mainland client accounts and prove the money came from lawful offshore sources. Some banks have already started discouraging or pausing new mainland account openings, which slows their wealth-management growth.",
+        "Genuine mainland investors face more paperwork, declarations and delays when opening or keeping Hong Kong accounts, and dormant or thinly documented accounts may simply be closed, pushing some clients toward fully compliant private banks instead."
+      ],
+      "lawFirms": [
+        "Financial regulatory teams get immediate advisory work helping brokers and banks read the circulars, design new account-opening declarations, and build look-back review programmes. This is steady, deadline-driven work because the reviews carry fixed timelines.",
+        "China and cross-border practices are central because the action is coordinated with mainland enforcement, so firms with both Hong Kong and PRC regulatory reach can advise on exposure on both sides of the border. A candidate who understands capital controls and the SFC rulebook is valuable here.",
+        "Contentious regulatory and investigations lawyers stand to gain if the SFC takes supervisory or enforcement action against brokers found with forged documents, since those firms will need defence and remediation advice."
+      ],
+      "sources": [
+        {
+          "title": "SFC circular to licensed corporations: Expected controls for account opening and maintaining relationships with clients (Ref 26EC29)",
+          "url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/intermediaries/supervision/doc?refNo=26EC29"
+        },
+        {
+          "title": "Hong Kong Tightens Scrutiny of Mainland Chinese Investment Accounts - Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-05-27/hong-kong-tightens-scrutiny-of-mainland-chinese-investment-accounts-102448342.html"
+        },
+        {
+          "title": "Hong Kong SFC Circular on Account Opening Controls - Waystone Compliance",
+          "url": "https://compliance.waystone.com/hong-kong-sfc-circular-on-account-opening-controls-key-compliance-measures-for-chinese-mainland-investor-accounts/"
+        }
+      ],
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
-      "date": "2026-05-28",
-      "region": "HK",
-      "practiceAreas": ["Disputes / Litigation", "China / Cross-border"],
-      "whatsTheNews": "Hong Kong's Judiciary announced on 28 May 2026 that it will create a Hong Kong International Commercial Court (HKICC) to handle large, complex international business disputes. It will be a specialist division of the High Court, staffed by experienced commercial judges, with the option to invite senior judges from other common-law countries. A dedicated floor of the High Court will lean heavily on technology, including remote hearings, electronic filing, and voice-to-text transcription. The Judiciary aims to have it running within the coming year.",
-      "whatItMeans": "A commercial dispute is a legal fight between businesses, usually over contracts, money, or deals. Cross-border means the parties or the deal involve more than one place, for example a mainland Chinese company and a European one. A specialist division is a dedicated part of the court that handles only one kind of case, so the judges build deep expertise. Judgments from this court can also be recognised and enforced in mainland China under existing arrangements, so winning a case here actually carries weight across the border.",
-      "clients": [
-        "Businesses get a faster, expert venue. Big international disputes are complex, so specialist judges and modern technology mean cases can move more efficiently, which companies value when a lot of money is at stake.",
-        "Cross-border enforcement is the real prize. A judgment is only useful if you can actually collect, and because these rulings can be enforced in mainland China, companies have a stronger reason to bring disputes here.",
-        "It gives them another option besides arbitration. Many companies currently settle big disputes through private arbitration, so a credible court gives them a fresh route to weigh up, and they will ask lawyers which is better."
-      ],
-      "lawFirms": [
-        "It pulls high-value disputes work to Hong Kong. The bigger and more international the cases the city attracts, the more work flows to litigation teams, and these are exactly the high-fee cases firms want.",
-        "It plays to cross-border strength. Firms with both Hong Kong and mainland China capability are best placed to act, so this rewards the same firms chasing the China and Hong Kong market.",
-        "It signals where the growth is. A new court is a long-term bet on Hong Kong as a disputes hub, so students drawn to litigation or arbitration should watch this closely. The work is set to grow."
-      ],
-      "sources": [
-        {"title": "HK Government: Judiciary announces the HKICC initiative (28 May 2026)", "url": "https://www.info.gov.hk/gia/general/202605/28/P2026052800253.htm"},
-        {"title": "The Standard: HK International Commercial Court to hear cross-border disputes", "url": "https://www.thestandard.com.hk/news/article/333220/HK-International-Commercial-Court-to-adjudicate-international-cross-border-commercial-disputes"}
-      ]
+      "status": "pending",
+      "id": "2026-W22-001"
     },
     {
-      "id": "2026-W20-004",
+      "headline": "Hong Kong builds a new court just for big cross-border business fights",
+      "date": "2026-05-28",
+      "practiceAreas": [
+        "Disputes / Litigation",
+        "China / Cross-border"
+      ],
+      "region": "HK",
+      "whatsTheNews": "On 28 May 2026 the Hong Kong Judiciary announced plans to set up the Hong Kong International Commercial Court (HKICC), a specialist division of the High Court that will hear complex, high-value international and cross-border commercial disputes. Experienced Hong Kong judges with strong commercial backgrounds will sit on it, and eminent judges or senior practitioners from other common law countries may be invited to sit on an ad hoc basis. The court will lean heavily on technology, including remote hearings, electronic filing and voice-to-text transcription. Chief Executive John Lee welcomed the plan, which is tied to the national 15th Five-Year Plan. The HKICC is still in the preparatory stage and is expected to be formally established within about a year after the Judiciary consults the legal profession.",
+      "whatItMeans": "A commercial court is a court that specialises in business disputes such as contract breaches, shareholder rows, banking claims and big project failures, rather than crime or family matters. Cross-border means the parties or the deal touch more than one country, which makes the case harder because of conflicting laws and the need to enforce a judgment abroad. Hong Kong already markets itself as a place to resolve disputes through arbitration, where private arbitrators decide cases confidentially. This new court offers a public, judge-led option instead, and it is competing directly with Singapore and London, which already run similar international commercial courts. The aim is to attract more legal work to Hong Kong and reinforce its role as a dispute-resolution centre for Asia.",
+      "clients": [
+        "Multinationals and mainland Chinese companies doing cross-border deals gain a dedicated, tech-enabled forum to resolve large disputes, which can make Hong Kong-governed contracts more attractive when they negotiate.",
+        "Banks, insurers and investors that already choose Hong Kong law for their contracts get more certainty that a specialist judge will hear any fight, which supports confidence in lending and investing through Hong Kong.",
+        "Businesses weighing Singapore versus Hong Kong for their deal documents now have a closer call, since Hong Kong is matching a feature Singapore has marketed for years, and the common law system plus access to mainland enforcement is a selling point."
+      ],
+      "lawFirms": [
+        "Disputes and litigation teams are the obvious winners, because a flagship court designed for high-value cross-border cases should pull more big-ticket commercial litigation into Hong Kong rather than to rival hubs.",
+        "Arbitration practices will watch closely, since the court competes with arbitration for the same disputes, and firms strong in both can advise clients on which route suits a given contract. Candidates who understand the trade-offs between court and arbitration will stand out.",
+        "China and cross-border teams benefit because the court is pitched at mainland-linked disputes and tied to national policy, so firms with both Hong Kong and PRC capability can steer clients toward Hong Kong jurisdiction clauses."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Judiciary announces initiative to establish Hong Kong International Commercial Court - info.gov.hk",
+          "url": "https://www.info.gov.hk/gia/general/202605/28/P2026052800253.htm"
+        },
+        {
+          "title": "Hong Kong to Set Up Dedicated Commercial Court for Cross-Border Disputes - Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-05-28/hong-kong-to-set-up-dedicated-commercial-court-for-cross-border-disputes-102448710.html"
+        },
+        {
+          "title": "International court plan announced - news.gov.hk",
+          "url": "https://www.news.gov.hk/eng/2026/05/20260528/20260528_110540_898.html"
+        }
+      ],
+      "week": "2026-W22",
+      "weekLabel": "25–31 May 2026",
+      "status": "pending",
+      "id": "2026-W22-002"
+    },
+    {
+      "headline": "SFC bans broker boss for life over a 154 million dollar client money grab",
+      "date": "2026-05-26",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Disputes / Litigation"
+      ],
+      "region": "HK",
+      "whatsTheNews": "On 26 May 2026 the Securities and Futures Commission permanently banned Paul Wan Kai Leung, a former director and responsible officer of broker Nerico Brothers Limited, from the financial industry. The SFC found that a client, called Company X, deposited more than US$77 million from June 2020 for spot foreign-exchange trading, but less than 12 percent was actually used for trading. The SFC said Wan let Nerico use the remaining roughly US$68 million for unauthorised share subscriptions in offshore funds for the firm's own benefit. When Company X asked for its money back from October 2021, around US$154 million in total, Nerico refused to return it. The SFC called Wan's conduct egregious, dishonest and damaging to market integrity, noting he had signed documents and authorised transfers while serving as director and head of compliance and risk.",
+      "whatItMeans": "A responsible officer is a senior person the SFC approves to supervise a licensed firm's regulated activities, so they carry personal accountability if things go wrong. Client money rules require a broker to keep customer funds separate and use them only as instructed, not for the firm's own bets. Misappropriation means taking or using money that belongs to someone else. A lifetime ban means the SFC has decided the person is not fit and proper to work in the industry ever again, which is the most serious regulatory sanction short of criminal prosecution. This case shows the SFC holding named individuals, not just firms, personally responsible when client money goes missing.",
+      "clients": [
+        "Clients of smaller brokers are reminded that their cash can be at risk if a firm misuses it, which pushes sophisticated investors toward larger, better-capitalised institutions and tighter contractual protections.",
+        "Firms across the brokerage sector face pressure to prove their client-money segregation and internal controls actually work, since the SFC is willing to ban the individuals who signed off on transfers.",
+        "Senior managers and responsible officers personally now see that approving improper transfers can end their careers, which raises the bar on internal sign-offs and could slow approvals inside brokers."
+      ],
+      "lawFirms": [
+        "Financial regulatory and enforcement defence teams pick up work representing individuals and firms facing SFC investigations, disciplinary hearings and possible bans, which is high-stakes, document-heavy work.",
+        "Contentious regulatory lawyers may also act on civil recovery, because a client owed US$154 million will chase the money through the courts, generating asset-tracing and freezing-order work.",
+        "Compliance advisory teams gain instructions from brokers wanting health checks on client-money controls and responsible-officer accountability, and a candidate who understands the SFC fit-and-proper standard is immediately useful."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong SFC Enforcement Roundup: May 2026 - Charltons",
+          "url": "https://www.charltonslaw.com/hong-kong-sfc-enforcement-roundup-may-2026/"
+        }
+      ],
+      "week": "2026-W22",
+      "weekLabel": "25–31 May 2026",
+      "status": "pending",
+      "id": "2026-W22-003"
+    },
+    {
+      "headline": "Movie producer goes to jail for tipping off his sister on a share deal",
+      "date": "2026-05-22",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Disputes / Litigation"
+      ],
+      "region": "HK",
+      "whatsTheNews": "Hong Kong film producer Raymond Wong Pak Ming was convicted of insider dealing in a prosecution brought by the Securities and Futures Commission, following a 16-day trial that concluded on 22 May 2026. The case concerned shares in Pegasus Entertainment Holdings, where Wong was chairman and controlling shareholder. In 2017, while negotiating to sell his controlling stake, he learned price-sensitive information that was not public, including the signing of a memorandum of understanding and receipt of HK$10 million as a deposit from a buyer. The court found he advised his sister to buy Pegasus shares, transferring her money to do so, and she bought over nine million shares before the deal was announced and the price rose. Wong was sentenced to five months in jail, fined HK$99,720 equal to his sister's profit, and ordered to pay the SFC's investigation costs.",
+      "whatItMeans": "Insider dealing means trading shares, or telling someone else to trade, while you hold important confidential information about a company that the public does not yet have. Inside information is news that would move the share price if it became public, like a takeover or a big deal. It is illegal because it lets the insider profit unfairly at the expense of ordinary investors who do not know. A memorandum of understanding is an early document setting out the outline of a deal before the final contract. The SFC both regulates the market and prosecutes these cases in the criminal courts, and here it secured a jail term, which signals it treats insider dealing as a crime, not just a fine.",
+      "clients": [
+        "Listed-company directors and controlling shareholders are reminded that sharing deal news with family or friends who then trade can land them in prison, which tightens how boards handle confidential negotiations.",
+        "Companies in the middle of takeovers or major deals face pressure to lock down information and keep clear records of who knew what and when, to protect both the deal and their people.",
+        "Investors and the wider market benefit from visible enforcement, because credible punishment of insider dealing supports confidence that Hong Kong's market is fair, which matters to the funds that trade there."
+      ],
+      "lawFirms": [
+        "Financial regulatory and white-collar crime teams act for individuals facing SFC criminal prosecution, which is trial work with real liberty at stake and draws on both regulatory and criminal litigation skills.",
+        "Corporate and capital markets teams advise listed clients on information barriers, disclosure timing and insider lists during live deals, so awareness of insider-dealing risk feeds directly into transactional practice.",
+        "Barristers and disputes lawyers gain advocacy experience in a specialised area, and a candidate who can explain the difference between possessing and misusing inside information shows commercial and legal awareness at once."
+      ],
+      "sources": [
+        {
+          "title": "Movie producer Wong Pak Ming convicted of insider dealing in SFC's prosecution - SFC (Ref 26PR73)",
+          "url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR73"
+        },
+        {
+          "title": "Movie producer Wong Pak Ming convicted of insider dealing - Timothy Loh LLP",
+          "url": "https://www.timothyloh.com/insights/latest-news/movie-producer-wong-pak-ming-convicted-of-insider-dealing-in-sfc-s-prosecution-20260522"
+        }
+      ],
+      "week": "2026-W22",
+      "weekLabel": "25–31 May 2026",
+      "status": "pending",
+      "id": "2026-W22-004"
+    },
+    {
+      "headline": "HKMA chief lays out the plan to make digital money trustworthy",
+      "date": "2026-05-29",
+      "practiceAreas": [
+        "FinTech / TMT",
+        "Financial Regulatory"
+      ],
+      "region": "HK",
+      "whatsTheNews": "On 29 May 2026 Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, gave a keynote speech at the Hong Kong Digital Finance Summit setting out how the regulator sees the future of money. He argued that trust, not technology, is the real foundation of money, and described three jobs for the HKMA: providing central bank money in new digital forms, setting regulatory guardrails for private innovation, and building shared infrastructure that connects the system. He pointed to progress on the e-HKD pilot, tokenised government green bonds that settled using both digital yuan and digital Hong Kong dollars, and the new stablecoin regime under which two issuers have been licensed. He also said Project Ensemble is moving to a new phase, called EnsembleTX, that allows real transactions in tokenised deposits and assets on a delivery-versus-payment basis. He named two remaining challenges: moving from copying existing assets onto blockchains toward natively digital issuance, and stopping the market fragmenting into incompatible platforms.",
+      "whatItMeans": "Tokenisation means turning an asset, like a bond or a bank deposit, into a digital token recorded on a blockchain so it can be traded and settled almost instantly. A stablecoin is a digital coin designed to hold a steady value by being backed by reserves, usually pegged to a currency like the Hong Kong dollar. A central bank digital currency, such as the e-HKD, is digital cash issued by the central bank itself. Delivery-versus-payment means the asset and the money change hands at the same moment, so neither side is left exposed. Project Ensemble is the HKMA's sandbox for testing how tokenised money and assets work together. The speech matters because it signals where Hong Kong's rules and infrastructure for digital finance are heading, which shapes what banks and fintechs can build next.",
+      "clients": [
+        "Banks and fintechs get a clearer read on the HKMA's direction, helping them decide where to invest in tokenised deposits, stablecoin products and settlement platforms without guessing the regulator's appetite.",
+        "Asset managers and bond issuers see tokenised settlement maturing toward real transactions, which over time could cut settlement times and costs, though it also means rebuilding back-office systems.",
+        "Technology and payments firms face a push toward common standards, so those that build interoperable systems are favoured while those betting on closed, proprietary platforms risk being stranded."
+      ],
+      "lawFirms": [
+        "FinTech and TMT teams gain advisory work helping clients structure tokenised products, stablecoin issuance and digital-asset platforms within the HKMA framework, a fast-growing niche where demand outstrips experienced lawyers.",
+        "Banking and finance teams advise on the legal mechanics of tokenised deposits, settlement and custody, since putting traditional instruments on a blockchain raises new questions about ownership, finality and security.",
+        "Financial regulatory lawyers help clients win and keep stablecoin and digital-asset licences and meet the guardrails the HKMA is setting, and a candidate fluent in both code concepts and regulation is genuinely scarce and prized."
+      ],
+      "sources": [
+        {
+          "title": "Keynote Speech at Hong Kong Digital Finance Summit 2026 - HKMA",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/05/20260529-1/"
+        }
+      ],
+      "week": "2026-W22",
+      "weekLabel": "25–31 May 2026",
+      "status": "pending",
+      "id": "2026-W22-005"
+    },
+    {
+      "headline": "Hong Kong's economy roars back with 5.9 percent growth and low joblessness",
+      "date": "2026-05-29",
+      "practiceAreas": [
+        "Corporate / M&A",
+        "Capital Markets"
+      ],
+      "region": "HK",
+      "whatsTheNews": "Official data confirmed through late May 2026 showed Hong Kong's economy growing strongly. Real gross domestic product rose 5.9 percent in the first quarter of 2026 compared with a year earlier, up sharply from 4.0 percent in the previous quarter and the fastest expansion since 2021. On a quarter-on-quarter basis, adjusted for seasonal swings, the economy grew 2.9 percent. The unemployment rate held at 3.7 percent for the March to May 2026 period, unchanged from the prior three months. Retail sales rose 8.6 percent in April from a year earlier. The government kept its full-year 2026 growth forecast at 2.5 to 3.5 percent, with the strong start helped by firmer consumer and government spending, investment, booming AI-related exports, and a rebound in equities and house prices since mid-2025.",
+      "whatItMeans": "Gross domestic product, or GDP, is the total value of everything an economy produces, so its growth rate is the headline measure of how fast the economy is expanding. Year on year compares a quarter with the same quarter a year earlier, which strips out seasonal effects. The unemployment rate is the share of people who want work but cannot find it, and 3.7 percent is very low, meaning close to full employment. Retail sales track how much consumers are spending in shops, a sign of confidence. Wealth effect means people spend more when their shares and homes are worth more. Strong growth and low unemployment generally mean companies feel confident to invest, hire, raise money and do deals, which feeds the legal market.",
+      "clients": [
+        "Companies facing a confident economy and rising consumer spending are more willing to expand, invest and pursue acquisitions, which lifts demand for financing and deal-making.",
+        "Retailers, landlords and consumer-facing businesses benefit from the 8.6 percent jump in retail sales and the tourism rebound, supporting leasing, expansion and new outlet decisions.",
+        "Banks and investors gain confidence from low unemployment and buoyant markets, making them readier to lend and back IPOs, though they will watch whether the strong growth lasts given the modest full-year forecast."
+      ],
+      "lawFirms": [
+        "Corporate and M&A teams benefit when the economy is strong, because confident boards launch more acquisitions, joint ventures and expansions, which is the bread and butter of transactional practice.",
+        "Capital markets teams ride the buoyant equity backdrop, since rising markets encourage companies to list and raise money in Hong Kong, feeding IPO and fundraising work.",
+        "Real estate and banking teams gain from the rebound in property and consumer spending, with more leasing, development and lending mandates, and a candidate who can link economic data to where deal flow goes shows real commercial awareness."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Economic Situation - Latest Developments - hkeconomy.gov.hk",
+          "url": "https://www.hkeconomy.gov.hk/en/situation/development/index.htm"
+        }
+      ],
+      "week": "2026-W22",
+      "weekLabel": "25–31 May 2026",
+      "status": "pending",
+      "id": "2026-W22-006"
+    },
+    {
+      "headline": "Hong Kong banks get a new digital tool to lend to small traders",
+      "date": "2026-05-07",
+      "practiceAreas": [
+        "Banking & Finance",
+        "FinTech / TMT"
+      ],
+      "region": "HK",
+      "whatsTheNews": "On 7 May 2026 the Hong Kong Monetary Authority launched the Cargox Pilot Programme, a scheme involving 21 participating banks to push trade finance into the digital age. The idea is to use cargo and trade data, shared through the HKMA's Commercial Data Interchange infrastructure, to make it easier for banks to assess and lend to small and medium-sized enterprises that import and export goods. Deputy Chief Executive Howard Lee called the launch a key milestone in turning the earlier Cargox recommendations into action. The pilot runs through 2026 and 2027 and targets four areas: linking up with cargo platforms, combining trade and cash-flow data for credit checks, using a Digital Corporate Identity for secure data sharing, and improving connectivity with major trade corridors. The aim is to unlock more trade finance for SMEs and reinforce Hong Kong's position as a trade and finance hub.",
+      "whatItMeans": "Trade finance is the lending and guarantees banks provide so that goods can be bought and shipped across borders, for example paying a supplier before the buyer has received and sold the goods. Small and medium-sized enterprises, or SMEs, often struggle to get this credit because banks find it hard and costly to verify their trade activity. The Commercial Data Interchange is an HKMA-run platform that lets businesses share their data, with consent, directly to banks. By feeding banks reliable cargo data, the scheme lets them judge a small trader's creditworthiness more cheaply and confidently. Digital Corporate Identity is a secure digital ID for a company so data can be shared without fraud. The goal is to get more credit flowing to smaller exporters and importers.",
+      "clients": [
+        "Small and medium importers and exporters stand to get easier, faster access to trade finance, because banks can verify their real cargo activity instead of relying on patchy paperwork.",
+        "Banks gain a cheaper, data-driven way to assess SME credit risk, which can open a customer segment many found unprofitable, though they must build the systems and controls to use the data.",
+        "Logistics and cargo platform operators become valuable data partners, since their information feeds the credit decisions, giving them a new role in the financing chain."
+      ],
+      "lawFirms": [
+        "Banking and finance teams advise banks on the contracts and risk allocation behind data-driven trade finance, including how liability is shared if shared data turns out to be wrong.",
+        "FinTech and TMT teams handle the data-sharing, consent and Digital Corporate Identity arrangements, where data protection and security questions sit alongside the financing, so cross-disciplinary skills matter.",
+        "Trade and commodity finance specialists gain work as digital platforms reshape long-standing trade finance documents, and a candidate who understands both the lending and the technology will be well placed."
+      ],
+      "sources": [
+        {
+          "title": "HKMA launches Cargox Pilot Programme - HKMA press release",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/05/20260507-7/"
+        }
+      ],
+      "week": "2026-W22",
+      "weekLabel": "25–31 May 2026",
+      "status": "pending",
+      "id": "2026-W22-007"
+    },
+    {
+      "id": "2026-W20-001",
       "status": "pending",
       "headline": "Hong Kong's Economy Grows 5.9%, Its Fastest in Almost Five Years",
       "week": "2026-W20",
       "weekLabel": "11–17 May 2026",
       "date": "2026-05-15",
       "region": "HK",
-      "practiceAreas": ["Banking & Finance", "China / Cross-border"],
+      "practiceAreas": [
+        "Banking & Finance",
+        "China / Cross-border"
+      ],
       "whatsTheNews": "Hong Kong's economy grew 5.9% in the first quarter of 2026 compared with a year earlier, its fastest pace in almost five years. The jump was driven by a 23.7% surge in goods exports, helped by strong global demand for AI-related electronics, along with firm spending at home. The government kept its full-year 2026 growth forecast at 2.5% to 3.5%. It flagged that global tensions remain a risk to the outlook.",
       "whatItMeans": "GDP, or gross domestic product, is the total value of everything a place produces, and its growth rate shows how fast the economy is expanding. Exports are the goods and services a place sells abroad, so a big rise in exports means strong foreign demand, here for the electronics behind AI. A growth rate of 5.9% is high for a developed economy like Hong Kong's, which is why it stands out. A strong economy usually means more business activity, more deals, and more hiring.",
       "clients": [
@@ -107,19 +762,27 @@
         "It is the backdrop to commercial awareness. Understanding why the economy is strong, and what could threaten it, is exactly the kind of insight interviewers test."
       ],
       "sources": [
-        {"title": "HK Government: economy grows 5.9% in Q1 (15 May 2026)", "url": "https://www.news.gov.hk/eng/2026/05/20260515/20260515_165309_577.html"},
-        {"title": "SCMP: finance chief says Hong Kong on track for strongest quarterly growth in 5 years", "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352258/finance-chief-says-hong-kong-track-strongest-quarterly-growth-5-years"}
+        {
+          "title": "HK Government: economy grows 5.9% in Q1 (15 May 2026)",
+          "url": "https://www.news.gov.hk/eng/2026/05/20260515/20260515_165309_577.html"
+        },
+        {
+          "title": "SCMP: finance chief says Hong Kong on track for strongest quarterly growth in 5 years",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352258/finance-chief-says-hong-kong-track-strongest-quarterly-growth-5-years"
+        }
       ]
     },
     {
-      "id": "2026-W18-005",
+      "id": "2026-W18-001",
       "status": "pending",
       "headline": "Hong Kong's Minimum Wage Rises to HK$43.10 Under a New Yearly System",
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
       "date": "2026-05-01",
       "region": "HK",
-      "practiceAreas": ["Employment"],
+      "practiceAreas": [
+        "Employment"
+      ],
       "whatsTheNews": "Hong Kong's statutory minimum wage rose to HK$43.10 an hour on 1 May 2026, up by HK$1 from HK$42.10. It is the first rise under a new system that reviews the minimum wage every year using a set formula, instead of every two years as before. The government also raised the pay level below which employers must keep detailed records of hours worked. The change applies to all hours worked from 1 May, even part-way through a pay period.",
       "whatItMeans": "The statutory minimum wage is the lowest hourly pay an employer is legally allowed to give most workers. A review mechanism is the process the government uses to decide whether and how much to raise it, and Hong Kong has switched from a slow two-year cycle to a yearly one driven by a formula. The record-keeping threshold is the pay level below which bosses must log exact hours, which helps prove that low-paid staff are paid at least the minimum. Together these changes make pay rises more regular and easier to enforce.",
       "clients": [
@@ -133,19 +796,27 @@
         "It keeps employment law in demand. Steady changes like this show why firms keep employment specialists busy, an area where juniors get early client contact."
       ],
       "sources": [
-        {"title": "SCMP: Hong Kong's minimum wage set to rise by HK$1 to HK$43.10", "url": "https://www.scmp.com/news/hong-kong/article/3343063/hong-kongs-minimum-wage-set-rise-hk1-hour-hk4310"},
-        {"title": "Labour Department: Statutory Minimum Wage (official)", "url": "https://www.labour.gov.hk/eng/public/content2_smw.htm"}
+        {
+          "title": "SCMP: Hong Kong's minimum wage set to rise by HK$1 to HK$43.10",
+          "url": "https://www.scmp.com/news/hong-kong/article/3343063/hong-kongs-minimum-wage-set-rise-hk1-hour-hk4310"
+        },
+        {
+          "title": "Labour Department: Statutory Minimum Wage (official)",
+          "url": "https://www.labour.gov.hk/eng/public/content2_smw.htm"
+        }
       ]
     },
     {
-      "id": "2026-W18-006",
+      "id": "2026-W18-002",
       "status": "pending",
       "headline": "Hong Kong Holds Interest Rates With the Fed as Rate-Cut Hopes Build",
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
       "date": "2026-04-30",
       "region": "HK",
-      "practiceAreas": ["Banking & Finance"],
+      "practiceAreas": [
+        "Banking & Finance"
+      ],
       "whatsTheNews": "The Hong Kong Monetary Authority kept the city's base interest rate at 4% in step with the US Federal Reserve, which held its own rate steady. Hong Kong has tied its currency to the US dollar since 1983, so it follows the Fed's moves rather than setting rates on its own. Analysts expect the Fed to cut rates over the course of 2026, which would pull Hong Kong's rates down too. Cheaper borrowing is already feeding through to a recovering property market.",
       "whatItMeans": "An interest rate is the cost of borrowing money, set as a percentage. Because the Hong Kong dollar is pegged (fixed) to the US dollar, the HKMA has to shadow US rates to keep the peg stable, which is why it moves with the Fed. A base rate is the benchmark that influences what banks charge for loans and mortgages. When rates fall, loans and mortgages get cheaper, which tends to lift spending, business activity, and property prices.",
       "clients": [
@@ -159,19 +830,28 @@
         "A busy deal market means more hiring. When transactions pick up, firms need juniors and trainees to handle the volume, which is good news for applicants."
       ],
       "sources": [
-        {"title": "SCMP: HKMA mirrors the Fed and keeps the interest rate unchanged", "url": "https://www.scmp.com/business/banking-finance/article/3341602/hkma-follows-federal-reserve-keep-interest-rate-unchanged"},
-        {"title": "HKMA: response to the US Fed's interest rate decision (30 Apr 2026)", "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/04/20260430-3/"}
+        {
+          "title": "SCMP: HKMA mirrors the Fed and keeps the interest rate unchanged",
+          "url": "https://www.scmp.com/business/banking-finance/article/3341602/hkma-follows-federal-reserve-keep-interest-rate-unchanged"
+        },
+        {
+          "title": "HKMA: response to the US Fed's interest rate decision (30 Apr 2026)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/04/20260430-3/"
+        }
       ]
     },
     {
-      "id": "2026-W15-007",
+      "id": "2026-W15-001",
       "status": "pending",
       "headline": "HKMA Hands Out Hong Kong's First Stablecoin Licences to HSBC and a Standard Chartered Venture",
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
       "date": "2026-04-10",
       "region": "HK",
-      "practiceAreas": ["Financial Regulatory", "FinTech / TMT"],
+      "practiceAreas": [
+        "Financial Regulatory",
+        "FinTech / TMT"
+      ],
       "whatsTheNews": "On 10 April 2026, the Hong Kong Monetary Authority granted the city's first ever stablecoin issuer licences. They went to HSBC and to Anchorpoint Financial, a joint venture backed by Standard Chartered, the telecoms group HKT, and Animoca Brands. The two were chosen from a large pool of applicants under rules that took effect in 2025. Both plan to launch their Hong Kong dollar stablecoins later in 2026.",
       "whatItMeans": "A stablecoin is digital money designed to always equal a real currency, here one coin for one Hong Kong dollar. An issuer is the company that creates and stands behind the coin, and it must hold enough safe assets to repay every holder. A licence is official permission to do this, and the HKMA granting only two shows how high the bar is. HSBC has said it wants to plug its stablecoin into everyday tools like its banking app and PayMe.",
       "clients": [
@@ -185,19 +865,28 @@
         "Early movers build the reputation. Firms involved in the first licences become the names clients think of, which pulls in the next wave of digital-money work for juniors to cut their teeth on."
       ],
       "sources": [
-        {"title": "HKMA: granting of stablecoin issuer licences (10 Apr 2026)", "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/04/20260410-4/"},
-        {"title": "HSBC: welcomes the HKMA's grant of a stablecoin issuer licence", "url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-welcomes-hkmas-grant-of-a-hong-kong-stablecoin-issuer-licence"}
+        {
+          "title": "HKMA: granting of stablecoin issuer licences (10 Apr 2026)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/04/20260410-4/"
+        },
+        {
+          "title": "HSBC: welcomes the HKMA's grant of a stablecoin issuer licence",
+          "url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-welcomes-hkmas-grant-of-a-hong-kong-stablecoin-issuer-licence"
+        }
       ]
     },
     {
-      "id": "2026-W15-008",
+      "id": "2026-W15-002",
       "status": "pending",
       "headline": "Hong Kong Smashes IPO Records With HK$110 Billion in Three Months",
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
       "date": "2026-04-09",
       "region": "HK",
-      "practiceAreas": ["Capital Markets", "China / Cross-border"],
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
       "whatsTheNews": "Hong Kong raised about HK$109.9 billion from 40 new share listings in the first three months of 2026, its best first quarter in five years. That was roughly six times the amount raised in the same period of 2025. Most of the money came from \"A+H\" listings, where mainland Chinese companies already listed at home add a Hong Kong listing, which made up 60% of the total. Specialist technology companies listing under a newer set of rules (Chapter 18C) added another HK$19.5 billion.",
       "whatItMeans": "An IPO is when a company sells its shares to the public for the first time and joins a stock exchange. An A+H listing is when a company already listed in mainland China (the \"A\" shares) also lists in Hong Kong (the \"H\" shares) to reach international investors. Chapter 18C is a special part of Hong Kong's rulebook that lets young, fast-growing tech companies list even if they are not yet profitable. A strong IPO quarter means a lot of high-value legal work flowing into the city.",
       "clients": [
@@ -211,19 +900,28 @@
         "A full pipeline means more hiring. IPO work needs lots of junior lawyers, so a booming market is one of the clearest signals of trainee demand."
       ],
       "sources": [
-        {"title": "SCMP: Hong Kong retains the global IPO crown in the first quarter", "url": "https://www.scmp.com/business/banking-finance/article/3348536/hong-kong-retains-global-ipo-crown-first-quarter-faces-us-mega-listings"},
-        {"title": "KPMG: Hong Kong IPOs raise ~HK$110 billion in Q1 2026", "url": "https://kpmg.com/cn/en/media/press-releases/2026/04/chinese-mainland-and-hk-ipo-markets-2026-q1-review-press-release.html"}
+        {
+          "title": "SCMP: Hong Kong retains the global IPO crown in the first quarter",
+          "url": "https://www.scmp.com/business/banking-finance/article/3348536/hong-kong-retains-global-ipo-crown-first-quarter-faces-us-mega-listings"
+        },
+        {
+          "title": "KPMG: Hong Kong IPOs raise ~HK$110 billion in Q1 2026",
+          "url": "https://kpmg.com/cn/en/media/press-releases/2026/04/chinese-mainland-and-hk-ipo-markets-2026-q1-review-press-release.html"
+        }
       ]
     },
     {
-      "id": "2026-W13-009",
+      "id": "2026-W13-001",
       "status": "pending",
       "headline": "Hong Kong's Privacy Watchdog Turns Its Attention to AI and Your Data",
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
       "date": "2026-03-24",
       "region": "HK",
-      "practiceAreas": ["Cybersecurity / Data", "IP / TMT"],
+      "practiceAreas": [
+        "Cybersecurity / Data",
+        "IP / TMT"
+      ],
       "whatsTheNews": "Hong Kong's privacy regulator, the PCPD, has spent 2026 pushing companies to use artificial intelligence without mishandling people's personal data. It has urged organisations to set internal rules on how staff use AI tools and to be clear about when customer data is used to train AI systems. This builds on a model framework it issued for protecting personal data in AI. The watchdog says firms should plan for both innovation and data safety from the start.",
       "whatItMeans": "The PCPD (Privacy Commissioner for Personal Data) is the body that enforces Hong Kong's data privacy law, the Personal Data (Privacy) Ordinance. Personal data is information that identifies a living person, like a name, photo, or ID number. Training an AI system often means feeding it large amounts of data, which can include customers' personal data, so the watchdog wants companies to handle that carefully. A framework here is a set of recommended steps a company can follow to stay on the right side of the law while using AI.",
       "clients": [
@@ -237,18 +935,24 @@
         "It feeds future disputes. As AI use spreads, privacy complaints and investigations will follow, giving contentious teams new work down the line."
       ],
       "sources": [
-        {"title": "PCPD: aligning with the 15th Five-Year Plan, building privacy safeguards for AI (24 Mar 2026)", "url": "https://www.pcpd.org.hk/english/whatsnew/20260324.html"}
+        {
+          "title": "PCPD: aligning with the 15th Five-Year Plan, building privacy safeguards for AI (24 Mar 2026)",
+          "url": "https://www.pcpd.org.hk/english/whatsnew/20260324.html"
+        }
       ]
     },
     {
-      "id": "2026-W09-010",
+      "id": "2026-W09-001",
       "status": "pending",
       "headline": "Hong Kong's 2026-27 Budget Bets on Finance, AI and a First Surplus in Years",
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
       "date": "2026-02-25",
       "region": "HK",
-      "practiceAreas": ["Tax", "Capital Markets"],
+      "practiceAreas": [
+        "Tax",
+        "Capital Markets"
+      ],
       "whatsTheNews": "Financial Secretary Paul Chan delivered Hong Kong's 2026-27 Budget on 25 February 2026, reporting an operating surplus earlier than expected after three years of deficits. The theme was driving growth through innovation and finance. He set out steps to strengthen Hong Kong as a financial centre, build up its intellectual property economy, and develop the Northern Metropolis near the mainland border. He also proposed moving HK$150 billion from the Exchange Fund to help pay for infrastructure.",
       "whatItMeans": "The Budget is the government's yearly plan for how it will raise and spend money. An operating surplus means the government took in more than it spent on day-to-day running, which is a sign the finances are improving. The Exchange Fund is Hong Kong's huge reserve pot, mainly used to defend the currency, so moving money out of it to fund building projects is a notable choice. The Northern Metropolis is a major plan to build homes, offices, and tech parks near the border with mainland China.",
       "clients": [
@@ -262,19 +966,28 @@
         "Projects work follows the money. Major builds in the Northern Metropolis mean construction, financing, and real estate mandates for years to come."
       ],
       "sources": [
-        {"title": "HK Government: 2026-27 Budget Speech by the Financial Secretary (25 Feb 2026)", "url": "https://www.info.gov.hk/gia/general/202602/25/P2026022500156.htm"},
-        {"title": "SCMP: Budget 2026-27 bets big on AI, chips and the Northern Metropolis", "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344514/budget-2026-27-what-can-hongkongers-expect-paul-chans-financial-plans"}
+        {
+          "title": "HK Government: 2026-27 Budget Speech by the Financial Secretary (25 Feb 2026)",
+          "url": "https://www.info.gov.hk/gia/general/202602/25/P2026022500156.htm"
+        },
+        {
+          "title": "SCMP: Budget 2026-27 bets big on AI, chips and the Northern Metropolis",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344514/budget-2026-27-what-can-hongkongers-expect-paul-chans-financial-plans"
+        }
       ]
     },
     {
-      "id": "2026-W04-011",
+      "id": "2026-W04-001",
       "status": "pending",
       "headline": "Hong Kong's Competition Court Lets a HK$150 Million Cartel Penalty Wait",
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
       "date": "2026-01-20",
       "region": "HK",
-      "practiceAreas": ["Competition", "Disputes / Litigation"],
+      "practiceAreas": [
+        "Competition",
+        "Disputes / Litigation"
+      ],
       "whatsTheNews": "In a January 2026 ruling, Hong Kong's Court of Appeal looked at how the Competition Tribunal handles penalties and evidence in cartel cases. The case involved ATAL, a building-services contractor that admitted taking part in cartel conduct on air-conditioning and renovation work and agreed to pay HK$150 million in total. The court allowed the Tribunal to hold off setting ATAL's final penalty until related cases against other companies finish, so the penalties stay consistent. It also clarified which documents must be shared between the sides in these cases.",
       "whatItMeans": "A cartel is a secret deal between competitors to fix prices or carve up work, which harms customers and is illegal. The Competition Tribunal is the special court that hears these cases and decides penalties. Admitting liability means a company accepts it broke the law, often in exchange for a lower penalty. The ruling matters because it shapes the order in which penalties are set and what evidence the sides must hand over, which affects how future cartel cases run.",
       "clients": [
@@ -288,19 +1001,28 @@
         "It spans advice and litigation. Lawyers both help clients avoid breaches and defend them when accused, giving a broad mix of experience."
       ],
       "sources": [
-        {"title": "Kennedys: HK Court of Appeal on disclosure and adjourning sentencing in the Competition Tribunal", "url": "https://www.kennedyslaw.com/en/thought-leadership/article/2026/hong-kong-court-of-appeal-clarifies-scope-of-document-disclosure-in-competition-tribunal-proceedings-and-the-tribunal-s-power-adjourn-sentencing/"},
-        {"title": "O'Melveny: Hong Kong Competition Commission brings charges against individuals", "url": "https://www.omm.com/insights/alerts-publications/hong-kong-competition-commission-brings-charges-against-individuals/"}
+        {
+          "title": "Kennedys: HK Court of Appeal on disclosure and adjourning sentencing in the Competition Tribunal",
+          "url": "https://www.kennedyslaw.com/en/thought-leadership/article/2026/hong-kong-court-of-appeal-clarifies-scope-of-document-disclosure-in-competition-tribunal-proceedings-and-the-tribunal-s-power-adjourn-sentencing/"
+        },
+        {
+          "title": "O'Melveny: Hong Kong Competition Commission brings charges against individuals",
+          "url": "https://www.omm.com/insights/alerts-publications/hong-kong-competition-commission-brings-charges-against-individuals/"
+        }
       ]
     },
     {
-      "id": "2026-W03-012",
+      "id": "2026-W03-001",
       "status": "pending",
       "headline": "Hong Kong Moves to License Crypto Dealers, Custodians and Advisers",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "date": "2026-01-16",
       "region": "HK",
-      "practiceAreas": ["Financial Regulatory", "FinTech / TMT"],
+      "practiceAreas": [
+        "Financial Regulatory",
+        "FinTech / TMT"
+      ],
       "whatsTheNews": "Hong Kong is widening its crypto rulebook in 2026. The Securities and Futures Commission and the government plan to bring in new licences for firms that trade virtual assets, that hold them for clients (custodians), and that advise on or manage them. The aim is to hold crypto firms to the same standards as traditional finance, summed up as \"same business, same risks, same rules.\" New laws are expected to go to the Legislative Council during 2026, with set capital requirements and no automatic free pass for firms already operating.",
       "whatItMeans": "A virtual asset is a digital asset like a cryptocurrency or token. A custodian is a firm that safely holds assets for clients, so crypto custody rules are mostly about protecting the secret keys that control the coins. Licensing means a firm must get official permission and meet set standards before it can operate. By covering dealers, custodians, advisers, and managers, Hong Kong is trying to regulate the whole chain of crypto services, not just the exchanges.",
       "clients": [
@@ -314,18 +1036,24 @@
         "It blends skills juniors can grow into. The work sits across financial regulation, technology, and funds, giving trainees a chance to build a modern, in-demand niche."
       ],
       "sources": [
-        {"title": "Sidley Austin: Hong Kong to enhance the virtual asset licensing regime to cover advisers and managers", "url": "https://www.sidley.com/en/insights/newsupdates/2026/01/hong-kong-to-further-enhance-licensing-regime-for-virtual-assets-to-cover-advisors-and-managers"}
+        {
+          "title": "Sidley Austin: Hong Kong to enhance the virtual asset licensing regime to cover advisers and managers",
+          "url": "https://www.sidley.com/en/insights/newsupdates/2026/01/hong-kong-to-further-enhance-licensing-regime-for-virtual-assets-to-cover-advisors-and-managers"
+        }
       ]
     },
     {
-      "id": "2026-W02-013",
+      "id": "2026-W02-001",
       "status": "pending",
       "headline": "HSBC Buys Out Hang Seng Bank in a US$14 Billion Take-Private",
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "date": "2026-01-08",
       "region": "HK",
-      "practiceAreas": ["Corporate / M&A", "Banking & Finance"],
+      "practiceAreas": [
+        "Corporate / M&A",
+        "Banking & Finance"
+      ],
       "whatsTheNews": "HSBC is taking Hang Seng Bank, one of Hong Kong's best-known lenders, fully private in a deal worth about US$14 billion. HSBC already owned most of Hang Seng and offered HK$155 per share for the rest, around 30% above the market price before the news. Independent shareholders backed the plan, with about 85.75% voting in favour, well past the 75% needed. Hang Seng shares stopped trading in mid-January and were delisted from the Hong Kong stock exchange on 27 January 2026.",
       "whatItMeans": "Taking a company private means buying up all its publicly traded shares so it is no longer listed on the stock exchange. Because HSBC already controlled Hang Seng, this is called privatising a subsidiary. The premium, the 30% extra over the market price, is what HSBC paid to persuade outside shareholders to sell. Once delisted, the public can no longer buy or sell the shares, and the company answers to one owner instead of the market.",
       "clients": [
@@ -339,18 +1067,24 @@
         "A busy take-private market means more deals to staff. When controlling shareholders move to privatise undervalued listed companies, firms with strong M&A benches win the mandates and bring in juniors to help."
       ],
       "sources": [
-        {"title": "SCMP: Hang Seng Bank shareholders approve HSBC's US$14 billion privatisation bid", "url": "https://www.scmp.com/business/banking-finance/article/3339044/hang-seng-bank-shareholders-set-back-hsbcs-privatisation-plan-hong-kong-lender"}
+        {
+          "title": "SCMP: Hang Seng Bank shareholders approve HSBC's US$14 billion privatisation bid",
+          "url": "https://www.scmp.com/business/banking-finance/article/3339044/hang-seng-bank-shareholders-set-back-hsbcs-privatisation-plan-hong-kong-lender"
+        }
       ]
     },
     {
-      "id": "2026-W01-014",
+      "id": "2026-W01-001",
       "status": "pending",
       "headline": "Hong Kong's First Big Cybersecurity Law Lands on Critical Companies",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "date": "2026-01-01",
       "region": "HK",
-      "practiceAreas": ["Cybersecurity / Data", "Financial Regulatory"],
+      "practiceAreas": [
+        "Cybersecurity / Data",
+        "Financial Regulatory"
+      ],
       "whatsTheNews": "Hong Kong's Protection of Critical Infrastructures (Computer Systems) Ordinance came into force on 1 January 2026. It is the city's first law squarely aimed at protecting the computer systems behind essential services. It covers operators in eight sectors, including banking and finance, energy, telecoms, healthcare, and transport. Those operators must set up security teams, run regular audits, and report serious cyber incidents to a new government commissioner within a tight deadline, with penalties for getting it wrong running up to HK$5 million.",
       "whatItMeans": "Critical infrastructure means the systems a city cannot function without, like the networks that run banks, hospitals, and power. A critical infrastructure operator is a company the government designates as running one of these essential systems. The law sets three duties: keep your own house in order (a local office and a security team), prevent attacks (security plans and audits), and report quickly when something goes wrong. The goal is to stop a single cyber attack from knocking out services that millions of people rely on.",
       "clients": [
@@ -364,19 +1098,28 @@
         "It rewards firms with tech and regulatory depth. Lawyers who understand both data and financial regulation are best placed to win this work, and it is a fast-growing field for juniors to build a niche."
       ],
       "sources": [
-        {"title": "Mayer Brown: Hong Kong issues the Code of Practice under the Critical Infrastructures Ordinance", "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/hong-kong-issues-code-of-practice-under-the-protection-of-critical-infrastructures-computer-systems-ordinance"},
-        {"title": "Communications Authority: Protection of Critical Infrastructures (Computer Systems) Ordinance", "url": "https://www.coms-auth.hk/en/policies_regulations/other/pcicso/index.html"}
+        {
+          "title": "Mayer Brown: Hong Kong issues the Code of Practice under the Critical Infrastructures Ordinance",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/hong-kong-issues-code-of-practice-under-the-protection-of-critical-infrastructures-computer-systems-ordinance"
+        },
+        {
+          "title": "Communications Authority: Protection of Critical Infrastructures (Computer Systems) Ordinance",
+          "url": "https://www.coms-auth.hk/en/policies_regulations/other/pcicso/index.html"
+        }
       ]
     },
     {
-      "id": "2026-W01-015",
+      "id": "2026-W01-002",
       "status": "pending",
       "headline": "Hong Kong's Biggest Listed Companies Must Now Report Their Climate Impact",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "date": "2026-01-01",
       "region": "HK",
-      "practiceAreas": ["ESG", "Capital Markets"],
+      "practiceAreas": [
+        "ESG",
+        "Capital Markets"
+      ],
       "whatsTheNews": "From the start of 2026, Hong Kong's largest listed companies must report detailed climate information under new stock exchange rules. The rules follow global standards known as the ISSB, and they cover how a company manages climate risks and how much greenhouse gas it produces. The biggest companies, those in the Hang Seng Composite LargeCap Index, must comply on a mandatory basis for financial years starting on or after 1 January 2026. Smaller listed companies report on a softer \"comply or explain\" basis for now, with tougher parts phased in over time.",
       "whatItMeans": "Climate disclosure means telling investors, in the annual report, how climate change affects the business and how much pollution it causes. The ISSB standards are a common global rulebook for this, so investors can compare companies across countries. \"Scope 1 and 2 emissions\" are the greenhouse gases a company produces directly and through the energy it buys. Comply or explain means a company either follows the rule or publicly explains why it has not, a gentle way to ease companies in before a rule becomes compulsory.",
       "clients": [
@@ -390,7 +1133,10 @@
         "It feeds governance and disputes work later. As disclosure becomes mandatory, mistakes can lead to regulator questions or claims, giving advisory and litigation teams more to do."
       ],
       "sources": [
-        {"title": "Norton Rose Fulbright: new ISSB-aligned climate disclosure regime under the HKEX Listing Rules", "url": "https://www.nortonrosefulbright.com/en-hk/knowledge/publications/d65a9ab1/embracing-the-global-trend-of-issb-standards-new-climate-disclosure-regime-under-hkse-listing-rules"}
+        {
+          "title": "Norton Rose Fulbright: new ISSB-aligned climate disclosure regime under the HKEX Listing Rules",
+          "url": "https://www.nortonrosefulbright.com/en-hk/knowledge/publications/d65a9ab1/embracing-the-global-trend-of-issb-standards-new-climate-disclosure-regime-under-hkse-listing-rules"
+        }
       ]
     }
   ]
