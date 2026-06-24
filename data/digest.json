@@ -9,8 +9,59 @@
   ],
   "items": [
     {
-      "id": "2026-W22-001",
-      "status": "published",
+      "id": "2026-W24-001",
+      "status": "pending",
+      "headline": "Hong Kong Issues a Record HK$12 Billion Digital Bond",
+      "week": "2026-W24",
+      "weekLabel": "8–14 Jun 2026",
+      "date": "2026-06-11",
+      "region": "HK",
+      "practiceAreas": ["Capital Markets", "FinTech / TMT"],
+      "whatsTheNews": "In June 2026, the Hong Kong Mortgage Corporation issued a HK$12 billion digital bond, its first public digital bond and one of the largest of its kind anywhere. A digital, or \"tokenised,\" bond is recorded using blockchain technology rather than through traditional paper and ledger systems. Hong Kong has led in this area, having issued the world's first tokenised government green bond back in 2023. The government is pushing more of these deals to build up the market and stay ahead as a finance hub.",
+      "whatItMeans": "A bond is basically a loan: an investor lends money to the issuer, gets paid interest, then gets the money back later. A digital or tokenised bond records who owns it on a blockchain, a shared digital ledger, which can make trading and settlement faster and cheaper. Settlement is the behind-the-scenes process of swapping the cash for the bond, and doing it on a blockchain can cut the time from days to almost instant. Hong Kong wants to lead this technology so it stays competitive as an international financial centre.",
+      "clients": [
+        "Issuers want in on the technology. Companies and public bodies considering digital bonds need advisers who understand both bond law and the technology, which opens new instructions.",
+        "Investors need comfort on the rules. Buyers want to know their rights are protected when ownership sits on a blockchain, which raises legal questions to answer.",
+        "Market infrastructure firms get involved. Banks and tech providers building these systems need contracts and regulatory advice to run them safely."
+      ],
+      "lawFirms": [
+        "It is capital markets work with a technology twist. Firms that combine debt-issuance know-how with digital-asset skills are best placed to win these deals.",
+        "It rewards early movers. As Hong Kong pushes tokenisation, firms that act on the first deals build a reputation in a market set to grow.",
+        "It creates fresh, modern work for juniors. Digital bonds sit at the cutting edge of finance, giving trainees a skill set few lawyers yet have."
+      ],
+      "sources": [
+        {"title": "HKMA: HKMC's HK$12 billion inaugural public digital bond issuance (11 Jun 2026)", "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260611-3/"}
+      ]
+    },
+    {
+      "id": "2026-W23-002",
+      "status": "pending",
+      "headline": "Hong Kong Builds a Rulebook for Digital Bonds With a New Expert Group",
+      "week": "2026-W23",
+      "weekLabel": "1–7 Jun 2026",
+      "date": "2026-06-05",
+      "region": "HK",
+      "practiceAreas": ["FinTech / TMT", "Capital Markets"],
+      "whatsTheNews": "On 5 June 2026, the Hong Kong Monetary Authority set up a Tokenised Bond Expert Group to help grow the market for digital bonds. The group brings together banks, lawyers, and market players to work out common standards and tackle the legal and technical hurdles. The aim is to turn one-off digital bond deals into a regular, scalable market. It sits alongside the HKMA's wider tokenisation work, including its Project Ensemble pilot running through 2026.",
+      "whatItMeans": "Tokenisation means turning a financial asset, like a bond, into a digital record on a blockchain. An expert group is a panel the regulator gathers to give advice and agree common ways of doing things, so the market does not grow in a messy, inconsistent way. \"Standards\" are shared rules and templates that let different banks and systems work together smoothly. The HKMA is trying to lay the groundwork now so Hong Kong becomes a natural home for this kind of finance.",
+      "clients": [
+        "Banks and issuers want a seat at the table. The firms shaping the standards gain an early edge, so they seek advisers who can engage with the regulator's work.",
+        "Clear standards lower the risk of acting. Once common rules exist, more companies will feel safe issuing digital bonds, and they will need legal help to do so.",
+        "Technology providers need guidance. Firms building the platforms must line up with the new standards, which means legal and regulatory advice."
+      ],
+      "lawFirms": [
+        "Lawyers help write the rulebook. Firms involved in the expert group and standard-setting shape the market and become the names clients trust.",
+        "It builds a practice for the future. Getting in early on tokenisation positions a firm to win the deals that follow as the market scales.",
+        "It blends finance and technology skills. The work suits lawyers who enjoy new areas, and it gives juniors a chance to specialise in something fresh."
+      ],
+      "sources": [
+        {"title": "HKMA: HKMA establishes Tokenised Bond Expert Group (5 Jun 2026)", "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260605-3/"},
+        {"title": "Timothy Loh: HKMA establishes Tokenised Bond Expert Group", "url": "https://www.timothyloh.com/insights/latest-news/hkma-establishes-tokenised-bond-expert-group-20260605"}
+      ]
+    },
+    {
+      "id": "2026-W22-003",
+      "status": "pending",
       "headline": "Hong Kong Sets Up a New Court for Big Cross-Border Business Disputes",
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
@@ -35,8 +86,60 @@
       ]
     },
     {
-      "id": "2026-W18-002",
-      "status": "published",
+      "id": "2026-W20-004",
+      "status": "pending",
+      "headline": "Hong Kong's Economy Grows 5.9%, Its Fastest in Almost Five Years",
+      "week": "2026-W20",
+      "weekLabel": "11–17 May 2026",
+      "date": "2026-05-15",
+      "region": "HK",
+      "practiceAreas": ["Banking & Finance", "China / Cross-border"],
+      "whatsTheNews": "Hong Kong's economy grew 5.9% in the first quarter of 2026 compared with a year earlier, its fastest pace in almost five years. The jump was driven by a 23.7% surge in goods exports, helped by strong global demand for AI-related electronics, along with firm spending at home. The government kept its full-year 2026 growth forecast at 2.5% to 3.5%. It flagged that global tensions remain a risk to the outlook.",
+      "whatItMeans": "GDP, or gross domestic product, is the total value of everything a place produces, and its growth rate shows how fast the economy is expanding. Exports are the goods and services a place sells abroad, so a big rise in exports means strong foreign demand, here for the electronics behind AI. A growth rate of 5.9% is high for a developed economy like Hong Kong's, which is why it stands out. A strong economy usually means more business activity, more deals, and more hiring.",
+      "clients": [
+        "A strong economy spurs activity. When growth is healthy, companies are more confident to invest, expand, and do deals, which shapes the advice they need.",
+        "Exporters and tech firms ride the wave. Booming demand for electronics helps these clients grow, and growth brings contracts, financing, and expansion plans that need legal support.",
+        "Confidence supports fundraising. A healthy economy makes investors keener, so companies find it easier to raise money, often with lawyers guiding the process."
+      ],
+      "lawFirms": [
+        "Good times mean more work. A growing economy tends to lift M&A, capital markets, and financing activity, which are the core of a commercial firm's practice.",
+        "It supports hiring across teams. When deals and disputes rise together, firms take on more juniors and trainees to cope, which helps applicants.",
+        "It is the backdrop to commercial awareness. Understanding why the economy is strong, and what could threaten it, is exactly the kind of insight interviewers test."
+      ],
+      "sources": [
+        {"title": "HK Government: economy grows 5.9% in Q1 (15 May 2026)", "url": "https://www.news.gov.hk/eng/2026/05/20260515/20260515_165309_577.html"},
+        {"title": "SCMP: finance chief says Hong Kong on track for strongest quarterly growth in 5 years", "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352258/finance-chief-says-hong-kong-track-strongest-quarterly-growth-5-years"}
+      ]
+    },
+    {
+      "id": "2026-W18-005",
+      "status": "pending",
+      "headline": "Hong Kong's Minimum Wage Rises to HK$43.10 Under a New Yearly System",
+      "week": "2026-W18",
+      "weekLabel": "27 Apr–3 May 2026",
+      "date": "2026-05-01",
+      "region": "HK",
+      "practiceAreas": ["Employment"],
+      "whatsTheNews": "Hong Kong's statutory minimum wage rose to HK$43.10 an hour on 1 May 2026, up by HK$1 from HK$42.10. It is the first rise under a new system that reviews the minimum wage every year using a set formula, instead of every two years as before. The government also raised the pay level below which employers must keep detailed records of hours worked. The change applies to all hours worked from 1 May, even part-way through a pay period.",
+      "whatItMeans": "The statutory minimum wage is the lowest hourly pay an employer is legally allowed to give most workers. A review mechanism is the process the government uses to decide whether and how much to raise it, and Hong Kong has switched from a slow two-year cycle to a yearly one driven by a formula. The record-keeping threshold is the pay level below which bosses must log exact hours, which helps prove that low-paid staff are paid at least the minimum. Together these changes make pay rises more regular and easier to enforce.",
+      "clients": [
+        "Employers must update their payroll. Any business paying near the minimum has to raise wages and check its records, so it asks advisers how to comply on time.",
+        "Getting it wrong is risky. Underpaying the minimum wage is an offence, so companies want advice to avoid penalties and claims from staff.",
+        "Yearly reviews mean yearly planning. Because rises now come every year, businesses with large low-paid workforces need to budget and prepare each time."
+      ],
+      "lawFirms": [
+        "Employment teams field a wave of questions. Each wage change brings advisory work on contracts, payroll, and compliance, especially for clients with big workforces.",
+        "It can lead to disputes. Pay errors trigger complaints and tribunal claims, which feeds the employment litigation side of the practice.",
+        "It keeps employment law in demand. Steady changes like this show why firms keep employment specialists busy, an area where juniors get early client contact."
+      ],
+      "sources": [
+        {"title": "SCMP: Hong Kong's minimum wage set to rise by HK$1 to HK$43.10", "url": "https://www.scmp.com/news/hong-kong/article/3343063/hong-kongs-minimum-wage-set-rise-hk1-hour-hk4310"},
+        {"title": "Labour Department: Statutory Minimum Wage (official)", "url": "https://www.labour.gov.hk/eng/public/content2_smw.htm"}
+      ]
+    },
+    {
+      "id": "2026-W18-006",
+      "status": "pending",
       "headline": "Hong Kong Holds Interest Rates With the Fed as Rate-Cut Hopes Build",
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
@@ -61,8 +164,8 @@
       ]
     },
     {
-      "id": "2026-W15-003",
-      "status": "published",
+      "id": "2026-W15-007",
+      "status": "pending",
       "headline": "HKMA Hands Out Hong Kong's First Stablecoin Licences to HSBC and a Standard Chartered Venture",
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
@@ -87,8 +190,8 @@
       ]
     },
     {
-      "id": "2026-W15-004",
-      "status": "published",
+      "id": "2026-W15-008",
+      "status": "pending",
       "headline": "Hong Kong Smashes IPO Records With HK$110 Billion in Three Months",
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
@@ -113,8 +216,33 @@
       ]
     },
     {
-      "id": "2026-W09-005",
-      "status": "published",
+      "id": "2026-W13-009",
+      "status": "pending",
+      "headline": "Hong Kong's Privacy Watchdog Turns Its Attention to AI and Your Data",
+      "week": "2026-W13",
+      "weekLabel": "23–29 Mar 2026",
+      "date": "2026-03-24",
+      "region": "HK",
+      "practiceAreas": ["Cybersecurity / Data", "IP / TMT"],
+      "whatsTheNews": "Hong Kong's privacy regulator, the PCPD, has spent 2026 pushing companies to use artificial intelligence without mishandling people's personal data. It has urged organisations to set internal rules on how staff use AI tools and to be clear about when customer data is used to train AI systems. This builds on a model framework it issued for protecting personal data in AI. The watchdog says firms should plan for both innovation and data safety from the start.",
+      "whatItMeans": "The PCPD (Privacy Commissioner for Personal Data) is the body that enforces Hong Kong's data privacy law, the Personal Data (Privacy) Ordinance. Personal data is information that identifies a living person, like a name, photo, or ID number. Training an AI system often means feeding it large amounts of data, which can include customers' personal data, so the watchdog wants companies to handle that carefully. A framework here is a set of recommended steps a company can follow to stay on the right side of the law while using AI.",
+      "clients": [
+        "Companies using AI need clear rules. Any business adopting AI tools must check how it handles personal data, so it asks advisers to write policies that keep it compliant.",
+        "Mishandling data carries real risk. Breaking the privacy law can lead to enforcement, complaints, and reputational damage, so clients want advice before problems arise.",
+        "It shapes how products are built. Firms designing AI products need to build in privacy from the start, which means legal input early in the process."
+      ],
+      "lawFirms": [
+        "A modern advisory niche is growing fast. Helping clients use AI lawfully blends data privacy, technology, and regulatory work, and demand is rising quickly.",
+        "It rewards lawyers who understand technology. Firms that can speak both law and tech win this work, and it is an exciting area for juniors to specialise in.",
+        "It feeds future disputes. As AI use spreads, privacy complaints and investigations will follow, giving contentious teams new work down the line."
+      ],
+      "sources": [
+        {"title": "PCPD: aligning with the 15th Five-Year Plan, building privacy safeguards for AI (24 Mar 2026)", "url": "https://www.pcpd.org.hk/english/whatsnew/20260324.html"}
+      ]
+    },
+    {
+      "id": "2026-W09-010",
+      "status": "pending",
       "headline": "Hong Kong's 2026-27 Budget Bets on Finance, AI and a First Surplus in Years",
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
@@ -139,8 +267,34 @@
       ]
     },
     {
-      "id": "2026-W03-006",
-      "status": "published",
+      "id": "2026-W04-011",
+      "status": "pending",
+      "headline": "Hong Kong's Competition Court Lets a HK$150 Million Cartel Penalty Wait",
+      "week": "2026-W04",
+      "weekLabel": "19–25 Jan 2026",
+      "date": "2026-01-20",
+      "region": "HK",
+      "practiceAreas": ["Competition", "Disputes / Litigation"],
+      "whatsTheNews": "In a January 2026 ruling, Hong Kong's Court of Appeal looked at how the Competition Tribunal handles penalties and evidence in cartel cases. The case involved ATAL, a building-services contractor that admitted taking part in cartel conduct on air-conditioning and renovation work and agreed to pay HK$150 million in total. The court allowed the Tribunal to hold off setting ATAL's final penalty until related cases against other companies finish, so the penalties stay consistent. It also clarified which documents must be shared between the sides in these cases.",
+      "whatItMeans": "A cartel is a secret deal between competitors to fix prices or carve up work, which harms customers and is illegal. The Competition Tribunal is the special court that hears these cases and decides penalties. Admitting liability means a company accepts it broke the law, often in exchange for a lower penalty. The ruling matters because it shapes the order in which penalties are set and what evidence the sides must hand over, which affects how future cartel cases run.",
+      "clients": [
+        "Companies see how serious enforcement is. A HK$150 million penalty is a loud warning, so businesses want advice to make sure they are not breaking competition law.",
+        "Process affects strategy. How and when penalties are set changes whether a company should settle early or fight, so they need lawyers to plan their approach.",
+        "Compliance becomes a priority. Firms in industries prone to bid-rigging, like construction, will invest in training and checks to avoid landing in the same spot."
+      ],
+      "lawFirms": [
+        "Competition work is growing in Hong Kong. As the watchdog brings more cases, firms get more advisory and defence work, a relatively young field with room to build a name.",
+        "These cases are big and complex. They involve large teams, detailed evidence, and high stakes, which means substantial fees and meaty work for juniors.",
+        "It spans advice and litigation. Lawyers both help clients avoid breaches and defend them when accused, giving a broad mix of experience."
+      ],
+      "sources": [
+        {"title": "Kennedys: HK Court of Appeal on disclosure and adjourning sentencing in the Competition Tribunal", "url": "https://www.kennedyslaw.com/en/thought-leadership/article/2026/hong-kong-court-of-appeal-clarifies-scope-of-document-disclosure-in-competition-tribunal-proceedings-and-the-tribunal-s-power-adjourn-sentencing/"},
+        {"title": "O'Melveny: Hong Kong Competition Commission brings charges against individuals", "url": "https://www.omm.com/insights/alerts-publications/hong-kong-competition-commission-brings-charges-against-individuals/"}
+      ]
+    },
+    {
+      "id": "2026-W03-012",
+      "status": "pending",
       "headline": "Hong Kong Moves to License Crypto Dealers, Custodians and Advisers",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
@@ -164,8 +318,8 @@
       ]
     },
     {
-      "id": "2026-W02-007",
-      "status": "published",
+      "id": "2026-W02-013",
+      "status": "pending",
       "headline": "HSBC Buys Out Hang Seng Bank in a US$14 Billion Take-Private",
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
@@ -189,8 +343,8 @@
       ]
     },
     {
-      "id": "2026-W01-008",
-      "status": "published",
+      "id": "2026-W01-014",
+      "status": "pending",
       "headline": "Hong Kong's First Big Cybersecurity Law Lands on Critical Companies",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
@@ -212,6 +366,31 @@
       "sources": [
         {"title": "Mayer Brown: Hong Kong issues the Code of Practice under the Critical Infrastructures Ordinance", "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/hong-kong-issues-code-of-practice-under-the-protection-of-critical-infrastructures-computer-systems-ordinance"},
         {"title": "Communications Authority: Protection of Critical Infrastructures (Computer Systems) Ordinance", "url": "https://www.coms-auth.hk/en/policies_regulations/other/pcicso/index.html"}
+      ]
+    },
+    {
+      "id": "2026-W01-015",
+      "status": "pending",
+      "headline": "Hong Kong's Biggest Listed Companies Must Now Report Their Climate Impact",
+      "week": "2026-W01",
+      "weekLabel": "1–4 Jan 2026",
+      "date": "2026-01-01",
+      "region": "HK",
+      "practiceAreas": ["ESG", "Capital Markets"],
+      "whatsTheNews": "From the start of 2026, Hong Kong's largest listed companies must report detailed climate information under new stock exchange rules. The rules follow global standards known as the ISSB, and they cover how a company manages climate risks and how much greenhouse gas it produces. The biggest companies, those in the Hang Seng Composite LargeCap Index, must comply on a mandatory basis for financial years starting on or after 1 January 2026. Smaller listed companies report on a softer \"comply or explain\" basis for now, with tougher parts phased in over time.",
+      "whatItMeans": "Climate disclosure means telling investors, in the annual report, how climate change affects the business and how much pollution it causes. The ISSB standards are a common global rulebook for this, so investors can compare companies across countries. \"Scope 1 and 2 emissions\" are the greenhouse gases a company produces directly and through the energy it buys. Comply or explain means a company either follows the rule or publicly explains why it has not, a gentle way to ease companies in before a rule becomes compulsory.",
+      "clients": [
+        "Big listed companies have real reporting to do. They must gather climate and emissions data and present it properly, so they need advisers to help them meet the standard and avoid getting it wrong.",
+        "Boards face new responsibility. Directors are accountable for what the company discloses, so they want legal advice on how to report honestly and protect themselves.",
+        "It affects fundraising and reputation. Investors increasingly look at climate data, so getting disclosure right helps a company raise money and avoid criticism."
+      ],
+      "lawFirms": [
+        "A steady advisory line opens up. Firms help clients understand the rules, set up reporting, and manage the legal risk in what they publish, which recurs each reporting season.",
+        "It blends corporate and ESG skills. Lawyers who understand both listing rules and sustainability are well placed, and ESG is one of the fastest-growing areas in the profession.",
+        "It feeds governance and disputes work later. As disclosure becomes mandatory, mistakes can lead to regulator questions or claims, giving advisory and litigation teams more to do."
+      ],
+      "sources": [
+        {"title": "Norton Rose Fulbright: new ISSB-aligned climate disclosure regime under the HKEX Listing Rules", "url": "https://www.nortonrosefulbright.com/en-hk/knowledge/publications/d65a9ab1/embracing-the-global-trend-of-issb-standards-new-climate-disclosure-regime-under-hkse-listing-rules"}
       ]
     }
   ]
