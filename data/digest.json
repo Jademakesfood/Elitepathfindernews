@@ -281,7 +281,7 @@
     },
     {
       "headline": "Hong Kong Johnson warns profit could fall up to 90% even as sales surge",
-      "date": "2026-06-06",
+      "date": "2026-06-05",
       "region": "HK",
       "practiceAreas": [
         "Capital Markets",
@@ -301,15 +301,18 @@
       ],
       "sources": [
         {
-          "title": "Hong Kong Johnson Holdings Issues Profit Warning for FY2026 Despite Revenue Growth Amid Rising Costs and Intense Competition – Minichart",
-          "url": "https://www.minichart.com.sg/2026/06/06/hong-kong-johnson-holdings-issues-profit-warning-for-fy2026-despite-revenue-growth-amid-rising-costs-and-intense-competition-12/"
+          "title": "Hong Kong Johnson Holdings Co., Ltd. (Stock code: 1955) — Profit Warning",
+          "url": "https://johnsonholdings.com/wp-content/uploads/2026/06/Profit-Warning.pdf"
+        },
+        {
+          "title": "Hong Kong Johnson Sets June Board Meeting to Approve 2026 Final Results — The Globe and Mail (TipRanks)",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/2452816/hong-kong-johnson-sets-june-board-meeting-to-approve-2026-final-results/"
         }
       ],
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
       "status": "pending",
-      "id": "2026-W23-001",
-      "auditFlag": "The only dedicated, dated source for this specific profit warning is minichart.com.sg (posted 6 June 2026), which is an automated financial-research/aggregator site, NOT a recognized news outlet (SCMP/Reuters/Bloomberg/Standard) nor an official press release. I searched extensively for a recognized news article, the company's own profit-warning announcement, and the HKEX filing (stock 1955) but could not locate any of them. Under the source-class rules this item cannot be validated with a proper dated source, so ok=false. The underlying facts (approx 85-90% profit fall, 82-87% revenue rise, FY ended 31 Mar 2026) check out against the aggregator, but a proper primary source (the HKEX profit-warning announcement, or SCMP/The Standard coverage) is needed."
+      "id": "2026-W23-001"
     },
     {
       "headline": "HKMA sets up an expert group to grow Hong Kong's tokenised bond market",
@@ -374,6 +377,41 @@
       "id": "2026-W23-003"
     },
     {
+      "headline": "Regulators wrap up consultation on a key derivatives clearing rule",
+      "date": "2026-06-05",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "The Hong Kong Monetary Authority and the Securities and Futures Commission ran a joint consultation on changes to the rules that decide when firms must centrally clear their over-the-counter derivative trades, and the deadline for comments was 27 February 2026. The proposal sets fixed annual windows, 1 March to 31 May and 1 September to 30 November, used to measure whether a firm's derivatives positions are large enough to trigger a mandatory clearing obligation. The aim is to remove the need to keep updating these dates and give firms more certainty when planning compliance. The new permanent calculation periods would take effect from 1 March 2027. The regulators later confirmed broad industry support and issued their conclusions in June 2026.",
+      "whatItMeans": "Derivatives are financial contracts whose value depends on something else, like an interest rate or currency. Over-the-counter (OTC) means they are traded privately between two parties rather than on an exchange. Central clearing means routing a trade through a clearing house that sits in the middle and guarantees both sides, which reduces the risk that one party fails and drags others down, a lesson from the 2008 crisis. The rules force firms with large enough positions to clear certain trades, and a 'calculation period' is the window used to measure whether a firm is over the threshold. Fixing those windows permanently saves firms from re-checking shifting dates every year.",
+      "clients": [
+        "Banks and large financial institutions that trade OTC derivatives gain certainty about when they must measure their positions, which simplifies their compliance planning and systems. They can hard-code the fixed windows rather than tracking changing dates.",
+        "Corporate treasurers at big companies that use derivatives to hedge interest rate or currency risk benefit from clearer rules, reducing the chance they accidentally breach clearing obligations. Predictable timing makes their risk management cheaper to run.",
+        "Clearing houses and the brokers that connect clients to them see steadier demand, since predictable clearing windows make volumes easier to forecast. Stable rules support investment in clearing infrastructure."
+      ],
+      "lawFirms": [
+        "Financial regulatory teams advise banks and funds on exactly when clearing obligations bite and how to comply, translating the technical rules into practical steps. A junior lawyer learns the post-2008 framework that reshaped how derivatives are traded.",
+        "Derivatives and banking teams update the documentation and internal policies clients use to track positions and clearing thresholds. Trainees see how a regulatory tweak ripples through contracts and compliance manuals.",
+        "Firms with policy and consultation practices help clients respond to regulator consultations like this one, shaping the final rules. Candidates should care because influencing regulation is high-value, relationship-driven work."
+      ],
+      "sources": [
+        {
+          "title": "HKMA and SFC conclude joint consultation on amendments to the Clearing Rules for over-the-counter derivative transactions",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260605-6/"
+        },
+        {
+          "title": "Hong Kong Regulators To Standardise OTC Derivatives Clearing Calculation Periods",
+          "url": "https://www.crowdfundinsider.com/2026/06/283962-hong-kong-otc-derivates/"
+        }
+      ],
+      "week": "2026-W23",
+      "weekLabel": "1–7 Jun 2026",
+      "status": "pending",
+      "id": "2026-W23-004"
+    },
+    {
       "headline": "SFC tells finance firms to brace for AI-powered hacks",
       "date": "2026-06-02",
       "region": "HK",
@@ -410,7 +448,7 @@
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
       "status": "pending",
-      "id": "2026-W23-004"
+      "id": "2026-W23-005"
     },
     {
       "headline": "K&L Gates hires a cross-border M&A partner to chase Greater China deals",
@@ -441,7 +479,7 @@
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
       "status": "pending",
-      "id": "2026-W23-005"
+      "id": "2026-W23-006"
     },
     {
       "headline": "China's new outbound investment rules turn Chinese buyers into a deal risk",
@@ -480,7 +518,7 @@
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
       "status": "pending",
-      "id": "2026-W23-006"
+      "id": "2026-W23-007"
     },
     {
       "headline": "HKMA chief lays out the plan to make digital money trustworthy",
@@ -1100,6 +1138,40 @@
       "id": "2026-W19-007"
     },
     {
+      "headline": "Tighter Trade Union Rules Take Effect in Hong Kong",
+      "date": "2026-05-04",
+      "region": "HK",
+      "practiceAreas": [
+        "Employment"
+      ],
+      "whatsTheNews": "Amendments to Hong Kong's trade union law took effect on 5 January 2026. The Trade Unions (Amendment) Bill 2025, passed by the Legislative Council in mid-2025, strengthens the powers of the Registrar of Trade Unions. The Registrar can now reject a trade union registration on national security grounds and restrict union funding from external forces such as foreign governments, political parties and international organisations. The law also adjusts penalties, and anyone convicted of a national security offence is permanently barred from registering or holding office in a trade union. Breaching that ban can bring a fine of HK$50,000 and up to three years in prison.",
+      "whatItMeans": "A trade union is an organisation that represents workers in dealings with employers. The Registrar of Trade Unions is the official who approves and oversees those unions. Registration is the legal approval a union needs to operate. External forces means foreign governments or bodies, and the law limits the money they can give to Hong Kong unions. The changes are part of Hong Kong's wider national security framework, and they reshape what counts as lawful union activity. For employers, it means the rules around employee associations and labour organising have shifted and internal policies may need updating.",
+      "clients": [
+        "For employers, this is a prompt to review and update any policies on trade unions and staff associations so they line up with the new rules. Getting this wrong could create legal and reputational exposure if a company is seen to support a non-compliant body.",
+        "For multinational companies with global union or works-council relationships, the limits on funding from external forces add a compliance layer to how local employee bodies interact with overseas parents. Cross-border labour arrangements may need a fresh look.",
+        "For unions and the workers they represent, the higher bar for registration and the funding restrictions change how they can organise and finance themselves. The practical room for independent organising narrows."
+      ],
+      "lawFirms": [
+        "Employment teams advise companies on what the amendments mean for their workforce policies, internal communications and any dealings with staff bodies. New labour legislation reliably generates advisory work for these teams.",
+        "Because the changes sit within the national security framework, employment lawyers increasingly work alongside compliance and risk specialists. Candidates should see how employment law now intersects with broader regulatory and political considerations in Hong Kong.",
+        "For trainees, this is a reminder that employment work is not only contracts and dismissals but also tracking statutory change and translating it into practical client steps. Knowing a current example like this shows commercial awareness in an interview."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Employment Compliance 2026: What's New",
+          "url": "https://www.china-briefing.com/news/hong-kong-employment-compliance-2026-whats-new/"
+        },
+        {
+          "title": "LCQ / Government press release: Trade Unions (Amendment) Bill 2025 passed by LegCo",
+          "url": "https://www.info.gov.hk/gia/general/202506/25/P2025062500741.htm"
+        }
+      ],
+      "week": "2026-W19",
+      "weekLabel": "4–10 May 2026",
+      "status": "pending",
+      "id": "2026-W19-008"
+    },
+    {
       "id": "2026-W18-001",
       "status": "pending",
       "headline": "Hong Kong Holds Interest Rates With the Fed as Rate-Cut Hopes Build",
@@ -1265,6 +1337,40 @@
       "id": "2026-W18-005"
     },
     {
+      "headline": "Top Hong Kong court reshapes when illegality blocks a money-back claim",
+      "date": "2026-04-28",
+      "region": "HK",
+      "practiceAreas": [
+        "Disputes / Litigation"
+      ],
+      "whatsTheNews": "In a judgment widely circulated in early-to-mid May 2026, the Hong Kong Court of Final Appeal clarified how the defence of illegality works in civil claims, in the case Wong Chi Hung v Lo Wing Pun. The court confirmed that the flexible range of factors approach from the UK Supreme Court decision Patel v Mirza applies in Hong Kong. Under that approach, judges weigh the purpose of the law that was broken, relevant public policy, and proportionality before deciding whether a claim should fail because of illegality. The court signalled that the law generally favours giving money back where the basis for a payment has completely failed, even where some illegality is involved. The decision gives lower courts a clearer framework for these disputes.",
+      "whatItMeans": "The Court of Final Appeal is Hong Kong's highest court, so its rulings bind all lower courts. The illegality defence is an argument that a claim should be thrown out because it is tied to something unlawful, for example a contract with an illegal purpose. Unjust enrichment is a legal idea that someone should not keep money or a benefit they received without a proper basis. The range of factors approach replaces rigid rules with a balancing exercise, so judges look at the wider picture rather than applying a blanket bar. This makes outcomes more flexible but also less predictable, which matters for anyone bringing or defending such claims.",
+      "clients": [
+        "Businesses involved in contracts that touch on regulatory or legal grey areas now have a clearer, more flexible test for whether they can still recover money. This can help parties get money back even where a deal had an unlawful element.",
+        "Companies pursuing or defending disputes must assess each illegality argument on its specific facts rather than assuming a quick knockout. That changes how parties weigh the strength of a case before litigating.",
+        "Cross-border parties gain certainty that Hong Kong follows a leading common law approach, which is reassuring when choosing where to litigate. Predictable, modern doctrine supports Hong Kong as a dispute resolution hub."
+      ],
+      "lawFirms": [
+        "Disputes and litigation teams will rework their arguments around the range of factors test, advising clients on how courts now weigh illegality. Candidates should understand that landmark judgments reshape how cases are run.",
+        "Commercial and restructuring lawyers feel the effect because illegality often arises in failed contracts and recovery claims. Knowing the new framework helps lawyers advise on whether money can be clawed back.",
+        "Firms with strong common law and cross-border practices can market Hong Kong's modern approach to international clients. A candidate who can explain this case shows genuine interest in how the courts develop the law."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Court of Final Appeal Clarifies the Approach for Foreign Illegality Defence in Unjust Enrichment Claims",
+          "url": "https://www.fangdalaw.com/en/content/details32_17763.html"
+        },
+        {
+          "title": "Hong Kong Court of Final Appeal Clarifies the Principles of Foreign Illegality in Claims for Unjust Enrichment",
+          "url": "https://www.debevoise.com/insights/publications/2026/05/hong-kong-court-of-final-appeal-clarifies-the-prin"
+        }
+      ],
+      "week": "2026-W18",
+      "weekLabel": "27 Apr–3 May 2026",
+      "status": "pending",
+      "id": "2026-W18-006"
+    },
+    {
       "headline": "Solar giant Sungrow revives its Hong Kong listing as A-plus-H deals keep flowing",
       "date": "2026-04-27",
       "region": "HK",
@@ -1297,7 +1403,7 @@
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
       "status": "pending",
-      "id": "2026-W18-006"
+      "id": "2026-W18-007"
     },
     {
       "headline": "Hong Kong IPOs top HK$140 billion as the city eyes a bigger gold market",
@@ -1723,37 +1829,6 @@
       "id": "2026-W16-001"
     },
     {
-      "headline": "Top Hong Kong court reshapes when illegality blocks a money-back claim",
-      "date": "2026-04-15",
-      "region": "HK",
-      "practiceAreas": [
-        "Disputes / Litigation"
-      ],
-      "whatsTheNews": "In a judgment widely circulated in early-to-mid May 2026, the Hong Kong Court of Final Appeal clarified how the defence of illegality works in civil claims, in the case Wong Chi Hung v Lo Wing Pun. The court confirmed that the flexible range of factors approach from the UK Supreme Court decision Patel v Mirza applies in Hong Kong. Under that approach, judges weigh the purpose of the law that was broken, relevant public policy, and proportionality before deciding whether a claim should fail because of illegality. The court signalled that the law generally favours giving money back where the basis for a payment has completely failed, even where some illegality is involved. The decision gives lower courts a clearer framework for these disputes.",
-      "whatItMeans": "The Court of Final Appeal is Hong Kong's highest court, so its rulings bind all lower courts. The illegality defence is an argument that a claim should be thrown out because it is tied to something unlawful, for example a contract with an illegal purpose. Unjust enrichment is a legal idea that someone should not keep money or a benefit they received without a proper basis. The range of factors approach replaces rigid rules with a balancing exercise, so judges look at the wider picture rather than applying a blanket bar. This makes outcomes more flexible but also less predictable, which matters for anyone bringing or defending such claims.",
-      "clients": [
-        "Businesses involved in contracts that touch on regulatory or legal grey areas now have a clearer, more flexible test for whether they can still recover money. This can help parties get money back even where a deal had an unlawful element.",
-        "Companies pursuing or defending disputes must assess each illegality argument on its specific facts rather than assuming a quick knockout. That changes how parties weigh the strength of a case before litigating.",
-        "Cross-border parties gain certainty that Hong Kong follows a leading common law approach, which is reassuring when choosing where to litigate. Predictable, modern doctrine supports Hong Kong as a dispute resolution hub."
-      ],
-      "lawFirms": [
-        "Disputes and litigation teams will rework their arguments around the range of factors test, advising clients on how courts now weigh illegality. Candidates should understand that landmark judgments reshape how cases are run.",
-        "Commercial and restructuring lawyers feel the effect because illegality often arises in failed contracts and recovery claims. Knowing the new framework helps lawyers advise on whether money can be clawed back.",
-        "Firms with strong common law and cross-border practices can market Hong Kong's modern approach to international clients. A candidate who can explain this case shows genuine interest in how the courts develop the law."
-      ],
-      "sources": [
-        {
-          "title": "Hong Kong Court of Final Appeal Clarifies the Principles of Foreign Illegality in Claims for Unjust Enrichment (Debevoise)",
-          "url": "https://www.debevoise.com/insights/publications/2026/05/hong-kong-court-of-final-appeal-clarifies-the-prin"
-        }
-      ],
-      "week": "2026-W16",
-      "weekLabel": "13–19 Apr 2026",
-      "status": "pending",
-      "id": "2026-W16-002",
-      "auditFlag": "Could not validate with a proper dated source. The underlying ruling is Wong Chi Hung v Lo Wing Pun [2026] HKCFA 14, handed down 15 April 2026, not 12 May 2026, so the item is both misdated and outside the audit week. The only available sources are law-firm / legal-aggregator client alerts (Debevoise dated 12 May 2026; Mondaq 1 May 2026; Boase Cohen & Collins 3 June 2026) which are explicitly NOT acceptable as primary dated sources under the rules, and I found no SCMP/Reuters/Bloomberg news article or dated Judiciary press release on this judgment. The official CFA judgment (15 Apr 2026) would be the proper source but I could not resolve a dated official judgment page to cite. Setting ok=false; do not guess a date. To salvage, cite the HKCFA/HKLII judgment ([2026] HKCFA 14) with pubDate 2026-04-15 once the official page is confirmed."
-    },
-    {
       "headline": "Hong Kong's exchange courts tech founders with looser dual-class rules as consultation closes",
       "date": "2026-04-15",
       "region": "HK",
@@ -1786,7 +1861,7 @@
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
       "status": "pending",
-      "id": "2026-W16-003"
+      "id": "2026-W16-002"
     },
     {
       "headline": "China's First 'Spatial Intelligence' Firm Launches a Hot Hong Kong IPO",
@@ -1821,7 +1896,7 @@
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
       "status": "pending",
-      "id": "2026-W16-004"
+      "id": "2026-W16-003"
     },
     {
       "headline": "An Nvidia circuit board maker just pulled off Hong Kong's biggest IPO of the year",
@@ -1856,7 +1931,7 @@
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
       "status": "pending",
-      "id": "2026-W16-005"
+      "id": "2026-W16-004"
     },
     {
       "headline": "HSBC and a Standard Chartered-led venture get Hong Kong's first stablecoin licences",
@@ -2183,15 +2258,14 @@
       ],
       "sources": [
         {
-          "title": "Financial review of the securities industry (SFC statistics landing page)",
-          "url": "https://www.sfc.hk/en/Regulatory-functions/Intermediaries/Supervision/Publications-and-statistics/Financial-review-of-the-securities-industry"
+          "title": "Earnings and transaction value surge to five-year highs for Hong Kong's securities industry in 2025",
+          "url": "https://apps.sfc.hk/edistributionWeb/api/news/list-content?refNo=26PR53&lang=EN"
         }
       ],
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
       "status": "pending",
-      "id": "2026-W14-004",
-      "auditFlag": "The only supplied source is an SFC statistics/landing page (an archive of reports), which rule 2 excludes as a dated primary source. The SFC issued no standalone press release for this full-year review, and I could not find any proper dated news article (SCMP/Reuters/Bloomberg/Standard) carrying the full-year 2025 HK$219 trillion (+52%) figure. The closest news article, dimsumdaily 'Hong Kong markets surge as SFC 2025-26 report shows record turnover', is dated 24 Jun 2026 (outside the audit week) and covers the SFC 2025-26 ANNUAL REPORT, not this financial review, and does not cite the HK$219 trillion figure. No acceptable dated primary source found; not guessing a date."
+      "id": "2026-W14-004"
     },
     {
       "headline": "HKMA bulletin takes stock of Hong Kong's bond market after a record 2025",
@@ -4075,42 +4149,6 @@
       "id": "2026-W05-004"
     },
     {
-      "headline": "Regulators wrap up consultation on a key derivatives clearing rule",
-      "date": "2026-01-29",
-      "region": "HK",
-      "practiceAreas": [
-        "Financial Regulatory",
-        "Banking & Finance"
-      ],
-      "whatsTheNews": "The Hong Kong Monetary Authority and the Securities and Futures Commission ran a joint consultation on changes to the rules that decide when firms must centrally clear their over-the-counter derivative trades, and the deadline for comments was 27 February 2026. The proposal sets fixed annual windows, 1 March to 31 May and 1 September to 30 November, used to measure whether a firm's derivatives positions are large enough to trigger a mandatory clearing obligation. The aim is to remove the need to keep updating these dates and give firms more certainty when planning compliance. The new permanent calculation periods would take effect from 1 March 2027. The regulators later confirmed broad industry support and issued their conclusions in June 2026.",
-      "whatItMeans": "Derivatives are financial contracts whose value depends on something else, like an interest rate or currency. Over-the-counter (OTC) means they are traded privately between two parties rather than on an exchange. Central clearing means routing a trade through a clearing house that sits in the middle and guarantees both sides, which reduces the risk that one party fails and drags others down, a lesson from the 2008 crisis. The rules force firms with large enough positions to clear certain trades, and a 'calculation period' is the window used to measure whether a firm is over the threshold. Fixing those windows permanently saves firms from re-checking shifting dates every year.",
-      "clients": [
-        "Banks and large financial institutions that trade OTC derivatives gain certainty about when they must measure their positions, which simplifies their compliance planning and systems. They can hard-code the fixed windows rather than tracking changing dates.",
-        "Corporate treasurers at big companies that use derivatives to hedge interest rate or currency risk benefit from clearer rules, reducing the chance they accidentally breach clearing obligations. Predictable timing makes their risk management cheaper to run.",
-        "Clearing houses and the brokers that connect clients to them see steadier demand, since predictable clearing windows make volumes easier to forecast. Stable rules support investment in clearing infrastructure."
-      ],
-      "lawFirms": [
-        "Financial regulatory teams advise banks and funds on exactly when clearing obligations bite and how to comply, translating the technical rules into practical steps. A junior lawyer learns the post-2008 framework that reshaped how derivatives are traded.",
-        "Derivatives and banking teams update the documentation and internal policies clients use to track positions and clearing thresholds. Trainees see how a regulatory tweak ripples through contracts and compliance manuals.",
-        "Firms with policy and consultation practices help clients respond to regulator consultations like this one, shaping the final rules. Candidates should care because influencing regulation is high-value, relationship-driven work."
-      ],
-      "sources": [
-        {
-          "title": "HKMA and SFC jointly consult on standard calculation periods under OTC derivative Clearing Rules (HKMA press release)",
-          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/01/20260129-4/"
-        },
-        {
-          "title": "SFC and HKMA propose standard calculation periods for OTC derivatives clearing (The Standard)",
-          "url": "https://www.thestandard.com.hk/wealth-and-investment/article/323062/SFC-and-HKMA-propose-standard-calculation-periods-for-OTC-derivatives-clearing"
-        }
-      ],
-      "week": "2026-W05",
-      "weekLabel": "26 Jan–1 Feb 2026",
-      "status": "pending",
-      "id": "2026-W05-005",
-      "auditFlag": "Headline/date mismatch with sources. The current source is real and dated but it LAUNCHED the consultation on 29 Jan 2026 (confirmed; The Standard also covered it 29 Jan 2026). The consultation merely CLOSED on 27 Feb 2026 — there is NO press release or news article dated in the 23 Feb–1 Mar week announcing that the regulators 'wrapped up' the consultation. The actual consultation CONCLUSIONS were only published on 5 June 2026 (HKMA press release 20260605-6). So no proper source dated in this week supports the 'wrap up' story at 27 Feb 2026. Either re-date this item to 29 Jan 2026 (launch) or 5 Jun 2026 (conclusions), or drop it from the 23 Feb–1 Mar digest. pubDate above reflects the real launch press release date."
-    },
-    {
       "headline": "SFC warns firms: obstruct our inspections and face criminal charges",
       "date": "2026-01-29",
       "region": "HK",
@@ -4147,7 +4185,7 @@
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
       "status": "pending",
-      "id": "2026-W05-006"
+      "id": "2026-W05-005"
     },
     {
       "headline": "SFC warns it will not tolerate firms blocking its inspections",
@@ -4178,7 +4216,7 @@
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
       "status": "pending",
-      "id": "2026-W05-007"
+      "id": "2026-W05-006"
     },
     {
       "headline": "Hong Kong Exports Surge 26% in December as Trade Booms",
@@ -4209,42 +4247,7 @@
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
       "status": "pending",
-      "id": "2026-W05-008"
-    },
-    {
-      "headline": "Hong Kong Moves to Licence Crypto Advisers and Managers, Consultation Closes 23 January",
-      "date": "2026-01-23",
-      "region": "HK",
-      "practiceAreas": [
-        "FinTech / TMT",
-        "Financial Regulatory"
-      ],
-      "whatsTheNews": "The Financial Services and the Treasury Bureau and the Securities and Futures Commission opened a public consultation on plans to licence virtual asset advisers and virtual asset managers, with comments due by 23 January 2026. This sits alongside already-concluded plans to regulate crypto dealers and custodians. The new regimes copy the rules that already apply to advisers and managers in the traditional securities market, following a same business, same risks, same rules approach. The consultation drew 51 written responses from firms, industry bodies and individuals. After reviewing the feedback the government plans to finalise the proposals and introduce a bill to the Legislative Council during 2026.",
-      "whatItMeans": "A virtual asset is a crypto token such as Bitcoin or a stablecoin. The SFC is the regulator for Hong Kong's securities and investment markets. A consultation is when the government publishes draft rules and invites the public to comment before finalising them. An adviser tells clients what crypto to buy, and a manager runs crypto portfolios on clients' behalf, so licensing them means these activities will need SFC approval and must meet set standards. Same business, same risks, same rules means crypto firms will face broadly the same obligations as their traditional finance equivalents. The aim is to close gaps so that every part of the crypto value chain, from dealing to custody to advice, sits under one regulator.",
-      "clients": [
-        "For crypto advisory and fund firms, a licensing regime means new application, capital and compliance costs, plus the risk of enforcement if they get it wrong. Firms that prepare early can turn a licence into a mark of credibility with cautious institutional clients.",
-        "For traditional asset managers eyeing crypto, clear rules make it safer to launch digital asset products without regulatory guesswork. That can unlock new fee-earning lines they previously avoided.",
-        "For banks and custodians, a complete framework across dealing, custody and advice reduces the legal uncertainty that has kept many institutions on the sidelines. More certainty tends to bring more institutional money into the market."
-      ],
-      "lawFirms": [
-        "Financial regulatory teams will guide crypto firms through licence applications, gap analyses and the build-out of compliance systems. A brand new licensing regime is a steady stream of advisory work as deadlines approach.",
-        "FinTech and TMT lawyers care because these rules define what is legal in a fast-moving market, and clients need someone who can read draft legislation and translate it into action. Candidates who follow this area can speak credibly about a genuinely cutting-edge practice.",
-        "Funds and asset management teams will restructure products and update fund documents so managers can offer crypto within the rules. Understanding how a consultation becomes a bill becomes a licence shows real commercial awareness at interview."
-      ],
-      "sources": [
-        {
-          "title": "FSTB and SFC publish consultation conclusions on legislative proposals for regulating virtual asset dealing and custodian services (gov.hk press release)",
-          "url": "https://www.info.gov.hk/gia/general/202512/24/P2025122400265.htm"
-        },
-        {
-          "title": "FSTB and SFC consult on proposed licensing regimes for virtual asset advisers and asset managers (Reed Smith)",
-          "url": "https://www.reedsmith.com/articles/fstb-and-sfc-consult-on-proposed-licensing-regimes-for-virtual-asset-advisers-and-asset-managers/"
-        }
-      ],
-      "week": "2026-W04",
-      "weekLabel": "19–25 Jan 2026",
-      "status": "rejected",
-      "id": "2026-W04-001"
+      "id": "2026-W05-007"
     },
     {
       "headline": "Trader Convicted of Fake Trading Across Six Hong Kong-Listed Companies",
@@ -4279,7 +4282,7 @@
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
       "status": "pending",
-      "id": "2026-W04-002"
+      "id": "2026-W04-001"
     },
     {
       "headline": "SFC wins HK$595 million payback and a 15-year ban against former bosses of Superb Summit",
@@ -4314,7 +4317,7 @@
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
       "status": "pending",
-      "id": "2026-W04-003"
+      "id": "2026-W04-002"
     },
     {
       "headline": "HKEX proposes a shake-up of board lots to make small-cap shares cheaper to buy",
@@ -4349,7 +4352,42 @@
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
       "status": "pending",
-      "id": "2026-W04-004"
+      "id": "2026-W04-003"
+    },
+    {
+      "id": "2026-W04-004",
+      "status": "pending",
+      "headline": "Hong Kong's First Big Cybersecurity Law Lands on Critical Companies",
+      "week": "2026-W04",
+      "weekLabel": "19–25 Jan 2026",
+      "date": "2026-01-21",
+      "region": "HK",
+      "practiceAreas": [
+        "Cybersecurity / Data",
+        "Financial Regulatory"
+      ],
+      "whatsTheNews": "Hong Kong's Protection of Critical Infrastructures (Computer Systems) Ordinance came into force on 1 January 2026. It is the city's first law squarely aimed at protecting the computer systems behind essential services. It covers operators in eight sectors, including banking and finance, energy, telecoms, healthcare, and transport. Those operators must set up security teams, run regular audits, and report serious cyber incidents to a new government commissioner within a tight deadline, with penalties for getting it wrong running up to HK$5 million.",
+      "whatItMeans": "Critical infrastructure means the systems a city cannot function without, like the networks that run banks, hospitals, and power. A critical infrastructure operator is a company the government designates as running one of these essential systems. The law sets three duties: keep your own house in order (a local office and a security team), prevent attacks (security plans and audits), and report quickly when something goes wrong. The goal is to stop a single cyber attack from knocking out services that millions of people rely on.",
+      "clients": [
+        "Designated companies have real work to do. They must build security teams, write formal plans, and set up fast incident reporting, so they need legal and compliance advice to meet the new duties.",
+        "The duties flow down to suppliers. A bank that must report a breach within hours cannot wait a day for its cloud provider, so it will rewrite contracts to demand quick notice and audit rights from every vendor.",
+        "The cost of failure is high. Fines reach HK$5 million with daily penalties for ongoing breaches, so clients will pay for advice that keeps them on the right side of the rules."
+      ],
+      "lawFirms": [
+        "A fresh stream of advisory work just opened. Firms help clients work out whether they are caught, draft security policies, and handle incident reporting, which is steady, recurring work.",
+        "It drives a wave of contract redrafting. Because operators must push duties onto suppliers, firms get hired to renegotiate vendor and cloud agreements across whole supply chains.",
+        "It rewards firms with tech and regulatory depth. Lawyers who understand both data and financial regulation are best placed to win this work, and it is a fast-growing field for juniors to build a niche."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong issues Code of Practice under the Protection of Critical Infrastructures (Computer Systems) Ordinance",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/hong-kong-issues-code-of-practice-under-the-protection-of-critical-infrastructures-computer-systems-ordinance"
+        },
+        {
+          "title": "Hong Kong passes its first cybersecurity bill covering critical infrastructure",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3303050/hong-kong-passes-its-first-cybersecurity-bill-covering-critical-infrastructure"
+        }
+      ]
     },
     {
       "id": "2026-W04-005",
@@ -4456,45 +4494,6 @@
       "id": "2026-W04-007"
     },
     {
-      "id": "2026-W03-001",
-      "status": "pending",
-      "headline": "Hong Kong Moves to License Crypto Dealers, Custodians and Advisers",
-      "week": "2026-W03",
-      "weekLabel": "12–18 Jan 2026",
-      "date": "2026-01-16",
-      "region": "HK",
-      "practiceAreas": [
-        "Financial Regulatory",
-        "FinTech / TMT"
-      ],
-      "whatsTheNews": "Hong Kong is widening its crypto rulebook in 2026. The Securities and Futures Commission and the government plan to bring in new licences for firms that trade virtual assets, that hold them for clients (custodians), and that advise on or manage them. The aim is to hold crypto firms to the same standards as traditional finance, summed up as \"same business, same risks, same rules.\" New laws are expected to go to the Legislative Council during 2026, with set capital requirements and no automatic free pass for firms already operating.",
-      "whatItMeans": "A virtual asset is a digital asset like a cryptocurrency or token. A custodian is a firm that safely holds assets for clients, so crypto custody rules are mostly about protecting the secret keys that control the coins. Licensing means a firm must get official permission and meet set standards before it can operate. By covering dealers, custodians, advisers, and managers, Hong Kong is trying to regulate the whole chain of crypto services, not just the exchanges.",
-      "clients": [
-        "More crypto firms will need a licence. Dealers, custodians, and advisers that were lightly regulated must now prepare to apply and meet capital and conduct rules, so they need legal help early.",
-        "There is no easy grandfathering. Existing operators do not get an automatic pass, so even established firms must bring themselves up to standard or risk being shut out.",
-        "Traditional finance players can enter with confidence. Clear rules make banks and asset managers more comfortable offering crypto services, and they will want advice on how to do it compliantly."
-      ],
-      "lawFirms": [
-        "It creates a pipeline of licensing work. Each new regime means applications, compliance systems, and ongoing advice, which is steady fee income for financial regulatory teams.",
-        "It rewards early specialists. Firms that build virtual-asset expertise now become the natural choice as the rules land, winning the best clients in a growing market.",
-        "It blends skills juniors can grow into. The work sits across financial regulation, technology, and funds, giving trainees a chance to build a modern, in-demand niche."
-      ],
-      "sources": [
-        {
-          "title": "FSTB and SFC publish consultation conclusions on legislative proposals for regulating virtual asset dealing and custodian services (gov.hk press release)",
-          "url": "https://www.info.gov.hk/gia/general/202512/24/P2025122400265.htm"
-        },
-        {
-          "title": "Hong Kong regulators target 2026 legislation for virtual asset dealer and custodian rules (CoinDesk)",
-          "url": "https://www.coindesk.com/policy/2025/12/25/hong-kong-regulators-target-2026-legislation-for-virtual-asset-dealer-and-custodian-rules"
-        },
-        {
-          "title": "Hong Kong to Further Enhance Licensing Regime for Virtual Assets to Cover Advisors and Managers (Sidley Austin)",
-          "url": "https://www.sidley.com/en/insights/newsupdates/2026/01/hong-kong-to-further-enhance-licensing-regime-for-virtual-assets-to-cover-advisors-and-managers"
-        }
-      ]
-    },
-    {
       "headline": "New HKEX Rules Change How Listed Companies Must Keep Enough Shares in Public Hands",
       "date": "2026-01-12",
       "region": "HK",
@@ -4526,7 +4525,7 @@
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "status": "pending",
-      "id": "2026-W03-002"
+      "id": "2026-W03-001"
     },
     {
       "headline": "HKMA Keeps Its Banking Supervision Chief in Place for Two More Years",
@@ -4560,7 +4559,42 @@
       "id": "2026-W02-001"
     },
     {
-      "id": "2026-W02-002",
+      "headline": "Hong Kong Wins OECD Tick of Approval for Its Global Minimum Tax",
+      "date": "2026-01-09",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "Tax",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "In early January 2026, the OECD confirmed that Hong Kong's version of the global minimum tax has obtained transitional qualified status. This covers Hong Kong's income inclusion rule, its own Hong Kong minimum top-up tax, and a safe harbour for its domestic top-up tax, all running from 1 January 2025. The regime applies a 15 percent minimum tax floor to large multinational groups with annual revenue above 750 million euros. Hong Kong had enacted the underlying law, the Inland Revenue (Amendment) (Minimum Tax for Multinational Enterprise Groups) Ordinance 2025, in mid-2025. Qualified status means Hong Kong gets first claim to collect top-up tax on lightly taxed local profits before other countries can.",
+      "whatItMeans": "The OECD is the international body that designed a global deal, known as Pillar Two, to stop big companies shifting profits to very low-tax places. The rule sets a minimum effective tax rate of 15 percent on large multinationals. A top-up tax is the extra tax charged to lift a group up to that 15 percent floor. Qualified status is the OECD confirming that a country's version of the rules is recognised, which lets that country collect the top-up tax first rather than letting another country grab it. For Hong Kong, a famously low-tax place, this preserves its right to tax those profits at home rather than losing the revenue abroad.",
+      "clients": [
+        "For large multinationals based in or operating through Hong Kong, the 15 percent floor changes the tax maths and may raise their overall bill. They now have to calculate whether they fall below 15 percent in any jurisdiction and prepare for the new top-up tax filings.",
+        "For groups using Hong Kong as a low-tax holding location, the old advantage of a very low rate is reduced, since profits below 15 percent get topped up anyway. Companies will revisit their structures to see whether Hong Kong still makes sense for their setup.",
+        "For Hong Kong itself, qualified status means the territory keeps the tax revenue at home rather than surrendering it to other countries, which protects its public finances while keeping it OECD-compliant."
+      ],
+      "lawFirms": [
+        "Tax teams are busy advising multinationals on whether they are caught, how to calculate top-up tax, and how to restructure if needed. A major change to the tax base of large companies generates a long tail of advisory work.",
+        "Cross-border teams help groups reorganise holding structures that were built around Hong Kong's low rate. This is the kind of technical, high-stakes work that rewards candidates comfortable with both tax and corporate structuring.",
+        "Because the rules are new and detailed, firms also run training and compliance support for in-house teams. A trainee who can explain Pillar Two in plain terms stands out, because many clients are still getting to grips with it."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Obtains Transitional Qualified Status for Domestic Pillar 2 Rules",
+          "url": "https://orbitax.com/news/country/article/Hong-Kong-Obtains-Transitional-60881"
+        },
+        {
+          "title": "IRD: Global minimum tax and Hong Kong minimum top-up tax for multinational enterprise groups",
+          "url": "https://www.ird.gov.hk/eng/tax/bus_beps.htm"
+        }
+      ],
+      "week": "2026-W02",
+      "weekLabel": "5–11 Jan 2026",
+      "status": "pending",
+      "id": "2026-W02-002"
+    },
+    {
+      "id": "2026-W02-003",
       "status": "pending",
       "headline": "HSBC Buys Out Hang Seng Bank in a US$14 Billion Take-Private",
       "week": "2026-W02",
@@ -4623,7 +4657,7 @@
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "status": "rejected",
-      "id": "2026-W02-003"
+      "id": "2026-W02-004"
     },
     {
       "headline": "MiniMax Raises US$619 Million as the Hong Kong AI Listing Rush Builds",
@@ -4654,7 +4688,7 @@
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "status": "rejected",
-      "id": "2026-W02-004"
+      "id": "2026-W02-005"
     },
     {
       "headline": "HSBC's Buyout of Hang Seng Bank Clears Its Big Shareholder Vote",
@@ -4685,7 +4719,7 @@
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "status": "rejected",
-      "id": "2026-W02-005"
+      "id": "2026-W02-006"
     },
     {
       "headline": "HKMA Lines Up HK$1 Billion Government Bond Sale",
@@ -4716,7 +4750,7 @@
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "status": "rejected",
-      "id": "2026-W02-006"
+      "id": "2026-W02-007"
     },
     {
       "headline": "Zhipu Becomes The World's First Listed AGI Company In Hong Kong Debut",
@@ -4751,7 +4785,7 @@
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "status": "pending",
-      "id": "2026-W02-007"
+      "id": "2026-W02-008"
     },
     {
       "headline": "GPU Maker Iluvatar CoreX Soars On Hong Kong Debut, Oversubscribed 414 Times",
@@ -4782,7 +4816,7 @@
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "status": "rejected",
-      "id": "2026-W02-008"
+      "id": "2026-W02-009"
     },
     {
       "headline": "SFC Hands Out First-Ever Fine for Mis-Selling Crypto Products to Retail Clients",
@@ -4817,39 +4851,7 @@
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "status": "pending",
-      "id": "2026-W02-009"
-    },
-    {
-      "headline": "Hong Kong Wins OECD Tick of Approval for Its Global Minimum Tax",
-      "date": "2026-01-06",
-      "region": "Global / HK",
-      "practiceAreas": [
-        "Tax",
-        "China / Cross-border"
-      ],
-      "whatsTheNews": "In early January 2026, the OECD confirmed that Hong Kong's version of the global minimum tax has obtained transitional qualified status. This covers Hong Kong's income inclusion rule, its own Hong Kong minimum top-up tax, and a safe harbour for its domestic top-up tax, all running from 1 January 2025. The regime applies a 15 percent minimum tax floor to large multinational groups with annual revenue above 750 million euros. Hong Kong had enacted the underlying law, the Inland Revenue (Amendment) (Minimum Tax for Multinational Enterprise Groups) Ordinance 2025, in mid-2025. Qualified status means Hong Kong gets first claim to collect top-up tax on lightly taxed local profits before other countries can.",
-      "whatItMeans": "The OECD is the international body that designed a global deal, known as Pillar Two, to stop big companies shifting profits to very low-tax places. The rule sets a minimum effective tax rate of 15 percent on large multinationals. A top-up tax is the extra tax charged to lift a group up to that 15 percent floor. Qualified status is the OECD confirming that a country's version of the rules is recognised, which lets that country collect the top-up tax first rather than letting another country grab it. For Hong Kong, a famously low-tax place, this preserves its right to tax those profits at home rather than losing the revenue abroad.",
-      "clients": [
-        "For large multinationals based in or operating through Hong Kong, the 15 percent floor changes the tax maths and may raise their overall bill. They now have to calculate whether they fall below 15 percent in any jurisdiction and prepare for the new top-up tax filings.",
-        "For groups using Hong Kong as a low-tax holding location, the old advantage of a very low rate is reduced, since profits below 15 percent get topped up anyway. Companies will revisit their structures to see whether Hong Kong still makes sense for their setup.",
-        "For Hong Kong itself, qualified status means the territory keeps the tax revenue at home rather than surrendering it to other countries, which protects its public finances while keeping it OECD-compliant."
-      ],
-      "lawFirms": [
-        "Tax teams are busy advising multinationals on whether they are caught, how to calculate top-up tax, and how to restructure if needed. A major change to the tax base of large companies generates a long tail of advisory work.",
-        "Cross-border teams help groups reorganise holding structures that were built around Hong Kong's low rate. This is the kind of technical, high-stakes work that rewards candidates comfortable with both tax and corporate structuring.",
-        "Because the rules are new and detailed, firms also run training and compliance support for in-house teams. A trainee who can explain Pillar Two in plain terms stands out, because many clients are still getting to grips with it."
-      ],
-      "sources": [
-        {
-          "title": "Hong Kong obtains qualified status under Pillar Two (Hong Kong Tax Newsflash, Issue 257) - Deloitte China",
-          "url": "https://www.deloitte.com/cn/en/services/tax/perspectives/ntc-hong-kong-tax-news.html"
-        }
-      ],
-      "week": "2026-W02",
-      "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
-      "id": "2026-W02-010",
-      "auditFlag": "Could not confirm with a proper dated news article or official regulator/government press release. The two original sources are not acceptable: the IRD page (bus_beps.htm) is an undated info/FAQ explainer and the EY item is an undated tax-firm explainer. The only dated reference found is a Deloitte tax newsflash (Issue 257, 6 Jan 2026) - a professional-services-firm newsflash, the same category of explainer the audit rules exclude, and the linked page is a rolling archive landing page, not a stable dated article. No SCMP/Reuters/Bloomberg article or IRD/gov.hk press release dated in the audit week was found for this specific 'OECD tick of approval / qualified status' story. Set ok=false; do not guess. The substance (Hong Kong's Pillar Two qualified status) appears genuine but lacks an acceptable dated primary source."
+      "id": "2026-W02-010"
     },
     {
       "headline": "PwC Tips Hong Kong for Another Record IPO Year in 2026",
@@ -4886,36 +4888,6 @@
       "id": "2026-W02-011"
     },
     {
-      "headline": "Tighter Trade Union Rules Take Effect in Hong Kong",
-      "date": "2026-01-05",
-      "region": "HK",
-      "practiceAreas": [
-        "Employment"
-      ],
-      "whatsTheNews": "Amendments to Hong Kong's trade union law took effect on 5 January 2026. The Trade Unions (Amendment) Bill 2025, passed by the Legislative Council in mid-2025, strengthens the powers of the Registrar of Trade Unions. The Registrar can now reject a trade union registration on national security grounds and restrict union funding from external forces such as foreign governments, political parties and international organisations. The law also adjusts penalties, and anyone convicted of a national security offence is permanently barred from registering or holding office in a trade union. Breaching that ban can bring a fine of HK$50,000 and up to three years in prison.",
-      "whatItMeans": "A trade union is an organisation that represents workers in dealings with employers. The Registrar of Trade Unions is the official who approves and oversees those unions. Registration is the legal approval a union needs to operate. External forces means foreign governments or bodies, and the law limits the money they can give to Hong Kong unions. The changes are part of Hong Kong's wider national security framework, and they reshape what counts as lawful union activity. For employers, it means the rules around employee associations and labour organising have shifted and internal policies may need updating.",
-      "clients": [
-        "For employers, this is a prompt to review and update any policies on trade unions and staff associations so they line up with the new rules. Getting this wrong could create legal and reputational exposure if a company is seen to support a non-compliant body.",
-        "For multinational companies with global union or works-council relationships, the limits on funding from external forces add a compliance layer to how local employee bodies interact with overseas parents. Cross-border labour arrangements may need a fresh look.",
-        "For unions and the workers they represent, the higher bar for registration and the funding restrictions change how they can organise and finance themselves. The practical room for independent organising narrows."
-      ],
-      "lawFirms": [
-        "Employment teams advise companies on what the amendments mean for their workforce policies, internal communications and any dealings with staff bodies. New labour legislation reliably generates advisory work for these teams.",
-        "Because the changes sit within the national security framework, employment lawyers increasingly work alongside compliance and risk specialists. Candidates should see how employment law now intersects with broader regulatory and political considerations in Hong Kong.",
-        "For trainees, this is a reminder that employment work is not only contracts and dismissals but also tracking statutory change and translating it into practical client steps. Knowing a current example like this shows commercial awareness in an interview."
-      ],
-      "sources": [
-        {
-          "title": "Government welcomes passage of Trade Unions (Amendment) Bill 2025 - HKSAR Government",
-          "url": "https://www.info.gov.hk/gia/general/202506/25/P2025062500741.htm"
-        }
-      ],
-      "week": "2026-W02",
-      "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
-      "id": "2026-W02-012"
-    },
-    {
       "headline": "Accountants Tip Hong Kong IPOs To Top HK$300 Billion Again On AI Wave",
       "date": "2026-01-05",
       "region": "HK",
@@ -4943,7 +4915,7 @@
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "status": "rejected",
-      "id": "2026-W02-013"
+      "id": "2026-W02-012"
     },
     {
       "headline": "Hong Kong Stocks Storm Into 2026 With Biggest Jump Since May",
@@ -5041,41 +5013,6 @@
     {
       "id": "2026-W01-004",
       "status": "pending",
-      "headline": "Hong Kong's First Big Cybersecurity Law Lands on Critical Companies",
-      "week": "2026-W01",
-      "weekLabel": "1–4 Jan 2026",
-      "date": "2026-01-01",
-      "region": "HK",
-      "practiceAreas": [
-        "Cybersecurity / Data",
-        "Financial Regulatory"
-      ],
-      "whatsTheNews": "Hong Kong's Protection of Critical Infrastructures (Computer Systems) Ordinance came into force on 1 January 2026. It is the city's first law squarely aimed at protecting the computer systems behind essential services. It covers operators in eight sectors, including banking and finance, energy, telecoms, healthcare, and transport. Those operators must set up security teams, run regular audits, and report serious cyber incidents to a new government commissioner within a tight deadline, with penalties for getting it wrong running up to HK$5 million.",
-      "whatItMeans": "Critical infrastructure means the systems a city cannot function without, like the networks that run banks, hospitals, and power. A critical infrastructure operator is a company the government designates as running one of these essential systems. The law sets three duties: keep your own house in order (a local office and a security team), prevent attacks (security plans and audits), and report quickly when something goes wrong. The goal is to stop a single cyber attack from knocking out services that millions of people rely on.",
-      "clients": [
-        "Designated companies have real work to do. They must build security teams, write formal plans, and set up fast incident reporting, so they need legal and compliance advice to meet the new duties.",
-        "The duties flow down to suppliers. A bank that must report a breach within hours cannot wait a day for its cloud provider, so it will rewrite contracts to demand quick notice and audit rights from every vendor.",
-        "The cost of failure is high. Fines reach HK$5 million with daily penalties for ongoing breaches, so clients will pay for advice that keeps them on the right side of the rules."
-      ],
-      "lawFirms": [
-        "A fresh stream of advisory work just opened. Firms help clients work out whether they are caught, draft security policies, and handle incident reporting, which is steady, recurring work.",
-        "It drives a wave of contract redrafting. Because operators must push duties onto suppliers, firms get hired to renegotiate vendor and cloud agreements across whole supply chains.",
-        "It rewards firms with tech and regulatory depth. Lawyers who understand both data and financial regulation are best placed to win this work, and it is a fast-growing field for juniors to build a niche."
-      ],
-      "sources": [
-        {
-          "title": "Protection of Critical Infrastructures (Computer Systems) Ordinance to come into effect on January 1, 2026",
-          "url": "https://www.info.gov.hk/gia/general/202506/27/P2025062700238.htm"
-        },
-        {
-          "title": "Hong Kong issues Code of Practice under the Protection of Critical Infrastructures (Computer Systems) Ordinance",
-          "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/hong-kong-issues-code-of-practice-under-the-protection-of-critical-infrastructures-computer-systems-ordinance"
-        }
-      ]
-    },
-    {
-      "id": "2026-W01-005",
-      "status": "pending",
       "headline": "Hong Kong's Biggest Listed Companies Must Now Report Their Climate Impact",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
@@ -5099,12 +5036,12 @@
       ],
       "sources": [
         {
-          "title": "Government launches roadmap on sustainability disclosure in Hong Kong",
-          "url": "https://www.info.gov.hk/gia/general/202412/10/P2024121000243.htm"
+          "title": "Listed companies face a new year's carbon resolution – let's join them",
+          "url": "https://hongkongfp.com/2026/01/01/hang-seng-index-companies-face-a-new-years-carbon-resolution-lets-join-them/"
         },
         {
-          "title": "Embracing the global trend of ISSB Standards: New climate disclosure regime under HKSE Listing Rules",
-          "url": "https://www.nortonrosefulbright.com/en-hk/knowledge/publications/d65a9ab1/embracing-the-global-trend-of-issb-standards-new-climate-disclosure-regime-under-hkse-listing-rules"
+          "title": "HK requires global climate reporting standards for listed firms",
+          "url": "https://www.chinadailyhk.com/hk/article/599859"
         }
       ]
     },
@@ -5140,7 +5077,79 @@
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "status": "pending",
-      "id": "2026-W01-006"
+      "id": "2026-W01-005"
+    },
+    {
+      "headline": "Hong Kong Moves to Licence Crypto Advisers and Managers, Consultation Closes 23 January",
+      "date": "2025-12-25",
+      "region": "HK",
+      "practiceAreas": [
+        "FinTech / TMT",
+        "Financial Regulatory"
+      ],
+      "whatsTheNews": "The Financial Services and the Treasury Bureau and the Securities and Futures Commission opened a public consultation on plans to licence virtual asset advisers and virtual asset managers, with comments due by 23 January 2026. This sits alongside already-concluded plans to regulate crypto dealers and custodians. The new regimes copy the rules that already apply to advisers and managers in the traditional securities market, following a same business, same risks, same rules approach. The consultation drew 51 written responses from firms, industry bodies and individuals. After reviewing the feedback the government plans to finalise the proposals and introduce a bill to the Legislative Council during 2026.",
+      "whatItMeans": "A virtual asset is a crypto token such as Bitcoin or a stablecoin. The SFC is the regulator for Hong Kong's securities and investment markets. A consultation is when the government publishes draft rules and invites the public to comment before finalising them. An adviser tells clients what crypto to buy, and a manager runs crypto portfolios on clients' behalf, so licensing them means these activities will need SFC approval and must meet set standards. Same business, same risks, same rules means crypto firms will face broadly the same obligations as their traditional finance equivalents. The aim is to close gaps so that every part of the crypto value chain, from dealing to custody to advice, sits under one regulator.",
+      "clients": [
+        "For crypto advisory and fund firms, a licensing regime means new application, capital and compliance costs, plus the risk of enforcement if they get it wrong. Firms that prepare early can turn a licence into a mark of credibility with cautious institutional clients.",
+        "For traditional asset managers eyeing crypto, clear rules make it safer to launch digital asset products without regulatory guesswork. That can unlock new fee-earning lines they previously avoided.",
+        "For banks and custodians, a complete framework across dealing, custody and advice reduces the legal uncertainty that has kept many institutions on the sidelines. More certainty tends to bring more institutional money into the market."
+      ],
+      "lawFirms": [
+        "Financial regulatory teams will guide crypto firms through licence applications, gap analyses and the build-out of compliance systems. A brand new licensing regime is a steady stream of advisory work as deadlines approach.",
+        "FinTech and TMT lawyers care because these rules define what is legal in a fast-moving market, and clients need someone who can read draft legislation and translate it into action. Candidates who follow this area can speak credibly about a genuinely cutting-edge practice.",
+        "Funds and asset management teams will restructure products and update fund documents so managers can offer crypto within the rules. Understanding how a consultation becomes a bill becomes a licence shows real commercial awareness at interview."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong regulators target 2026 legislation for virtual asset dealer and custodian rules",
+          "url": "https://www.coindesk.com/policy/2025/12/25/hong-kong-regulators-target-2026-legislation-for-virtual-asset-dealer-and-custodian-rules"
+        },
+        {
+          "title": "FSTB and SFC consult on proposed licensing regimes for virtual asset advisers and asset managers",
+          "url": "https://www.reedsmith.com/articles/fstb-and-sfc-consult-on-proposed-licensing-regimes-for-virtual-asset-advisers-and-asset-managers/"
+        }
+      ],
+      "week": "2026-W04",
+      "weekLabel": "19–25 Jan 2026",
+      "status": "rejected",
+      "id": "2026-W04-008",
+      "auditFlag": "publication date 2025-12-25 is outside the 1 Jan-28 Jun 2026 window; recommend drop"
+    },
+    {
+      "id": "2026-W03-002",
+      "status": "rejected",
+      "headline": "Hong Kong Moves to License Crypto Dealers, Custodians and Advisers",
+      "week": "2026-W03",
+      "weekLabel": "12–18 Jan 2026",
+      "date": "2025-12-24",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "FinTech / TMT"
+      ],
+      "whatsTheNews": "Hong Kong is widening its crypto rulebook in 2026. The Securities and Futures Commission and the government plan to bring in new licences for firms that trade virtual assets, that hold them for clients (custodians), and that advise on or manage them. The aim is to hold crypto firms to the same standards as traditional finance, summed up as \"same business, same risks, same rules.\" New laws are expected to go to the Legislative Council during 2026, with set capital requirements and no automatic free pass for firms already operating.",
+      "whatItMeans": "A virtual asset is a digital asset like a cryptocurrency or token. A custodian is a firm that safely holds assets for clients, so crypto custody rules are mostly about protecting the secret keys that control the coins. Licensing means a firm must get official permission and meet set standards before it can operate. By covering dealers, custodians, advisers, and managers, Hong Kong is trying to regulate the whole chain of crypto services, not just the exchanges.",
+      "clients": [
+        "More crypto firms will need a licence. Dealers, custodians, and advisers that were lightly regulated must now prepare to apply and meet capital and conduct rules, so they need legal help early.",
+        "There is no easy grandfathering. Existing operators do not get an automatic pass, so even established firms must bring themselves up to standard or risk being shut out.",
+        "Traditional finance players can enter with confidence. Clear rules make banks and asset managers more comfortable offering crypto services, and they will want advice on how to do it compliantly."
+      ],
+      "lawFirms": [
+        "It creates a pipeline of licensing work. Each new regime means applications, compliance systems, and ongoing advice, which is steady fee income for financial regulatory teams.",
+        "It rewards early specialists. Firms that build virtual-asset expertise now become the natural choice as the rules land, winning the best clients in a growing market.",
+        "It blends skills juniors can grow into. The work sits across financial regulation, technology, and funds, giving trainees a chance to build a modern, in-demand niche."
+      ],
+      "sources": [
+        {
+          "title": "Virtual asset views published",
+          "url": "https://www.news.gov.hk/eng/2025/12/20251224/20251224_145129_171.html"
+        },
+        {
+          "title": "Hong Kong regulators target 2026 legislation for virtual asset dealer and custodian rules",
+          "url": "https://www.coindesk.com/policy/2025/12/25/hong-kong-regulators-target-2026-legislation-for-virtual-asset-dealer-and-custodian-rules"
+        }
+      ],
+      "auditFlag": "publication date 2025-12-24 is outside the 1 Jan-28 Jun 2026 window; recommend drop"
     }
   ]
 }
