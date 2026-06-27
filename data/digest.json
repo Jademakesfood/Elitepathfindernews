@@ -4378,12 +4378,12 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "published",
+      "status": "pending",
       "id": "2026-W03-001"
     },
     {
       "id": "2026-W03-002",
-      "status": "published",
+      "status": "pending",
       "headline": "Hong Kong Moves to License Crypto Dealers, Custodians and Advisers",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
@@ -4443,7 +4443,7 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "published",
+      "status": "pending",
       "id": "2026-W03-003"
     },
     {
@@ -4474,12 +4474,12 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "published",
+      "status": "pending",
       "id": "2026-W02-001"
     },
     {
       "id": "2026-W02-002",
-      "status": "published",
+      "status": "pending",
       "headline": "HSBC Buys Out Hang Seng Bank in a US$14 Billion Take-Private",
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
@@ -4668,7 +4668,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "published",
+      "status": "pending",
       "id": "2026-W02-007"
     },
     {
@@ -4765,7 +4765,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "published",
+      "status": "pending",
       "id": "2026-W02-010"
     },
     {
@@ -4795,7 +4795,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "published",
+      "status": "pending",
       "id": "2026-W02-011"
     },
     {
@@ -4825,7 +4825,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "published",
+      "status": "pending",
       "id": "2026-W02-012"
     },
     {
@@ -4953,7 +4953,7 @@
     },
     {
       "id": "2026-W01-004",
-      "status": "published",
+      "status": "pending",
       "headline": "Hong Kong's First Big Cybersecurity Law Lands on Critical Companies",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
@@ -4988,7 +4988,7 @@
     },
     {
       "id": "2026-W01-005",
-      "status": "published",
+      "status": "pending",
       "headline": "Hong Kong's Biggest Listed Companies Must Now Report Their Climate Impact",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
