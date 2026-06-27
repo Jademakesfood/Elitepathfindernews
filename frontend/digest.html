@@ -95,7 +95,10 @@
   .tag.region{background:var(--black);color:var(--white);}
   .tag.week{background:transparent;color:var(--grey-light);padding-left:0;letter-spacing:.06em;}
   .story h2{font-family:var(--font-serif);font-weight:600;color:var(--black);
-    font-size:clamp(21px,1.7vw,26px);line-height:1.18;letter-spacing:-.01em;margin-bottom:20px;}
+    font-size:clamp(21px,1.7vw,26px);line-height:1.18;letter-spacing:-.01em;margin-bottom:8px;}
+  .pubdate{font-size:12px;color:var(--grey-light);letter-spacing:.03em;margin-bottom:20px;
+    display:flex;align-items:center;gap:7px;text-transform:uppercase;font-weight:600;}
+  .pubdate::before{content:"";width:5px;height:5px;border-radius:50%;background:var(--grey-pale);display:inline-block;}
 
   .block{margin-top:20px;}
   .block:first-of-type{margin-top:0;}
@@ -175,6 +178,8 @@ const FALLBACK={"items":[]};
 let DATA=[], activeWeek="latest", activeArea="all", io=null;
 const uniq=a=>[...new Set(a)];
 function esc(s){return(s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+function fmtDate(iso){const M=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  const p=(iso||'').split('-');if(p.length<3)return'';return parseInt(p[2],10)+' '+M[parseInt(p[1],10)-1]+' '+p[0];}
 function monthOf(d){const m=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
   const p=(d||'').split('-');if(p.length<2)return'Other';return m[parseInt(p[1],10)-1]+' '+p[0];}
 
@@ -225,14 +230,14 @@ function bullets(arr){if(!arr)return'';const list=Array.isArray(arr)?arr:[arr];
   return'<ul class="points">'+list.map(x=>`<li>${esc(x)}</li>`).join('')+'</ul>';}
 function storyHTML(d){
   const tags=[`<span class="tag region">${esc(d.region||'')}</span>`,
-    ...(d.practiceAreas||[]).map(a=>`<span class="tag">${esc(a)}</span>`),
-    `<span class="tag week">${esc(d.weekLabel||d.week||'')}</span>`].join('');
+    ...(d.practiceAreas||[]).map(a=>`<span class="tag">${esc(a)}</span>`)].join('');
   const src=(d.sources&&d.sources.length)
     ?`<div class="sources"><span class="slabel">Read the full story</span>`+
      d.sources.map(s=>`<a class="srclink" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}<span class="arr">→</span></a>`).join('')+`</div>`:'';
   return `<article class="story">
     <div class="tags">${tags}</div>
     <h2>${esc(d.headline)}</h2>
+    <div class="pubdate">Published ${fmtDate(d.date)}</div>
     <div class="block news"><div class="blabel"><span class="dash"></span>What's the news?</div><p>${esc(d.whatsTheNews)}</p></div>
     ${d.whatItMeans?`<div class="block means"><div class="blabel"><span class="dash"></span>What does this mean?</div><p>${esc(d.whatItMeans)}</p></div>`:''}
     <div class="block clients"><div class="blabel">Why it matters to clients</div>${bullets(d.clients)}</div>
