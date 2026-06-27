@@ -2,160 +2,6 @@
   "generatedAt": "2026-06-27",
   "items": [
     {
-      "id": "2026-W03-001",
-      "headline": "Hong Kong Moves to License Crypto Dealers, Custodians and Advisers",
-      "week": "2026-W03",
-      "weekLabel": "12–18 Jan 2026",
-      "date": "2026-01-16",
-      "region": "HK",
-      "practiceAreas": [
-        "Financial Regulatory",
-        "FinTech / TMT"
-      ],
-      "whatsTheNews": "Hong Kong is widening its crypto rulebook in 2026. The Securities and Futures Commission and the government plan to bring in new licences for firms that trade virtual assets, that hold them for clients (custodians), and that advise on or manage them. The aim is to hold crypto firms to the same standards as traditional finance, summed up as \"same business, same risks, same rules.\" New laws are expected to go to the Legislative Council during 2026, with set capital requirements and no automatic free pass for firms already operating.",
-      "whatItMeans": "A virtual asset is a digital asset like a cryptocurrency or token. A custodian is a firm that safely holds assets for clients, so crypto custody rules are mostly about protecting the secret keys that control the coins. Licensing means a firm must get official permission and meet set standards before it can operate. By covering dealers, custodians, advisers, and managers, Hong Kong is trying to regulate the whole chain of crypto services, not just the exchanges.",
-      "clients": [
-        "More crypto firms will need a licence. Dealers, custodians, and advisers that were lightly regulated must now prepare to apply and meet capital and conduct rules, so they need legal help early.",
-        "There is no easy grandfathering. Existing operators do not get an automatic pass, so even established firms must bring themselves up to standard or risk being shut out.",
-        "Traditional finance players can enter with confidence. Clear rules make banks and asset managers more comfortable offering crypto services, and they will want advice on how to do it compliantly."
-      ],
-      "lawFirms": [
-        "It creates a pipeline of licensing work. Each new regime means applications, compliance systems, and ongoing advice, which is steady fee income for financial regulatory teams.",
-        "It rewards early specialists. Firms that build virtual-asset expertise now become the natural choice as the rules land, winning the best clients in a growing market.",
-        "It blends skills juniors can grow into. The work sits across financial regulation, technology, and funds, giving trainees a chance to build a modern, in-demand niche."
-      ],
-      "sources": [
-        {
-          "title": "Sidley Austin: Hong Kong to enhance the virtual asset licensing regime to cover advisers and managers",
-          "url": "https://www.sidley.com/en/insights/newsupdates/2026/01/hong-kong-to-further-enhance-licensing-regime-for-virtual-assets-to-cover-advisors-and-managers"
-        }
-      ]
-    },
-    {
-      "id": "2026-W02-001",
-      "headline": "HSBC Buys Out Hang Seng Bank in a US$14 Billion Take-Private",
-      "week": "2026-W02",
-      "weekLabel": "5–11 Jan 2026",
-      "date": "2026-01-08",
-      "region": "HK",
-      "practiceAreas": [
-        "Corporate / M&A",
-        "Banking & Finance"
-      ],
-      "whatsTheNews": "HSBC is taking Hang Seng Bank, one of Hong Kong's best-known lenders, fully private in a deal worth about US$14 billion. HSBC already owned most of Hang Seng and offered HK$155 per share for the rest, around 30% above the market price before the news. Independent shareholders backed the plan, with about 85.75% voting in favour, well past the 75% needed. Hang Seng shares stopped trading in mid-January and were delisted from the Hong Kong stock exchange on 27 January 2026.",
-      "whatItMeans": "Taking a company private means buying up all its publicly traded shares so it is no longer listed on the stock exchange. Because HSBC already controlled Hang Seng, this is called privatising a subsidiary. The premium, the 30% extra over the market price, is what HSBC paid to persuade outside shareholders to sell. Once delisted, the public can no longer buy or sell the shares, and the company answers to one owner instead of the market.",
-      "clients": [
-        "A deal this size needs careful steering. Strict takeover rules and a shareholder vote apply, so HSBC and Hang Seng each need lawyers to run the process correctly.",
-        "Minority shareholders need protection. The rules exist so outside investors get a fair price and proper information, and advisers make sure the offer and disclosures meet those standards.",
-        "Other companies take note. A large, successful privatisation can prompt other controlling shareholders to consider buying out their own listed units, creating more potential deals."
-      ],
-      "lawFirms": [
-        "Privatisations are premium M&A work. They are complex, high-value, and heavily regulated, so they generate large fees and long instructions for corporate teams.",
-        "Several teams get involved at once. Corporate, banking, and regulatory lawyers all play a part, which spreads work across the firm.",
-        "A busy take-private market means more deals to staff. When controlling shareholders move to privatise undervalued listed companies, firms with strong M&A benches win the mandates and bring in juniors to help."
-      ],
-      "sources": [
-        {
-          "title": "SCMP: Hang Seng Bank shareholders approve HSBC's US$14 billion privatisation bid",
-          "url": "https://www.scmp.com/business/banking-finance/article/3339044/hang-seng-bank-shareholders-set-back-hsbcs-privatisation-plan-hong-kong-lender"
-        }
-      ]
-    },
-    {
-      "id": "2026-W01-001",
-      "headline": "Hong Kong's First Big Cybersecurity Law Lands on Critical Companies",
-      "week": "2026-W01",
-      "weekLabel": "1–4 Jan 2026",
-      "date": "2026-01-01",
-      "region": "HK",
-      "practiceAreas": [
-        "Cybersecurity / Data",
-        "Financial Regulatory"
-      ],
-      "whatsTheNews": "Hong Kong's Protection of Critical Infrastructures (Computer Systems) Ordinance came into force on 1 January 2026. It is the city's first law squarely aimed at protecting the computer systems behind essential services. It covers operators in eight sectors, including banking and finance, energy, telecoms, healthcare, and transport. Those operators must set up security teams, run regular audits, and report serious cyber incidents to a new government commissioner within a tight deadline, with penalties for getting it wrong running up to HK$5 million.",
-      "whatItMeans": "Critical infrastructure means the systems a city cannot function without, like the networks that run banks, hospitals, and power. A critical infrastructure operator is a company the government designates as running one of these essential systems. The law sets three duties: keep your own house in order (a local office and a security team), prevent attacks (security plans and audits), and report quickly when something goes wrong. The goal is to stop a single cyber attack from knocking out services that millions of people rely on.",
-      "clients": [
-        "Designated companies have real work to do. They must build security teams, write formal plans, and set up fast incident reporting, so they need legal and compliance advice to meet the new duties.",
-        "The duties flow down to suppliers. A bank that must report a breach within hours cannot wait a day for its cloud provider, so it will rewrite contracts to demand quick notice and audit rights from every vendor.",
-        "The cost of failure is high. Fines reach HK$5 million with daily penalties for ongoing breaches, so clients will pay for advice that keeps them on the right side of the rules."
-      ],
-      "lawFirms": [
-        "A fresh stream of advisory work just opened. Firms help clients work out whether they are caught, draft security policies, and handle incident reporting, which is steady, recurring work.",
-        "It drives a wave of contract redrafting. Because operators must push duties onto suppliers, firms get hired to renegotiate vendor and cloud agreements across whole supply chains.",
-        "It rewards firms with tech and regulatory depth. Lawyers who understand both data and financial regulation are best placed to win this work, and it is a fast-growing field for juniors to build a niche."
-      ],
-      "sources": [
-        {
-          "title": "Mayer Brown: Hong Kong issues the Code of Practice under the Critical Infrastructures Ordinance",
-          "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/hong-kong-issues-code-of-practice-under-the-protection-of-critical-infrastructures-computer-systems-ordinance"
-        },
-        {
-          "title": "Communications Authority: Protection of Critical Infrastructures (Computer Systems) Ordinance",
-          "url": "https://www.coms-auth.hk/en/policies_regulations/other/pcicso/index.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-W01-002",
-      "headline": "Hong Kong's Biggest Listed Companies Must Now Report Their Climate Impact",
-      "week": "2026-W01",
-      "weekLabel": "1–4 Jan 2026",
-      "date": "2026-01-01",
-      "region": "HK",
-      "practiceAreas": [
-        "ESG",
-        "Capital Markets"
-      ],
-      "whatsTheNews": "From the start of 2026, Hong Kong's largest listed companies must report detailed climate information under new stock exchange rules. The rules follow global standards known as the ISSB, and they cover how a company manages climate risks and how much greenhouse gas it produces. The biggest companies, those in the Hang Seng Composite LargeCap Index, must comply on a mandatory basis for financial years starting on or after 1 January 2026. Smaller listed companies report on a softer \"comply or explain\" basis for now, with tougher parts phased in over time.",
-      "whatItMeans": "Climate disclosure means telling investors, in the annual report, how climate change affects the business and how much pollution it causes. The ISSB standards are a common global rulebook for this, so investors can compare companies across countries. \"Scope 1 and 2 emissions\" are the greenhouse gases a company produces directly and through the energy it buys. Comply or explain means a company either follows the rule or publicly explains why it has not, a gentle way to ease companies in before a rule becomes compulsory.",
-      "clients": [
-        "Big listed companies have real reporting to do. They must gather climate and emissions data and present it properly, so they need advisers to help them meet the standard and avoid getting it wrong.",
-        "Boards face new responsibility. Directors are accountable for what the company discloses, so they want legal advice on how to report honestly and protect themselves.",
-        "It affects fundraising and reputation. Investors increasingly look at climate data, so getting disclosure right helps a company raise money and avoid criticism."
-      ],
-      "lawFirms": [
-        "A steady advisory line opens up. Firms help clients understand the rules, set up reporting, and manage the legal risk in what they publish, which recurs each reporting season.",
-        "It blends corporate and ESG skills. Lawyers who understand both listing rules and sustainability are well placed, and ESG is one of the fastest-growing areas in the profession.",
-        "It feeds governance and disputes work later. As disclosure becomes mandatory, mistakes can lead to regulator questions or claims, giving advisory and litigation teams more to do."
-      ],
-      "sources": [
-        {
-          "title": "Norton Rose Fulbright: new ISSB-aligned climate disclosure regime under the HKEX Listing Rules",
-          "url": "https://www.nortonrosefulbright.com/en-hk/knowledge/publications/d65a9ab1/embracing-the-global-trend-of-issb-standards-new-climate-disclosure-regime-under-hkse-listing-rules"
-        }
-      ]
-    },
-    {
-      "headline": "HKMA Keeps Its Banking Supervision Chief in Place for Two More Years",
-      "date": "2026-01-09",
-      "region": "HK",
-      "practiceAreas": [
-        "Financial Regulatory",
-        "Banking & Finance"
-      ],
-      "whatsTheNews": "On 9 January 2026 the Hong Kong Monetary Authority announced that the Financial Secretary had approved a two-year extension of Arthur Yuen's appointment as Deputy Chief Executive. The extension takes effect in August 2026. Yuen will keep responsibility for the full range of banking policy, supervision, conduct and enforcement at the HKMA. He is the senior official who oversees how banks in Hong Kong are regulated day to day. The move gives continuity at the top of the city's banking watchdog during a period of heavy regulatory change.",
-      "whatItMeans": "The HKMA is Hong Kong's central banking authority and the regulator that supervises every licensed bank in the city. A Deputy Chief Executive in charge of banking supervision sets and enforces the rules banks must follow on risk, conduct and customer protection. Conduct means how banks treat customers, and enforcement means punishing breaches. Keeping the same person in this seat matters because banks plan around the regulator's priorities, and a change at the top can shift those priorities. Continuity here signals a steady hand while new rules on stablecoins, virtual assets and tokenised deposits are being rolled out.",
-      "clients": [
-        "For banks operating in Hong Kong, knowing the same supervisor stays in charge means the current enforcement and conduct priorities are likely to continue. They can plan compliance budgets and projects without bracing for a sudden change of direction.",
-        "For fintech and digital asset firms, Yuen's continued oversight of policy matters because his team is shaping the new stablecoin and tokenisation rules. A stable leadership reduces the risk of those frameworks being reworked midstream.",
-        "For overseas banks deciding whether to expand in Hong Kong, a predictable and experienced regulator is part of what makes the market attractive. Stability at the HKMA supports confidence in the city as a financial centre."
-      ],
-      "lawFirms": [
-        "Financial regulatory teams advise banks on exactly how to comply with HKMA expectations on supervision, conduct and enforcement. Continuity in leadership means existing regulatory guidance keeps its weight, which shapes the advice these teams give.",
-        "Banking and finance lawyers care because the HKMA's priorities flow through into how loans, capital and risk are documented and managed. Candidates should understand that the regulator's agenda quietly drives a lot of transactional work.",
-        "Enforcement and investigations practices track who leads the regulator because that person sets the appetite for action against banks. A steady hand can still mean active enforcement, which keeps contentious regulatory lawyers busy."
-      ],
-      "sources": [
-        {
-          "title": "Senior Appointment at the Hong Kong Monetary Authority (HKMA)",
-          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/01/20260109-3/"
-        }
-      ],
-      "week": "2026-W03",
-      "weekLabel": "12–18 Jan 2026",
-      "id": "2026-W03-004"
-    },
-    {
       "headline": "New 468 Rule Makes It Easier for Part-Time Staff to Earn Full Employment Rights",
       "date": "2026-01-18",
       "region": "HK",
@@ -186,7 +32,37 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "id": "2026-W03-006"
+      "id": "2026-W03-001"
+    },
+    {
+      "id": "2026-W03-002",
+      "headline": "Hong Kong Moves to License Crypto Dealers, Custodians and Advisers",
+      "week": "2026-W03",
+      "weekLabel": "12–18 Jan 2026",
+      "date": "2026-01-16",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "FinTech / TMT"
+      ],
+      "whatsTheNews": "Hong Kong is widening its crypto rulebook in 2026. The Securities and Futures Commission and the government plan to bring in new licences for firms that trade virtual assets, that hold them for clients (custodians), and that advise on or manage them. The aim is to hold crypto firms to the same standards as traditional finance, summed up as \"same business, same risks, same rules.\" New laws are expected to go to the Legislative Council during 2026, with set capital requirements and no automatic free pass for firms already operating.",
+      "whatItMeans": "A virtual asset is a digital asset like a cryptocurrency or token. A custodian is a firm that safely holds assets for clients, so crypto custody rules are mostly about protecting the secret keys that control the coins. Licensing means a firm must get official permission and meet set standards before it can operate. By covering dealers, custodians, advisers, and managers, Hong Kong is trying to regulate the whole chain of crypto services, not just the exchanges.",
+      "clients": [
+        "More crypto firms will need a licence. Dealers, custodians, and advisers that were lightly regulated must now prepare to apply and meet capital and conduct rules, so they need legal help early.",
+        "There is no easy grandfathering. Existing operators do not get an automatic pass, so even established firms must bring themselves up to standard or risk being shut out.",
+        "Traditional finance players can enter with confidence. Clear rules make banks and asset managers more comfortable offering crypto services, and they will want advice on how to do it compliantly."
+      ],
+      "lawFirms": [
+        "It creates a pipeline of licensing work. Each new regime means applications, compliance systems, and ongoing advice, which is steady fee income for financial regulatory teams.",
+        "It rewards early specialists. Firms that build virtual-asset expertise now become the natural choice as the rules land, winning the best clients in a growing market.",
+        "It blends skills juniors can grow into. The work sits across financial regulation, technology, and funds, giving trainees a chance to build a modern, in-demand niche."
+      ],
+      "sources": [
+        {
+          "title": "Sidley Austin: Hong Kong to enhance the virtual asset licensing regime to cover advisers and managers",
+          "url": "https://www.sidley.com/en/insights/newsupdates/2026/01/hong-kong-to-further-enhance-licensing-regime-for-virtual-assets-to-cover-advisors-and-managers"
+        }
+      ]
     },
     {
       "headline": "New HKEX Rules Change How Listed Companies Must Keep Enough Shares in Public Hands",
@@ -219,36 +95,97 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "id": "2026-W03-008"
+      "id": "2026-W03-003"
     },
     {
-      "headline": "PwC Tips Hong Kong for Another Record IPO Year in 2026",
-      "date": "2026-01-05",
+      "headline": "HKMA Keeps Its Banking Supervision Chief in Place for Two More Years",
+      "date": "2026-01-09",
       "region": "HK",
       "practiceAreas": [
-        "Capital Markets"
+        "Financial Regulatory",
+        "Banking & Finance"
       ],
-      "whatsTheNews": "On 5 January 2026, PwC published its forecast for Hong Kong's IPO market for the year ahead. The firm predicts that around 150 companies will list in Hong Kong in 2026, raising between HK$320 billion and HK$350 billion. That would build on 2025, when Hong Kong reclaimed the global top spot for IPO money raised, pulling in close to HK$285.8 billion. PwC expects more than ten companies to each raise over HK$5 billion, and it expects mainland China A-share companies to keep using Hong Kong as a place to raise international funds. The forecast points to falling interest rates and supportive government policy as the main reasons for the optimism.",
-      "whatItMeans": "An IPO forecast is an accounting firm's estimate of how much money companies will raise by listing new shares over the coming year. Funds raised is the total cash all those new listings bring in. When PwC says Hong Kong topped the global table in 2025, it means HKEX hosted more IPO money than New York, London or any other exchange. An A-share company is a firm already listed on a mainland Chinese exchange that then seeks a second listing in Hong Kong to reach international investors. A big forecast signals that the deal pipeline, and the legal and banking work that comes with it, should stay busy.",
+      "whatsTheNews": "On 9 January 2026 the Hong Kong Monetary Authority announced that the Financial Secretary had approved a two-year extension of Arthur Yuen's appointment as Deputy Chief Executive. The extension takes effect in August 2026. Yuen will keep responsibility for the full range of banking policy, supervision, conduct and enforcement at the HKMA. He is the senior official who oversees how banks in Hong Kong are regulated day to day. The move gives continuity at the top of the city's banking watchdog during a period of heavy regulatory change.",
+      "whatItMeans": "The HKMA is Hong Kong's central banking authority and the regulator that supervises every licensed bank in the city. A Deputy Chief Executive in charge of banking supervision sets and enforces the rules banks must follow on risk, conduct and customer protection. Conduct means how banks treat customers, and enforcement means punishing breaches. Keeping the same person in this seat matters because banks plan around the regulator's priorities, and a change at the top can shift those priorities. Continuity here signals a steady hand while new rules on stablecoins, virtual assets and tokenised deposits are being rolled out.",
       "clients": [
-        "For companies thinking about listing, a bullish forecast and falling rates make Hong Kong an attractive place to raise money in 2026. Cheaper borrowing costs lift investor appetite, which can mean a higher valuation and a smoother offering.",
-        "For investment banks and sponsors, a fat pipeline of 150 expected deals means fee income and a reason to add headcount. The flip side is competition for the best mandates and pressure to price deals well in a crowded calendar.",
-        "For mainland A-share companies, Hong Kong offers a route to global capital they cannot easily reach at home. Repeated dual listings deepen the link between mainland and Hong Kong markets and keep Hong Kong relevant as China's offshore fundraising hub."
+        "For banks operating in Hong Kong, knowing the same supervisor stays in charge means the current enforcement and conduct priorities are likely to continue. They can plan compliance budgets and projects without bracing for a sudden change of direction.",
+        "For fintech and digital asset firms, Yuen's continued oversight of policy matters because his team is shaping the new stablecoin and tokenisation rules. A stable leadership reduces the risk of those frameworks being reworked midstream.",
+        "For overseas banks deciding whether to expand in Hong Kong, a predictable and experienced regulator is part of what makes the market attractive. Stability at the HKMA supports confidence in the city as a financial centre."
       ],
       "lawFirms": [
-        "Capital markets teams are the direct winners, because every one of those forecast listings needs lawyers on the prospectus, the due diligence and the exchange filings. A predicted record year is essentially a forecast of billable work for these teams.",
-        "A-share to Hong Kong dual listings keep cross-border practices busy, since these deals straddle two legal systems and two regulators. Trainees who can follow how mainland and Hong Kong rules fit together will find plenty to do.",
-        "A high-volume IPO year also stretches firm resources, so candidates should know that capital markets is where the hours and the deal exposure are. Mentioning the PwC forecast in an interview shows you track the market your future team serves."
+        "Financial regulatory teams advise banks on exactly how to comply with HKMA expectations on supervision, conduct and enforcement. Continuity in leadership means existing regulatory guidance keeps its weight, which shapes the advice these teams give.",
+        "Banking and finance lawyers care because the HKMA's priorities flow through into how loans, capital and risk are documented and managed. Candidates should understand that the regulator's agenda quietly drives a lot of transactional work.",
+        "Enforcement and investigations practices track who leads the regulator because that person sets the appetite for action against banks. A steady hand can still mean active enforcement, which keeps contentious regulatory lawyers busy."
       ],
       "sources": [
         {
-          "title": "PwC: Hong Kong IPO market to continue growth trend in 2026, expected to reach HKD320 billion to HKD350 billion",
-          "url": "https://www.pwchk.com/en/press-room/press-releases/pr-050126.html"
+          "title": "Senior Appointment at the Hong Kong Monetary Authority (HKMA)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/01/20260109-3/"
         }
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "id": "2026-W02-002"
+      "id": "2026-W02-001"
+    },
+    {
+      "id": "2026-W02-002",
+      "headline": "HSBC Buys Out Hang Seng Bank in a US$14 Billion Take-Private",
+      "week": "2026-W02",
+      "weekLabel": "5–11 Jan 2026",
+      "date": "2026-01-08",
+      "region": "HK",
+      "practiceAreas": [
+        "Corporate / M&A",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "HSBC is taking Hang Seng Bank, one of Hong Kong's best-known lenders, fully private in a deal worth about US$14 billion. HSBC already owned most of Hang Seng and offered HK$155 per share for the rest, around 30% above the market price before the news. Independent shareholders backed the plan, with about 85.75% voting in favour, well past the 75% needed. Hang Seng shares stopped trading in mid-January and were delisted from the Hong Kong stock exchange on 27 January 2026.",
+      "whatItMeans": "Taking a company private means buying up all its publicly traded shares so it is no longer listed on the stock exchange. Because HSBC already controlled Hang Seng, this is called privatising a subsidiary. The premium, the 30% extra over the market price, is what HSBC paid to persuade outside shareholders to sell. Once delisted, the public can no longer buy or sell the shares, and the company answers to one owner instead of the market.",
+      "clients": [
+        "A deal this size needs careful steering. Strict takeover rules and a shareholder vote apply, so HSBC and Hang Seng each need lawyers to run the process correctly.",
+        "Minority shareholders need protection. The rules exist so outside investors get a fair price and proper information, and advisers make sure the offer and disclosures meet those standards.",
+        "Other companies take note. A large, successful privatisation can prompt other controlling shareholders to consider buying out their own listed units, creating more potential deals."
+      ],
+      "lawFirms": [
+        "Privatisations are premium M&A work. They are complex, high-value, and heavily regulated, so they generate large fees and long instructions for corporate teams.",
+        "Several teams get involved at once. Corporate, banking, and regulatory lawyers all play a part, which spreads work across the firm.",
+        "A busy take-private market means more deals to staff. When controlling shareholders move to privatise undervalued listed companies, firms with strong M&A benches win the mandates and bring in juniors to help."
+      ],
+      "sources": [
+        {
+          "title": "SCMP: Hang Seng Bank shareholders approve HSBC's US$14 billion privatisation bid",
+          "url": "https://www.scmp.com/business/banking-finance/article/3339044/hang-seng-bank-shareholders-set-back-hsbcs-privatisation-plan-hong-kong-lender"
+        }
+      ]
+    },
+    {
+      "headline": "Zhipu Becomes The World's First Listed AGI Company In Hong Kong Debut",
+      "date": "2026-01-08",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "Zhipu AI, a leading Chinese rival to OpenAI, listed on the Hong Kong Stock Exchange on 8 January 2026 and its shares jumped on debut. The company raised about HK$4.17 billion at an offer price of HK$116.20 per share, reaching a valuation of roughly HK$55.5 billion (around US$7.1 billion). The stock opened higher and traded up about 8 percent at HK$126 during the morning, having overcome an early dip below the offer price. Demand was extraordinary, with Hong Kong retail investors oversubscribing the deal about 1,159 times. Zhipu, founded in 2019 and incubated at Tsinghua University, said it would put around 70 percent of the proceeds into research on its AI models through 2028.",
+      "whatItMeans": "An IPO is a company's first public share sale. AGI, or artificial general intelligence, means AI that aims to match or beat humans across a wide range of tasks rather than one narrow job, and Zhipu builds the large foundation models behind such systems. Oversubscribed 1,159 times means investors asked for more than a thousand times the shares actually available, which is a sign of frenzied demand and usually points to a strong first-day pop. A cornerstone or retail investor commits money before trading starts. The offer price is the fixed price at which shares are sold in the IPO, and the share trading above it on day one means buyers were willing to pay a premium straight away.",
+      "clients": [
+        "Other Chinese AI companies see Zhipu's reception as a green light, because a giant oversubscription and a strong debut prove deep investor appetite. That encourages the next tier of AI firms to file for their own Hong Kong listings.",
+        "Investors and cornerstone backers gained quick paper profits, which reinforces the rush into AI stocks and lifts valuations across the sector. Heavy demand also lets future issuers price at the top of their range.",
+        "Enterprise customers and partners of Zhipu benefit from a better-funded supplier, since most of the money goes into research. A well-capitalised AI developer can ship stronger models, which helps the businesses building on its technology."
+      ],
+      "lawFirms": [
+        "Equity capital markets teams run these landmark tech floats, drafting the prospectus and steering the deal through the exchange. Candidates should care because being on a record-breaking, first-of-its-kind listing is exactly the kind of standout experience that builds a career.",
+        "China and cross-border teams handle the structuring of a mainland AI champion listing offshore, including approvals and share class arrangements. This sits at the core of why international firms keep big Hong Kong benches.",
+        "Technology and IP teams advise on the intellectual property and data issues that underpin an AI company's value, which must be clearly described to investors. A wave of AI listings makes this specialist input increasingly sought after."
+      ],
+      "sources": [
+        {
+          "title": "China's Zhipu AI Jumps in Hong Kong Debut - Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-01-08/chinas-zhipu-ai-jumps-in-hong-kong-debut-102401610.html"
+        }
+      ],
+      "week": "2026-W02",
+      "weekLabel": "5–11 Jan 2026",
+      "id": "2026-W02-007"
     },
     {
       "headline": "Hong Kong Wins OECD Tick of Approval for Its Global Minimum Tax",
@@ -282,7 +219,36 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "id": "2026-W02-004"
+      "id": "2026-W02-010"
+    },
+    {
+      "headline": "PwC Tips Hong Kong for Another Record IPO Year in 2026",
+      "date": "2026-01-05",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets"
+      ],
+      "whatsTheNews": "On 5 January 2026, PwC published its forecast for Hong Kong's IPO market for the year ahead. The firm predicts that around 150 companies will list in Hong Kong in 2026, raising between HK$320 billion and HK$350 billion. That would build on 2025, when Hong Kong reclaimed the global top spot for IPO money raised, pulling in close to HK$285.8 billion. PwC expects more than ten companies to each raise over HK$5 billion, and it expects mainland China A-share companies to keep using Hong Kong as a place to raise international funds. The forecast points to falling interest rates and supportive government policy as the main reasons for the optimism.",
+      "whatItMeans": "An IPO forecast is an accounting firm's estimate of how much money companies will raise by listing new shares over the coming year. Funds raised is the total cash all those new listings bring in. When PwC says Hong Kong topped the global table in 2025, it means HKEX hosted more IPO money than New York, London or any other exchange. An A-share company is a firm already listed on a mainland Chinese exchange that then seeks a second listing in Hong Kong to reach international investors. A big forecast signals that the deal pipeline, and the legal and banking work that comes with it, should stay busy.",
+      "clients": [
+        "For companies thinking about listing, a bullish forecast and falling rates make Hong Kong an attractive place to raise money in 2026. Cheaper borrowing costs lift investor appetite, which can mean a higher valuation and a smoother offering.",
+        "For investment banks and sponsors, a fat pipeline of 150 expected deals means fee income and a reason to add headcount. The flip side is competition for the best mandates and pressure to price deals well in a crowded calendar.",
+        "For mainland A-share companies, Hong Kong offers a route to global capital they cannot easily reach at home. Repeated dual listings deepen the link between mainland and Hong Kong markets and keep Hong Kong relevant as China's offshore fundraising hub."
+      ],
+      "lawFirms": [
+        "Capital markets teams are the direct winners, because every one of those forecast listings needs lawyers on the prospectus, the due diligence and the exchange filings. A predicted record year is essentially a forecast of billable work for these teams.",
+        "A-share to Hong Kong dual listings keep cross-border practices busy, since these deals straddle two legal systems and two regulators. Trainees who can follow how mainland and Hong Kong rules fit together will find plenty to do.",
+        "A high-volume IPO year also stretches firm resources, so candidates should know that capital markets is where the hours and the deal exposure are. Mentioning the PwC forecast in an interview shows you track the market your future team serves."
+      ],
+      "sources": [
+        {
+          "title": "PwC: Hong Kong IPO market to continue growth trend in 2026, expected to reach HKD320 billion to HKD350 billion",
+          "url": "https://www.pwchk.com/en/press-room/press-releases/pr-050126.html"
+        }
+      ],
+      "week": "2026-W02",
+      "weekLabel": "5–11 Jan 2026",
+      "id": "2026-W02-011"
     },
     {
       "headline": "Tighter Trade Union Rules Take Effect in Hong Kong",
@@ -311,37 +277,71 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "id": "2026-W02-005"
+      "id": "2026-W02-012"
     },
     {
-      "headline": "Zhipu Becomes The World's First Listed AGI Company In Hong Kong Debut",
-      "date": "2026-01-08",
+      "id": "2026-W01-004",
+      "headline": "Hong Kong's First Big Cybersecurity Law Lands on Critical Companies",
+      "week": "2026-W01",
+      "weekLabel": "1–4 Jan 2026",
+      "date": "2026-01-01",
       "region": "HK",
       "practiceAreas": [
-        "Capital Markets",
-        "China / Cross-border"
+        "Cybersecurity / Data",
+        "Financial Regulatory"
       ],
-      "whatsTheNews": "Zhipu AI, a leading Chinese rival to OpenAI, listed on the Hong Kong Stock Exchange on 8 January 2026 and its shares jumped on debut. The company raised about HK$4.17 billion at an offer price of HK$116.20 per share, reaching a valuation of roughly HK$55.5 billion (around US$7.1 billion). The stock opened higher and traded up about 8 percent at HK$126 during the morning, having overcome an early dip below the offer price. Demand was extraordinary, with Hong Kong retail investors oversubscribing the deal about 1,159 times. Zhipu, founded in 2019 and incubated at Tsinghua University, said it would put around 70 percent of the proceeds into research on its AI models through 2028.",
-      "whatItMeans": "An IPO is a company's first public share sale. AGI, or artificial general intelligence, means AI that aims to match or beat humans across a wide range of tasks rather than one narrow job, and Zhipu builds the large foundation models behind such systems. Oversubscribed 1,159 times means investors asked for more than a thousand times the shares actually available, which is a sign of frenzied demand and usually points to a strong first-day pop. A cornerstone or retail investor commits money before trading starts. The offer price is the fixed price at which shares are sold in the IPO, and the share trading above it on day one means buyers were willing to pay a premium straight away.",
+      "whatsTheNews": "Hong Kong's Protection of Critical Infrastructures (Computer Systems) Ordinance came into force on 1 January 2026. It is the city's first law squarely aimed at protecting the computer systems behind essential services. It covers operators in eight sectors, including banking and finance, energy, telecoms, healthcare, and transport. Those operators must set up security teams, run regular audits, and report serious cyber incidents to a new government commissioner within a tight deadline, with penalties for getting it wrong running up to HK$5 million.",
+      "whatItMeans": "Critical infrastructure means the systems a city cannot function without, like the networks that run banks, hospitals, and power. A critical infrastructure operator is a company the government designates as running one of these essential systems. The law sets three duties: keep your own house in order (a local office and a security team), prevent attacks (security plans and audits), and report quickly when something goes wrong. The goal is to stop a single cyber attack from knocking out services that millions of people rely on.",
       "clients": [
-        "Other Chinese AI companies see Zhipu's reception as a green light, because a giant oversubscription and a strong debut prove deep investor appetite. That encourages the next tier of AI firms to file for their own Hong Kong listings.",
-        "Investors and cornerstone backers gained quick paper profits, which reinforces the rush into AI stocks and lifts valuations across the sector. Heavy demand also lets future issuers price at the top of their range.",
-        "Enterprise customers and partners of Zhipu benefit from a better-funded supplier, since most of the money goes into research. A well-capitalised AI developer can ship stronger models, which helps the businesses building on its technology."
+        "Designated companies have real work to do. They must build security teams, write formal plans, and set up fast incident reporting, so they need legal and compliance advice to meet the new duties.",
+        "The duties flow down to suppliers. A bank that must report a breach within hours cannot wait a day for its cloud provider, so it will rewrite contracts to demand quick notice and audit rights from every vendor.",
+        "The cost of failure is high. Fines reach HK$5 million with daily penalties for ongoing breaches, so clients will pay for advice that keeps them on the right side of the rules."
       ],
       "lawFirms": [
-        "Equity capital markets teams run these landmark tech floats, drafting the prospectus and steering the deal through the exchange. Candidates should care because being on a record-breaking, first-of-its-kind listing is exactly the kind of standout experience that builds a career.",
-        "China and cross-border teams handle the structuring of a mainland AI champion listing offshore, including approvals and share class arrangements. This sits at the core of why international firms keep big Hong Kong benches.",
-        "Technology and IP teams advise on the intellectual property and data issues that underpin an AI company's value, which must be clearly described to investors. A wave of AI listings makes this specialist input increasingly sought after."
+        "A fresh stream of advisory work just opened. Firms help clients work out whether they are caught, draft security policies, and handle incident reporting, which is steady, recurring work.",
+        "It drives a wave of contract redrafting. Because operators must push duties onto suppliers, firms get hired to renegotiate vendor and cloud agreements across whole supply chains.",
+        "It rewards firms with tech and regulatory depth. Lawyers who understand both data and financial regulation are best placed to win this work, and it is a fast-growing field for juniors to build a niche."
       ],
       "sources": [
         {
-          "title": "China's Zhipu AI Jumps in Hong Kong Debut - Caixin Global",
-          "url": "https://www.caixinglobal.com/2026-01-08/chinas-zhipu-ai-jumps-in-hong-kong-debut-102401610.html"
+          "title": "Mayer Brown: Hong Kong issues the Code of Practice under the Critical Infrastructures Ordinance",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/hong-kong-issues-code-of-practice-under-the-protection-of-critical-infrastructures-computer-systems-ordinance"
+        },
+        {
+          "title": "Communications Authority: Protection of Critical Infrastructures (Computer Systems) Ordinance",
+          "url": "https://www.coms-auth.hk/en/policies_regulations/other/pcicso/index.html"
         }
-      ],
+      ]
+    },
+    {
+      "id": "2026-W01-005",
+      "headline": "Hong Kong's Biggest Listed Companies Must Now Report Their Climate Impact",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "id": "2026-W01-006"
+      "date": "2026-01-01",
+      "region": "HK",
+      "practiceAreas": [
+        "ESG",
+        "Capital Markets"
+      ],
+      "whatsTheNews": "From the start of 2026, Hong Kong's largest listed companies must report detailed climate information under new stock exchange rules. The rules follow global standards known as the ISSB, and they cover how a company manages climate risks and how much greenhouse gas it produces. The biggest companies, those in the Hang Seng Composite LargeCap Index, must comply on a mandatory basis for financial years starting on or after 1 January 2026. Smaller listed companies report on a softer \"comply or explain\" basis for now, with tougher parts phased in over time.",
+      "whatItMeans": "Climate disclosure means telling investors, in the annual report, how climate change affects the business and how much pollution it causes. The ISSB standards are a common global rulebook for this, so investors can compare companies across countries. \"Scope 1 and 2 emissions\" are the greenhouse gases a company produces directly and through the energy it buys. Comply or explain means a company either follows the rule or publicly explains why it has not, a gentle way to ease companies in before a rule becomes compulsory.",
+      "clients": [
+        "Big listed companies have real reporting to do. They must gather climate and emissions data and present it properly, so they need advisers to help them meet the standard and avoid getting it wrong.",
+        "Boards face new responsibility. Directors are accountable for what the company discloses, so they want legal advice on how to report honestly and protect themselves.",
+        "It affects fundraising and reputation. Investors increasingly look at climate data, so getting disclosure right helps a company raise money and avoid criticism."
+      ],
+      "lawFirms": [
+        "A steady advisory line opens up. Firms help clients understand the rules, set up reporting, and manage the legal risk in what they publish, which recurs each reporting season.",
+        "It blends corporate and ESG skills. Lawyers who understand both listing rules and sustainability are well placed, and ESG is one of the fastest-growing areas in the profession.",
+        "It feeds governance and disputes work later. As disclosure becomes mandatory, mistakes can lead to regulator questions or claims, giving advisory and litigation teams more to do."
+      ],
+      "sources": [
+        {
+          "title": "Norton Rose Fulbright: new ISSB-aligned climate disclosure regime under the HKEX Listing Rules",
+          "url": "https://www.nortonrosefulbright.com/en-hk/knowledge/publications/d65a9ab1/embracing-the-global-trend-of-issb-standards-new-climate-disclosure-regime-under-hkse-listing-rules"
+        }
+      ]
     }
   ]
 }
