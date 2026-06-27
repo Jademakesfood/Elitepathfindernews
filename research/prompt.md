@@ -36,9 +36,21 @@ voice and passed through the No-Slop filter.
    judgment, or regulator page about *this* story. Never link to a homepage or a generic section
    page (not `scmp.com`, not `hkma.gov.hk` itself, but the precise URL of the story). Never invent
    a URL; if you cannot find the exact link, drop the item. **Verify each link resolves before
-   using it.** **Prefer freely-readable sources** (official regulators like HKMA/SFC/HKEX/IRD,
-   gov.hk press releases, the Judiciary, and law-firm client notes) over paywalled news sites
-   (SCMP, Bloomberg, FT, Fortune) so a student can always click through and actually read it.
+   using it.**
+
+   **SOURCE QUALITY (strict):** the primary source must be a real **news article** (SCMP, Reuters,
+   Bloomberg, Hong Kong Free Press, The Standard, Caixin, etc.) OR an official **news/press
+   release** (HKMA, SFC, HKEX, gov.hk, the Judiciary) that **states a publication date**. NOT
+   acceptable: FAQ pages, rulebook or legislation-text pages, generic landing/section pages,
+   "list of..." or statistics-archive pages, or automated aggregators (minichart, simplywall).
+
+   **DATE = the primary source's publication date**, in YYYY-MM-DD. It is NOT the date a law takes
+   effect or an event happens. For a "law takes effect" story, cite news coverage or a dated
+   client alert published around that time and use that publication date. The item's `week` is
+   then derived from this date. If the only honest source predates 1 Jan 2026, the story is out
+   of window — drop it.
+
+   **SOURCE ORDER:** list the dated primary source **first**; supporting articles come after.
 
 ---
 
