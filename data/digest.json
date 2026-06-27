@@ -1013,7 +1013,7 @@
     },
     {
       "id": "2026-W03-001",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong Moves to License Crypto Dealers, Custodians and Advisers",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
@@ -1044,7 +1044,7 @@
     },
     {
       "id": "2026-W02-001",
-      "status": "pending",
+      "status": "published",
       "headline": "HSBC Buys Out Hang Seng Bank in a US$14 Billion Take-Private",
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
@@ -1075,7 +1075,7 @@
     },
     {
       "id": "2026-W01-001",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong's First Big Cybersecurity Law Lands on Critical Companies",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "2026-W01-002",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong's Biggest Listed Companies Must Now Report Their Climate Impact",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
@@ -4499,7 +4499,7 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W03-002"
     },
     {
@@ -4530,7 +4530,7 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W03-003"
     },
     {
@@ -4561,7 +4561,7 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W03-004"
     },
     {
@@ -4596,7 +4596,7 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W03-005"
     },
     {
@@ -4606,7 +4606,7 @@
       "practiceAreas": [
         "Employment"
       ],
-      "whatsTheNews": "From 18 January 2026 Hong Kong changed the test for when a worker has a continuous contract under the Employment Ordinance. The old 418 rule required someone to work at least 18 hours a week for four straight weeks. The new test lowers and loosens that bar, so an employee qualifies if they work at least 17 hours in a week for four consecutive weeks, or 68 hours in total across any four-week period. The change is widely called the move from the 418 rule to the 468 rule. It applies going forward only, so work done before 18 January is still judged under the old rule.",
+      "whatsTheNews": "Hong Kong changed the test for when a worker has a continuous contract under the Employment Ordinance. The old 418 rule required someone to work at least 18 hours a week for four straight weeks. The new test lowers and loosens that bar, so an employee qualifies if they work at least 17 hours in a week for four consecutive weeks, or 68 hours in total across any four-week period. The change is widely called the move from the 418 rule to the 468 rule. It applies going forward only, so work done before 18 January is still judged under the old rule.",
       "whatItMeans": "The Employment Ordinance is Hong Kong's main employment law. A continuous contract is the status that unlocks the biggest statutory benefits, such as paid annual leave, paid statutory holidays, sickness allowance, severance and long service payments. Under the old 418 rule, anyone who fell short of 18 hours a week never reached that status, so many part-timers missed out. The new 468 rule lets workers add up hours across a four-week window, which helps people whose hours swing week to week. In short, more part-time and irregular-hours staff will now count as full beneficiaries of employment protections.",
       "clients": [
         "For employers of part-time and shift workers in retail, hospitality and logistics, more staff will now qualify for paid leave, sickness pay and severance. That raises payroll costs and forces a rethink of how shifts and rosters are scheduled.",
@@ -4630,7 +4630,7 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W03-006"
     },
     {
@@ -4665,7 +4665,7 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W03-007"
     },
     {
@@ -4675,7 +4675,7 @@
       "practiceAreas": [
         "Capital Markets"
       ],
-      "whatsTheNews": "From 1 January 2026 the Hong Kong Stock Exchange brought in new ongoing public float requirements for listed companies, and issuers were working through them through January. Public float is the slice of a company's shares held by ordinary public investors rather than insiders. The new rules add an optional alternative threshold, letting a company satisfy the test by keeping public shares worth at least HK$1 billion and at least 10% of issued shares, once they have traded for enough time. Companies must now disclose their public float in monthly returns and annual reports. Importantly, breaching the float no longer triggers an automatic trading suspension, with a graduated set of consequences applying instead.",
+      "whatsTheNews": "The Hong Kong Stock Exchange brought in new ongoing public float requirements for listed companies, and issuers were working through them through January. Public float is the slice of a company's shares held by ordinary public investors rather than insiders. The new rules add an optional alternative threshold, letting a company satisfy the test by keeping public shares worth at least HK$1 billion and at least 10% of issued shares, once they have traded for enough time. Companies must now disclose their public float in monthly returns and annual reports. Importantly, breaching the float no longer triggers an automatic trading suspension, with a graduated set of consequences applying instead.",
       "whatItMeans": "A public float requirement forces listed companies to keep a minimum portion of their shares in the hands of the general public, so the stock can actually be traded and the price reflects real demand. Insiders such as controlling shareholders do not count toward the float. The old approach could suspend a stock automatically if the float dropped too low, which froze trading and trapped investors. The new graduated approach instead requires the company to disclose the shortfall, file a restoration plan and avoid making it worse, with delisting only a last resort. More disclosure and fewer sudden suspensions are meant to keep markets transparent without punishing investors.",
       "clients": [
         "For listed companies, especially large mainland A+H issuers, the new thresholds and reporting duties mean fresh compliance work and careful monitoring of who holds their shares. Getting it wrong now triggers restoration plans and public disclosure rather than a quiet fix.",
@@ -4699,7 +4699,7 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W03-008"
     },
     {
@@ -4729,7 +4729,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W02-002"
     },
     {
@@ -4760,7 +4760,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W02-003"
     },
     {
@@ -4795,7 +4795,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W02-004"
     },
     {
@@ -4825,7 +4825,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W02-005"
     },
     {
@@ -4860,7 +4860,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W02-006"
     },
     {
@@ -4891,7 +4891,7 @@
       ],
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W01-003"
     },
     {
@@ -4922,7 +4922,7 @@
       ],
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W01-004"
     },
     {
@@ -4952,7 +4952,7 @@
       ],
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W01-005"
     },
     {
@@ -4983,7 +4983,7 @@
       ],
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W01-006"
     },
     {
@@ -5014,7 +5014,7 @@
       ],
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W01-007"
     }
   ]
