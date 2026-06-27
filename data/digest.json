@@ -4207,6 +4207,815 @@
       "weekLabel": "2–8 Feb 2026",
       "status": "pending",
       "id": "2026-W06-005"
+    },
+    {
+      "headline": "Hong Kong's IPO Engine Roars Back: Strongest January in Years",
+      "date": "2026-02-01",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "Hong Kong had its busiest start to a year for new share listings in a long time. Around 96 companies filed applications to list in January 2026, which is more than triple the 29 filed in the same month a year earlier. Twelve companies actually completed their listings during the month, raising about US$4.2 billion between them. The standout was Chinese artificial intelligence start-up MiniMax Group, which raised roughly US$711 million, the largest Hong Kong listing of the month and the third biggest IPO anywhere in the world in January. A wave of Chinese AI and semiconductor names drove the rush, putting Hong Kong back at the top of the global league tables for fundraising.",
+      "whatItMeans": "An IPO, or initial public offering, is when a private company sells its shares to the public for the first time and gets listed on a stock exchange. A listing application is the paperwork a company files with the Stock Exchange of Hong Kong asking permission to do this. Cornerstone investors are big institutions that agree in advance to buy a chunk of the shares, which signals confidence to everyone else. When lots of companies want to list in one place, it means that market is seen as a good place to raise money, and Hong Kong reclaiming that role matters because listings generate fees for banks, lawyers, and the exchange itself.",
+      "clients": [
+        "Mainland Chinese technology companies, especially in AI and chips, now see Hong Kong as the natural place to raise large sums of capital. A hot IPO market lets them fund expansion and research while US restrictions limit their options elsewhere, so the pipeline of companies wanting to list keeps growing.",
+        "Investment banks and brokers earn underwriting fees for arranging and selling these offerings. A surge in deals means more revenue and more reason to build out their Hong Kong equity capital markets teams, which had been quiet during the slow years.",
+        "Existing listed companies and the exchange benefit from the renewed energy and liquidity. More trading activity and a deeper pool of investors make Hong Kong more attractive for future fundraising, secondary listings, and follow-on share sales."
+      ],
+      "lawFirms": [
+        "Capital markets teams are the direct winners here, because every IPO needs lawyers to draft the prospectus, run due diligence, and clear the listing with the exchange. A tripling of applications means a heavy and immediate workload for these teams.",
+        "Firms with strong China and cross-border practices gain the most, since most of the issuers are mainland companies that need advisers fluent in both Hong Kong listing rules and PRC regulatory approvals. Candidates who understand both systems become very valuable.",
+        "For a trainee or vacation scheme student, an IPO boom is the clearest signal that capital markets is hiring. Working on a prospectus teaches you how a company is built, financed, and sold, which is foundational commercial knowledge that transfers across the whole of corporate law."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong back in global IPO spotlight after strongest January in years - SCMP",
+          "url": "https://www.scmp.com/business/article/3342003/hong-kong-back-global-ipo-spotlight-after-strongest-january-years"
+        }
+      ],
+      "week": "2026-W05",
+      "weekLabel": "26 Jan–1 Feb 2026",
+      "status": "pending",
+      "id": "2026-W05-001"
+    },
+    {
+      "headline": "Hong Kong Exports Surge 26% in December as Trade Booms",
+      "date": "2026-01-27",
+      "region": "HK",
+      "practiceAreas": [
+        "China / Cross-border",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "On 27 January the Census and Statistics Department released Hong Kong's external merchandise trade figures for December 2025. The value of total goods exports rose 26.1% from a year earlier to HK$512.8 billion, while imports climbed 30.6% to HK$576.0 billion. That left a visible trade deficit of HK$63.3 billion, equal to 11.0% of the value of imports. The strong numbers reflected global demand for electronics and AI-related products flowing through Hong Kong. The figures capped a year in which trade was one of the main drivers of the city's economic growth.",
+      "whatItMeans": "Merchandise trade statistics track the value of physical goods a place buys from and sells to the rest of the world. Exports are what Hong Kong ships out, imports are what it brings in, and a trade deficit means it imported more than it exported in value terms. Hong Kong is a re-export hub, meaning a lot of goods pass through it on the way between mainland China and the rest of the world, so these numbers say as much about regional supply chains as about Hong Kong itself. Surging trade signals busy ports, busy banks financing the goods, and busy companies moving product.",
+      "clients": [
+        "Trading companies, shippers, and freight forwarders benefit directly from rising volumes, because more goods moving means more business. The electronics and AI-product demand behind the numbers points to where the growth is concentrated.",
+        "Banks that provide trade finance, the loans and guarantees that let goods move before payment arrives, see more demand when trade booms. Higher volumes mean more letters of credit and financing facilities to arrange.",
+        "Manufacturers and suppliers in the regional supply chain read these figures as confirmation that demand is healthy. That encourages them to keep production high and consider expanding, which ripples through to their Hong Kong financing and contracting needs."
+      ],
+      "lawFirms": [
+        "Cross-border and trade-focused teams advise on the contracts, customs, and financing that underpin all this movement of goods. Rising trade volumes mean more shipping disputes, trade finance documents, and supply agreements to handle.",
+        "Banking and finance teams pick up trade finance work, drafting the facilities and security that let importers and exporters fund their deals. Strong trade data is a direct signal of demand for this work.",
+        "For a candidate, trade figures are a window into how Hong Kong actually makes money as a middleman between China and the world. Being able to explain why a 26% export jump matters to a bank or a shipping client demonstrates real commercial grounding."
+      ],
+      "sources": [
+        {
+          "title": "External merchandise trade statistics for December 2025 - info.gov.hk",
+          "url": "https://www.info.gov.hk/gia/general/202601/27/P2026012700489.htm"
+        }
+      ],
+      "week": "2026-W05",
+      "weekLabel": "26 Jan–1 Feb 2026",
+      "status": "pending",
+      "id": "2026-W05-002"
+    },
+    {
+      "headline": "SFC Hands Out First-Ever Fine for Mis-Selling Crypto Products to Retail Clients",
+      "date": "2026-01-06",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "FinTech / TMT"
+      ],
+      "whatsTheNews": "The Securities and Futures Commission reprimanded and fined Saxo Capital Markets HK Limited HK$4 million for distributing virtual-asset products to retail clients without the proper safeguards. Between November 2018 and November 2022 the firm executed 1,446 transactions in 32 crypto-related products, including unauthorised virtual-asset funds, for 136 clients, of whom 130 were ordinary retail investors. The SFC found the firm had failed to run the required knowledge assessments, give crypto-specific warnings, and do adequate due diligence on the products. Saxo self-reported the problem and compensated affected clients. The regulator flagged this as its first enforcement action against a licensed firm for breaching the rules on distributing virtual-asset products.",
+      "whatItMeans": "The Securities and Futures Commission, or SFC, is Hong Kong's markets regulator, the body that polices banks, brokers, and fund firms. Mis-selling means selling a financial product to someone it is not suitable for, or without the warnings and checks the rules demand. Retail clients are ordinary individual investors, who get more protection than professional investors because they are assumed to be less sophisticated. Virtual-asset products are crypto-linked investments, which are riskier and more complex than mainstream ones, so the SFC requires firms to test whether a client understands them before selling. A first-of-its-kind fine sets the benchmark for how this rule will be enforced.",
+      "clients": [
+        "Brokers and online trading platforms now have a clear warning that selling crypto products to retail clients without strict safeguards will draw a fine. They must tighten their onboarding, suitability checks, and product approvals or face the same fate.",
+        "Crypto product issuers see that distribution into Hong Kong's retail market is tightly controlled. Getting products properly authorised and labelled becomes essential if they want access to ordinary investors.",
+        "Retail investors are the intended beneficiaries, because the action signals that regulators will hold firms to account for pushing complex crypto bets onto people who may not understand the risks. That protection makes the market safer to participate in."
+      ],
+      "lawFirms": [
+        "Financial regulatory teams advise firms on suitability rules, product due diligence, and how to respond when the SFC comes knocking. A landmark enforcement action prompts every brokerage to review its crypto distribution, generating compliance work.",
+        "Contentious regulatory and white-collar teams handle the investigations and settlements themselves, representing firms under SFC scrutiny. The fact that Saxo self-reported and settled shows how this work often plays out behind the scenes.",
+        "For a candidate, this case is a clean illustration of how a regulator turns a rulebook into a real penalty. Understanding suitability and the retail-versus-professional distinction gives you vocabulary that comes up constantly in financial regulatory interviews."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong SFC Fines Saxo Capital Markets HK$4 Million for Virtual Asset Product Distribution Breaches - Charltons",
+          "url": "https://www.charltonslaw.com/hong-kong-sfc-fines-saxo-capital-markets-hk-limited-hk4-million-for-virtual-asset-product-distribution-breaches/"
+        }
+      ],
+      "week": "2026-W05",
+      "weekLabel": "26 Jan–1 Feb 2026",
+      "status": "pending",
+      "id": "2026-W05-003"
+    },
+    {
+      "headline": "Trader Convicted of Fake Trading Across Six Hong Kong-Listed Companies",
+      "date": "2026-01-22",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Disputes / Litigation"
+      ],
+      "whatsTheNews": "On 22 January the Eastern Magistrates' Court convicted retail trader Ng Ka Hei of seven counts of false trading, following a prosecution brought by the Securities and Futures Commission. The SFC showed that between September 2022 and October 2023 he ran wash trades and scaffolding trades in the shares of six companies listed on Hong Kong's Main Board, making a profit of about HK$117,715. False trading is a criminal offence under the Securities and Futures Ordinance because it creates a misleading picture of how actively a stock is being traded. He was later ordered to perform community service, pay a fine matching his profits, and cover the SFC's investigation costs. The case is part of the SFC's continuing push to police market manipulation by individual traders, not just big institutions.",
+      "whatItMeans": "False trading means placing trades designed to make a stock look more active or in demand than it really is, which tricks other investors. A wash trade is when someone effectively buys and sells the same shares to themselves, so there is no real change of ownership but the volume figures jump. Scaffolding refers to layering orders to prop up or steer a share price. The Securities and Futures Ordinance is Hong Kong's main law governing markets, and breaking its anti-manipulation rules is a crime. The SFC both investigates and prosecutes these cases, showing it will pursue ordinary individuals, not only large firms.",
+      "clients": [
+        "Brokerages and exchanges benefit from clean, trustworthy price signals, so enforcement that stamps out fake trading protects the integrity of the market they depend on. Confidence that prices are real keeps genuine investors participating.",
+        "Listed companies care because manipulation in their shares can distort their valuation and unsettle real shareholders. SFC action against manipulators helps protect the orderly market in their stock.",
+        "Ordinary investors are the ultimate beneficiaries, since manipulation tricks them into buying or selling on false signals. Visible prosecutions deter others from trying the same and make the market fairer to trade in."
+      ],
+      "lawFirms": [
+        "Financial regulatory and white-collar crime teams defend individuals and firms facing SFC investigations and prosecutions for market misconduct. A steady stream of enforcement actions keeps this contentious work flowing.",
+        "Litigation teams handle the court side of SFC prosecutions and any related civil claims, so criminal market-abuse cases sit squarely in their wheelhouse. Understanding how the SFO is enforced is central to this practice.",
+        "For a candidate, market-manipulation cases are a vivid way to learn how securities law actually bites in a courtroom. Being able to explain what a wash trade is and why it is illegal shows you grasp the rules that keep markets honest."
+      ],
+      "sources": [
+        {
+          "title": "SFC Enforcement Actions in January 2026 and December 2025 - Charltons",
+          "url": "https://www.charltonslaw.com/sfc-enforcement-actions-in-january-2026-and-december-2025/"
+        }
+      ],
+      "week": "2026-W05",
+      "weekLabel": "26 Jan–1 Feb 2026",
+      "status": "pending",
+      "id": "2026-W05-004"
+    },
+    {
+      "headline": "Hong Kong opens its 2026 legal year by defending the rule of law under global scrutiny",
+      "date": "2026-01-19",
+      "region": "HK",
+      "practiceAreas": [
+        "Disputes / Litigation"
+      ],
+      "whatsTheNews": "On 19 January 2026, Hong Kong held the Ceremonial Opening of the Legal Year at City Hall, the formal start of the courts' year. Chief Justice Andrew Cheung of the Court of Final Appeal gave the keynote address, acknowledging that a high-profile case, the national security trial of media owner Jimmy Lai, had drawn international criticism of Hong Kong's courts. He argued that the strength of the justice system lies in its adherence to the law and its openness to scrutiny, and that no one is above the law regardless of status or political affiliation. Secretary for Justice Paul Lam separately stressed that Hong Kong handles tens of thousands of ordinary civil and criminal cases each year and remains an international legal services and dispute resolution centre. Both speeches were aimed at reassuring businesses and overseas lawyers that the common law system still works.",
+      "whatItMeans": "The rule of law means that disputes are settled by clear rules applied by independent judges, not by who you know or who is in power. Hong Kong's legal system is based on common law, the same judge-made tradition used in England, which is why international companies have historically been comfortable signing contracts and resolving disputes here. The annual opening of the legal year is a ceremonial speech-day where the top judge and the government set the tone for the courts. The concern in the background is that politically sensitive national security cases have made some foreign investors and law firms nervous about whether Hong Kong courts are still neutral, so the Chief Justice is publicly making the case that ordinary commercial justice is unaffected.",
+      "clients": [
+        "Multinational companies that choose Hong Kong law and Hong Kong courts in their contracts are watching these signals closely. If confidence in the courts holds, they keep routing deals and disputes through Hong Kong, which is cheaper and faster than relocating to Singapore or London.",
+        "Banks, insurers and funds that operate regional headquarters here rely on predictable, independent courts to enforce loans, settle shareholder fights and protect their assets. Public reassurance from the top of the judiciary helps them defend Hong Kong to nervous global boards and compliance teams.",
+        "Businesses involved in cross-border trade benefit when Hong Kong is seen as a neutral venue for arbitration and litigation. Any erosion of that reputation pushes counterparties to demand a different governing law, which raises legal costs for everyone."
+      ],
+      "lawFirms": [
+        "Disputes and litigation teams are the direct beneficiaries when Hong Kong markets itself as a dispute resolution hub, because that reputation feeds a steady stream of court cases and arbitrations. Candidates should care because contentious work is counter-cyclical and busy even when deals slow down.",
+        "Firms with arbitration and international practices use messaging like this to pitch Hong Kong as a seat for resolving China-related disputes. A trainee in these teams gets exposure to high-value cross-border fights involving multiple jurisdictions.",
+        "Firms also advise clients on the reputational and political risk of choosing Hong Kong law, which blends legal and commercial judgement. Understanding why the Chief Justice gave this speech shows a candidate can read the commercial subtext behind legal news."
+      ],
+      "sources": [
+        {
+          "title": "CJ's speech at Ceremonial Opening of Legal Year 2026 (gov.hk)",
+          "url": "https://www.info.gov.hk/gia/general/202601/19/P2026011900618.htm"
+        },
+        {
+          "title": "SJ's speech at Ceremonial Opening of Legal Year 2026 (Department of Justice)",
+          "url": "https://www.doj.gov.hk/en/community_engagement/speeches/20260119_sj1.html"
+        }
+      ],
+      "week": "2026-W04",
+      "weekLabel": "19–25 Jan 2026",
+      "status": "pending",
+      "id": "2026-W04-002"
+    },
+    {
+      "headline": "SFC wins HK$595 million payback and a 15-year ban against former bosses of Superb Summit",
+      "date": "2026-01-21",
+      "region": "HK",
+      "practiceAreas": [
+        "Disputes / Litigation",
+        "Corporate / M&A"
+      ],
+      "whatsTheNews": "On 21 January 2026 the Securities and Futures Commission announced that the Court of First Instance had granted final orders against three former senior figures of Hong Kong-listed Superb Summit International Group Limited. Shadow director Yang Dongjun, former executive director Wu Tao and former chief financial officer Chan King Chung were ordered to pay HK$595 million in total compensation back to the company. Yang was disqualified from acting as a director for 15 years, and Wu and Chan for 12 years each. The court found Yang masterminded two fraudulent acquisitions, a 2009 purchase based on forestry assets that did not exist and a 2014 deal involving grossly overvalued engineering technology, which together stripped hundreds of millions from the company. The SFC used section 214 of the Securities and Futures Ordinance, a power that lets it sue directors directly on behalf of wronged listed companies.",
+      "whatItMeans": "A shadow director is someone who is not officially named as a director but who actually controls the company from behind the scenes, so the law treats them as a director anyway. A compensation order forces the wrongdoers to pay money back to the company they harmed. A disqualification order bans a person from running any company for a set number of years. Section 214 of the Securities and Futures Ordinance is a special tool that lets the SFC, the markets regulator, go to court to protect a listed company and its shareholders when insiders have committed fraud or serious misconduct. This case shows the regulator chasing the individuals personally, not just fining the company, for deals that were really asset-stripping dressed up as acquisitions.",
+      "clients": [
+        "Listed companies and their shareholders are reminded that the SFC will reach into a company's own boardroom to recover money lost to insider fraud. Minority shareholders gain reassurance that there is a public enforcer who can claw back stolen value when internal controls fail.",
+        "Directors and senior executives across Hong Kong face a sharp warning that personal liability is real and can run to hundreds of millions plus a career-ending ban. Boards will tighten how they scrutinise acquisitions, valuations and related-party deals to avoid the same fate.",
+        "Companies making acquisitions must now invest more in independent valuations and due diligence, because fake or inflated target assets are exactly what the court punished here. That raises deal costs but protects buyers from overpaying for worthless assets."
+      ],
+      "lawFirms": [
+        "Contentious regulatory and litigation teams run section 214 cases and defend the directors targeted by them, both of which are high-stakes, document-heavy mandates. Candidates should care because this is where regulatory enforcement meets courtroom advocacy.",
+        "Corporate and M&A teams use cases like this to sharpen due diligence on acquisitions, especially valuations of unusual assets like forestry rights or unproven technology. A trainee learns why lawyers insist on independent expert valuations before a deal closes.",
+        "Restructuring and forensic-leaning practices help companies trace and recover misappropriated funds after fraud is uncovered. Understanding how the SFC built this case shows a candidate how regulators turn an internal scandal into court orders."
+      ],
+      "sources": [
+        {
+          "title": "SFC obtains $595 million compensation order and disqualification orders up to 15 years against former directors of Superb Summit (Timothy Loh LLP)",
+          "url": "https://www.timothyloh.com/insights/latest-news/sfc-obtains-595-million-compensation-order-and-disqualification-orders-up-to-15-years-against-three-former-directors-and-senior-executives-of-superb-summit-international-group-limited-20260121"
+        },
+        {
+          "title": "Hong Kong SFC Obtains HK$595 Million Compensation Order and 15-Year Disqualification under Section 214 (Charltons)",
+          "url": "https://www.charltonslaw.com/hong-kong-sfc-obtained-hk595-million-compensation-order-and-15-year-disqualification-against-shadow-director-and-senior-officers-of-superb-summit-international-group-limited-under-section-214/"
+        }
+      ],
+      "week": "2026-W04",
+      "weekLabel": "19–25 Jan 2026",
+      "status": "pending",
+      "id": "2026-W04-003"
+    },
+    {
+      "headline": "China snack giant Busy Ming prices a HK$3.3 billion Hong Kong listing to test consumer appetite",
+      "date": "2026-01-20",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "On 20 January 2026 it was reported that Busy Ming Group, billed as China's largest discount snack and drink retailer, had launched its Hong Kong initial public offering. The company offered 14.1 million shares at a price range of HK$229.60 to HK$236.60, aiming to raise up to about HK$3.34 billion, with trading set to start on 28 January. Cornerstone investors lining up behind the deal included Tencent, Fidelity International and Temasek. Busy Ming runs the MingMing Snack and Zhao Yiming brands through a franchise model and was formed in 2023 by merging two snack chains. The listing was a test of whether investors still want consumer-focused names despite weak mainland Chinese spending, and the shares went on to jump as much as 88 percent on debut.",
+      "whatItMeans": "An initial public offering, or IPO, is when a private company sells shares to the public for the first time and lists them on a stock exchange so anyone can buy and sell them. The price range is the band the company hopes to sell shares within before demand sets the final price. Cornerstone investors are big, reputable institutions that agree in advance to buy a chunk of the offering, which signals confidence and helps the deal get done. A franchise model means the company licenses its brand and store format to independent operators rather than owning every shop itself. This deal mattered because a strong reception suggested investors were willing to back Chinese consumer businesses again, not just artificial intelligence stocks.",
+      "clients": [
+        "Consumer and retail companies in mainland China watch a deal like this to gauge whether Hong Kong's market will fund their growth, which influences their own listing plans. A hot debut encourages a wave of copycat consumer IPOs.",
+        "The cornerstone investors, including Tencent and Temasek, get early, sizeable stakes in a fast-growing retailer, which is how large institutions deploy capital into China's consumer recovery. Their participation also boosts the credibility of the offering for ordinary investors.",
+        "Hong Kong's stock exchange benefits from marquee listings that draw global capital back to the city. Each successful IPO strengthens the exchange's pitch that Hong Kong is the natural home for China growth stories."
+      ],
+      "lawFirms": [
+        "Capital markets teams act as issuer counsel and underwriter counsel on IPOs, drafting the prospectus, conducting due diligence and clearing the deal with the exchange. Candidates should care because IPO work is the bread and butter of a busy Hong Kong corporate practice.",
+        "China and cross-border teams handle the mainland regulatory approvals and structuring that sit behind a Chinese company listing in Hong Kong. A trainee learns how a business is reorganised so foreign investors can buy into a mainland operation.",
+        "Firms also negotiate the cornerstone investment agreements with names like Tencent and Temasek, which are heavily lawyered. Understanding why cornerstones matter shows a candidate grasps how confidence is engineered into a listing."
+      ],
+      "sources": [
+        {
+          "title": "China snack firm Busy Ming to test investor appetite for consumer plays with Hong Kong IPO (SCMP)",
+          "url": "https://www.scmp.com/business/banking-finance/article/3340497/chinas-busy-ming-test-investor-appetite-consumer-plays-hong-kong-ipo"
+        },
+        {
+          "title": "Busy Ming Jumps 88% in Hong Kong IPO Debut (Yahoo Finance / Bloomberg)",
+          "url": "https://finance.yahoo.com/news/busy-ming-jumps-88-hong-161825720.html"
+        }
+      ],
+      "week": "2026-W04",
+      "weekLabel": "19–25 Jan 2026",
+      "status": "pending",
+      "id": "2026-W04-004"
+    },
+    {
+      "headline": "HKEX proposes a shake-up of board lots to make small-cap shares cheaper to buy",
+      "date": "2026-01-21",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "Financial Regulatory"
+      ],
+      "whatsTheNews": "Hong Kong Exchanges and Clearing published a consultation paper on 18 December 2025 proposing to overhaul the board lot framework, with the consultation open through January 2026 and closing on 12 March. A board lot is the minimum bundle of shares an investor must buy in one go, and Hong Kong currently lets each company set its own, leading to more than 40 different lot sizes that confuse investors. The proposals would standardise lots into just eight set units, lower the suggested minimum value of a lot from HK$2,000 to HK$1,000 and add a ceiling of around HK$50,000. The aim is to make trading simpler, boost liquidity and lower the entry cost for retail investors, especially in higher-priced stocks. HKEX intends to publish conclusions by mid-2026.",
+      "whatItMeans": "A board lot is the smallest number of shares you are allowed to buy at once on the Hong Kong exchange, so if a lot is 1,000 shares and the price is HK$50, you need HK$50,000 just to make one trade. Because companies set their own lot sizes, the system is messy and can price small investors out of expensive stocks. A consultation paper is the exchange's proposal published for public comment before any rule changes. Liquidity means how easily shares can be bought and sold without moving the price much, and smaller, standardised lots make it easier for more people to trade, which improves liquidity. Lowering the minimum lot value is meant to let ordinary investors buy into shares they currently cannot afford in one lot.",
+      "clients": [
+        "Listed companies, especially those with high share prices, could see broader investor participation if smaller lots let retail buyers in. That can support their share price and widen their shareholder base.",
+        "Brokers and trading platforms benefit from higher trading volumes if more retail investors can afford to participate. Simpler, standard lot sizes also cut the operational confusion and errors caused by dozens of different formats.",
+        "Retail investors gain the most, since cheaper entry points let them buy stocks that were previously out of reach in a single lot. This lowers a practical barrier to investing in the Hong Kong market."
+      ],
+      "lawFirms": [
+        "Capital markets teams advise listed clients and brokers on what the board lot changes mean for their shares and trading operations. Candidates should care because market microstructure reforms ripple through every listed company.",
+        "Financial regulatory teams help clients respond to the consultation and later implement the new rules. A trainee learns how exchange rule changes move from a proposal to binding obligations on the market.",
+        "Firms also advise on the share restructuring some companies may need, such as splitting shares to fit the new lot bands. Understanding why board lots matter shows a candidate can connect a technical rule to retail access and liquidity."
+      ],
+      "sources": [
+        {
+          "title": "HKEX Consults on Proposed Enhancements to Hong Kong's Board Lot Framework (Charltons)",
+          "url": "https://www.charltonslaw.com/hkex-consults-on-proposed-enhancements-to-hong-kongs-board-lot-framework/"
+        },
+        {
+          "title": "HKEX proposes slashing board lot variations to boost liquidity, enhance market efficiency (SCMP)",
+          "url": "https://www.scmp.com/business/banking-finance/article/3336940/hkex-proposes-slashing-board-lot-variations-boost-liquidity-enhance-market-efficiency"
+        }
+      ],
+      "week": "2026-W04",
+      "weekLabel": "19–25 Jan 2026",
+      "status": "pending",
+      "id": "2026-W04-005"
+    },
+    {
+      "headline": "Zhipu Becomes the First Chinese AI Model Maker to List in Hong Kong",
+      "date": "2026-01-08",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "Zhipu, one of China's best known artificial intelligence companies, sold shares to the public on the Hong Kong Stock Exchange for the first time on 8 January 2026. It priced its shares at HK$116.20 each and raised more than HK$4.3 billion, which is roughly US$558 million. Demand was huge, with the retail portion of the offer oversubscribed about 1,159 times. The shares opened at HK$120 and rose as high as HK$130 on the first day, giving the company a market value of over HK$57 billion. Zhipu billed itself as the world's first listed company focused on building general artificial intelligence foundation models.",
+      "whatItMeans": "An IPO (initial public offering) is the first time a private company sells its shares to public investors on a stock exchange, which lets it raise cash and gives early owners a way to sell. Hong Kong's exchange, run by HKEX, is where many Chinese companies choose to list because it connects them to global money. Oversubscribed means investors asked for far more shares than were available, a sign of strong appetite. A foundation model is a large AI system (think the engine behind chatbots) trained on huge amounts of data and then adapted for many uses. Zhipu listing in Hong Kong rather than New York shows the city pulling in marquee Chinese tech names.",
+      "clients": [
+        "For Chinese tech companies, Zhipu's strong debut signals that Hong Kong investors will pay up for AI stories. That encourages other AI and deep-tech firms to file for their own listings, which feeds a busy pipeline of fundraising deals.",
+        "For the cornerstone and retail investors who bought in, the first-day jump delivered an immediate paper gain. It also sets a pricing benchmark that later AI listings will be measured against, raising expectations for the next wave.",
+        "For HKEX itself, landing a high-profile AI name strengthens its pitch as the natural home for Chinese technology listings. More flagship deals draw trading volume, sponsors and follow-on offerings to the exchange."
+      ],
+      "lawFirms": [
+        "Capital markets teams act as issuer counsel and underwriter counsel on listings like this, drafting the prospectus, running due diligence and clearing HKEX and SFC vetting. A flood of AI IPOs means sustained, well-paid work for these teams.",
+        "China and cross-border lawyers handle the structuring that lets a mainland company list offshore, including the share class and regulatory approvals on both sides of the border. Candidates should care because this is where Hong Kong corporate practice and PRC regulation meet.",
+        "A hot IPO market also pulls in funds and asset management lawyers advising the cornerstone investors who anchor these deals. Knowing how a listing is built from sponsor to settlement is exactly the commercial awareness interviewers probe."
+      ],
+      "sources": [
+        {
+          "title": "Zhipu becomes first Chinese AI firm to go public (CGTN)",
+          "url": "https://news.cgtn.com/news/2026-01-09/4-key-takeaways-Zhipu-becomes-first-Chinese-AI-firm-to-go-public-1JN0K7CEJaw/p.html"
+        }
+      ],
+      "week": "2026-W03",
+      "weekLabel": "12–18 Jan 2026",
+      "status": "pending",
+      "id": "2026-W03-002"
+    },
+    {
+      "headline": "MiniMax Raises US$619 Million as the Hong Kong AI Listing Rush Builds",
+      "date": "2026-01-08",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "Chinese AI startup MiniMax priced its Hong Kong IPO on 8 January 2026, raising about US$619 million. It set its shares at HK$165 each, the very top of the range it had marketed to investors, and sold 29.2 million shares, more than the 25.3 million it originally planned. The deal was heavily oversubscribed by both big institutions and ordinary retail buyers. MiniMax, founded in 2021 by former SenseTime executives, builds large language and multimodal models that can generate text, audio, video and music. Its listing landed within days of Zhipu's, underlining a rush of Chinese AI names to the Hong Kong market.",
+      "whatItMeans": "Pricing at the top of the range means the company charged the highest price it had floated to investors, a sign of confidence and strong demand. Upsizing the deal (selling more shares than planned) is another demand signal. A multimodal model is an AI system that works across different formats such as words, sound and pictures rather than just text. SenseTime is an established Chinese AI firm, so founders coming from there carry credibility. Two large AI listings inside one week tells you Hong Kong has reopened as a serious venue for technology fundraising after a slow patch.",
+      "clients": [
+        "For AI founders weighing where to raise money, MiniMax pricing at the top of its range shows Hong Kong can deliver full valuations. That makes the city a real alternative to a US listing for the next batch of Chinese tech companies.",
+        "For investment banks, back-to-back mega deals mean fee income and league table credit, which pushes them to chase more mandates. A busier pipeline also means they staff up and compete harder for the best issuers.",
+        "For existing MiniMax backers such as venture funds, a successful float gives them a public market in which to eventually sell. It also re-rates the value of similar private AI companies still on their books."
+      ],
+      "lawFirms": [
+        "This is bread and butter capital markets work, with separate teams for the company and the underwriters drafting and verifying the offering documents. A run of deals like this keeps junior lawyers busy on verification, comfort letters and prospectus drafting.",
+        "Cross-border lawyers manage the China side approvals and the offshore listing structure, a niche that is in heavy demand when mainland tech floods into Hong Kong. Candidates should note this is a durable source of work tied to PRC policy.",
+        "Repeat AI listings also create downstream work in employment and IP, since these companies live or die on talent and proprietary models. A trainee who understands the whole deal lifecycle stands out at interview."
+      ],
+      "sources": [
+        {
+          "title": "MiniMax raises $619M in Hong Kong IPO (SiliconANGLE)",
+          "url": "https://siliconangle.com/2026/01/08/minimax-raises-619m-hong-kong-ipo-investor-appetite-generative-ai-remains-strong/"
+        }
+      ],
+      "week": "2026-W03",
+      "weekLabel": "12–18 Jan 2026",
+      "status": "pending",
+      "id": "2026-W03-003"
+    },
+    {
+      "headline": "HKMA Keeps Its Banking Supervision Chief in Place for Two More Years",
+      "date": "2026-01-09",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "On 9 January 2026 the Hong Kong Monetary Authority announced that the Financial Secretary had approved a two-year extension of Arthur Yuen's appointment as Deputy Chief Executive. The extension takes effect in August 2026. Yuen will keep responsibility for the full range of banking policy, supervision, conduct and enforcement at the HKMA. He is the senior official who oversees how banks in Hong Kong are regulated day to day. The move gives continuity at the top of the city's banking watchdog during a period of heavy regulatory change.",
+      "whatItMeans": "The HKMA is Hong Kong's central banking authority and the regulator that supervises every licensed bank in the city. A Deputy Chief Executive in charge of banking supervision sets and enforces the rules banks must follow on risk, conduct and customer protection. Conduct means how banks treat customers, and enforcement means punishing breaches. Keeping the same person in this seat matters because banks plan around the regulator's priorities, and a change at the top can shift those priorities. Continuity here signals a steady hand while new rules on stablecoins, virtual assets and tokenised deposits are being rolled out.",
+      "clients": [
+        "For banks operating in Hong Kong, knowing the same supervisor stays in charge means the current enforcement and conduct priorities are likely to continue. They can plan compliance budgets and projects without bracing for a sudden change of direction.",
+        "For fintech and digital asset firms, Yuen's continued oversight of policy matters because his team is shaping the new stablecoin and tokenisation rules. A stable leadership reduces the risk of those frameworks being reworked midstream.",
+        "For overseas banks deciding whether to expand in Hong Kong, a predictable and experienced regulator is part of what makes the market attractive. Stability at the HKMA supports confidence in the city as a financial centre."
+      ],
+      "lawFirms": [
+        "Financial regulatory teams advise banks on exactly how to comply with HKMA expectations on supervision, conduct and enforcement. Continuity in leadership means existing regulatory guidance keeps its weight, which shapes the advice these teams give.",
+        "Banking and finance lawyers care because the HKMA's priorities flow through into how loans, capital and risk are documented and managed. Candidates should understand that the regulator's agenda quietly drives a lot of transactional work.",
+        "Enforcement and investigations practices track who leads the regulator because that person sets the appetite for action against banks. A steady hand can still mean active enforcement, which keeps contentious regulatory lawyers busy."
+      ],
+      "sources": [
+        {
+          "title": "Senior Appointment at the Hong Kong Monetary Authority (HKMA)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/01/20260109-3/"
+        }
+      ],
+      "week": "2026-W03",
+      "weekLabel": "12–18 Jan 2026",
+      "status": "pending",
+      "id": "2026-W03-004"
+    },
+    {
+      "headline": "Hong Kong Moves to Licence Crypto Advisers and Managers, Consultation Closes 23 January",
+      "date": "2026-01-23",
+      "region": "HK",
+      "practiceAreas": [
+        "FinTech / TMT",
+        "Financial Regulatory"
+      ],
+      "whatsTheNews": "The Financial Services and the Treasury Bureau and the Securities and Futures Commission opened a public consultation on plans to licence virtual asset advisers and virtual asset managers, with comments due by 23 January 2026. This sits alongside already-concluded plans to regulate crypto dealers and custodians. The new regimes copy the rules that already apply to advisers and managers in the traditional securities market, following a same business, same risks, same rules approach. The consultation drew 51 written responses from firms, industry bodies and individuals. After reviewing the feedback the government plans to finalise the proposals and introduce a bill to the Legislative Council during 2026.",
+      "whatItMeans": "A virtual asset is a crypto token such as Bitcoin or a stablecoin. The SFC is the regulator for Hong Kong's securities and investment markets. A consultation is when the government publishes draft rules and invites the public to comment before finalising them. An adviser tells clients what crypto to buy, and a manager runs crypto portfolios on clients' behalf, so licensing them means these activities will need SFC approval and must meet set standards. Same business, same risks, same rules means crypto firms will face broadly the same obligations as their traditional finance equivalents. The aim is to close gaps so that every part of the crypto value chain, from dealing to custody to advice, sits under one regulator.",
+      "clients": [
+        "For crypto advisory and fund firms, a licensing regime means new application, capital and compliance costs, plus the risk of enforcement if they get it wrong. Firms that prepare early can turn a licence into a mark of credibility with cautious institutional clients.",
+        "For traditional asset managers eyeing crypto, clear rules make it safer to launch digital asset products without regulatory guesswork. That can unlock new fee-earning lines they previously avoided.",
+        "For banks and custodians, a complete framework across dealing, custody and advice reduces the legal uncertainty that has kept many institutions on the sidelines. More certainty tends to bring more institutional money into the market."
+      ],
+      "lawFirms": [
+        "Financial regulatory teams will guide crypto firms through licence applications, gap analyses and the build-out of compliance systems. A brand new licensing regime is a steady stream of advisory work as deadlines approach.",
+        "FinTech and TMT lawyers care because these rules define what is legal in a fast-moving market, and clients need someone who can read draft legislation and translate it into action. Candidates who follow this area can speak credibly about a genuinely cutting-edge practice.",
+        "Funds and asset management teams will restructure products and update fund documents so managers can offer crypto within the rules. Understanding how a consultation becomes a bill becomes a licence shows real commercial awareness at interview."
+      ],
+      "sources": [
+        {
+          "title": "FSTB and SFC publish consultation conclusions and further consultation (gov.hk)",
+          "url": "https://www.info.gov.hk/gia/general/202512/24/P2025122400265.htm"
+        },
+        {
+          "title": "FSTB and SFC consult on VA advisers and managers (Reed Smith)",
+          "url": "https://www.reedsmith.com/articles/fstb-and-sfc-consult-on-proposed-licensing-regimes-for-virtual-asset-advisers-and-asset-managers/"
+        }
+      ],
+      "week": "2026-W03",
+      "weekLabel": "12–18 Jan 2026",
+      "status": "pending",
+      "id": "2026-W03-005"
+    },
+    {
+      "headline": "New 468 Rule Makes It Easier for Part-Time Staff to Earn Full Employment Rights",
+      "date": "2026-01-18",
+      "region": "HK",
+      "practiceAreas": [
+        "Employment"
+      ],
+      "whatsTheNews": "From 18 January 2026 Hong Kong changed the test for when a worker has a continuous contract under the Employment Ordinance. The old 418 rule required someone to work at least 18 hours a week for four straight weeks. The new test lowers and loosens that bar, so an employee qualifies if they work at least 17 hours in a week for four consecutive weeks, or 68 hours in total across any four-week period. The change is widely called the move from the 418 rule to the 468 rule. It applies going forward only, so work done before 18 January is still judged under the old rule.",
+      "whatItMeans": "The Employment Ordinance is Hong Kong's main employment law. A continuous contract is the status that unlocks the biggest statutory benefits, such as paid annual leave, paid statutory holidays, sickness allowance, severance and long service payments. Under the old 418 rule, anyone who fell short of 18 hours a week never reached that status, so many part-timers missed out. The new 468 rule lets workers add up hours across a four-week window, which helps people whose hours swing week to week. In short, more part-time and irregular-hours staff will now count as full beneficiaries of employment protections.",
+      "clients": [
+        "For employers of part-time and shift workers in retail, hospitality and logistics, more staff will now qualify for paid leave, sickness pay and severance. That raises payroll costs and forces a rethink of how shifts and rosters are scheduled.",
+        "For businesses, getting the calculation wrong creates exposure to claims and Labour Department scrutiny, so contracts, handbooks and payroll systems all need updating. Companies that act quickly avoid back-pay disputes.",
+        "For workers and unions, the change extends real benefits to people who were previously excluded, which can improve retention but also shifts bargaining dynamics. Employers may respond by adjusting hours, which itself can spark disputes."
+      ],
+      "lawFirms": [
+        "Employment teams advise companies on rewriting contracts, updating staff handbooks and recalculating entitlements to comply with the new test. A statutory change like this generates a wave of advisory work across many sectors.",
+        "Contentious employment lawyers will handle the claims that arise when employers and staff disagree over whether the new threshold is met. Candidates should care because this is a clear example of how a small legal tweak creates litigation.",
+        "Firms also run training and audits for big employers worried about getting payroll right at scale. Understanding how a single ordinance amendment ripples across an entire workforce is exactly the commercial thinking interviewers reward."
+      ],
+      "sources": [
+        {
+          "title": "New continuous contract requirement applicable from 18 January 2026 (gov.hk)",
+          "url": "https://www.info.gov.hk/gia/general/202512/29/P2025122400474.htm"
+        },
+        {
+          "title": "From 418 rule to 468 rule (Norton Rose Fulbright)",
+          "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/d99d0b70/from-418-rule-to-468-rule-continuous-contract-rules"
+        }
+      ],
+      "week": "2026-W03",
+      "weekLabel": "12–18 Jan 2026",
+      "status": "pending",
+      "id": "2026-W03-006"
+    },
+    {
+      "headline": "HSBC's Buyout of Hang Seng Bank Clears Its Big Shareholder Vote",
+      "date": "2026-01-08",
+      "region": "HK",
+      "practiceAreas": [
+        "Corporate / M&A",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "HSBC's plan to take Hang Seng Bank fully private cleared a key hurdle on 8 January 2026 when Hang Seng shareholders approved the deal. About 86% of the disinterested votes cast at the court meeting backed the scheme of arrangement. The deal would buy out the minority shareholders so HSBC owns 100% of Hang Seng, ending its separate listing. The plan then went to the High Court for sanction on 23 January 2026, with the scheme expected to take effect on 26 January and Hang Seng's shares removed from the stock exchange shortly after. Hang Seng would become a wholly owned subsidiary of the HSBC group.",
+      "whatItMeans": "A privatisation is when a controlling owner buys out the public shareholders so a listed company stops trading on the exchange. A scheme of arrangement is a court-approved process used to do this, which needs both a shareholder vote and a judge's blessing. Disinterested votes means the votes of shareholders other than the buyer and its connected parties, so the minority effectively decides. The court meeting is the formal shareholder vote held under court supervision. Once sanctioned and effective, Hang Seng's shares are delisted, meaning they no longer trade publicly and HSBC owns the whole bank.",
+      "clients": [
+        "For HSBC, owning all of Hang Seng simplifies its structure and lets it capture all of the subsidiary's profits rather than sharing with minority holders. It also gives more freedom to integrate operations and manage capital across the group.",
+        "For Hang Seng's minority shareholders, the buyout offers cash to exit at the offer price, though they lose a long-standing Hong Kong blue chip from their portfolios. The strong vote suggests most found the terms acceptable.",
+        "For the wider banking sector, a major local bank leaving the exchange is a notable consolidation that other groups will study. It signals that parent companies see value in fully absorbing listed subsidiaries when conditions allow."
+      ],
+      "lawFirms": [
+        "Corporate and M&A teams run privatisations like this, drafting the scheme document, managing the takeovers code process and steering the deal through shareholder and court approval. A landmark bank buyout is exactly the marquee deal these teams compete for.",
+        "Banking and finance lawyers advise on the regulatory side, since taking a licensed bank private touches capital rules and HKMA oversight. Candidates should see how M&A and financial regulation overlap on deals involving banks.",
+        "Litigation and barristers' chambers also feature, because a scheme of arrangement needs a court sanction hearing where counsel present the deal to a judge. This shows how even a friendly transaction still needs courtroom advocacy to complete."
+      ],
+      "sources": [
+        {
+          "title": "HSBC's proposal to privatise Hang Seng Bank approved by shareholders (HSBC)",
+          "url": "https://www.about.hsbc.com.hk/news-and-media/hsbcs-proposal-to-privatise-hang-seng-bank-approved-by-hang-seng-bank-shareholders"
+        },
+        {
+          "title": "Privatisation of Hang Seng Bank Court Sanction (HSBC joint announcement)",
+          "url": "https://www.hsbc.com/-/files/hsbc/investors/results-and-announcements/stock-exchange-announcements/2026/jan/sea-260123-joint-announcement-privatisation-of-hang-seng-bank-court-sanction.pdf"
+        }
+      ],
+      "week": "2026-W03",
+      "weekLabel": "12–18 Jan 2026",
+      "status": "pending",
+      "id": "2026-W03-007"
+    },
+    {
+      "headline": "New HKEX Rules Change How Listed Companies Must Keep Enough Shares in Public Hands",
+      "date": "2026-01-12",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets"
+      ],
+      "whatsTheNews": "From 1 January 2026 the Hong Kong Stock Exchange brought in new ongoing public float requirements for listed companies, and issuers were working through them through January. Public float is the slice of a company's shares held by ordinary public investors rather than insiders. The new rules add an optional alternative threshold, letting a company satisfy the test by keeping public shares worth at least HK$1 billion and at least 10% of issued shares, once they have traded for enough time. Companies must now disclose their public float in monthly returns and annual reports. Importantly, breaching the float no longer triggers an automatic trading suspension, with a graduated set of consequences applying instead.",
+      "whatItMeans": "A public float requirement forces listed companies to keep a minimum portion of their shares in the hands of the general public, so the stock can actually be traded and the price reflects real demand. Insiders such as controlling shareholders do not count toward the float. The old approach could suspend a stock automatically if the float dropped too low, which froze trading and trapped investors. The new graduated approach instead requires the company to disclose the shortfall, file a restoration plan and avoid making it worse, with delisting only a last resort. More disclosure and fewer sudden suspensions are meant to keep markets transparent without punishing investors.",
+      "clients": [
+        "For listed companies, especially large mainland A+H issuers, the new thresholds and reporting duties mean fresh compliance work and careful monitoring of who holds their shares. Getting it wrong now triggers restoration plans and public disclosure rather than a quiet fix.",
+        "For controlling shareholders, the rules limit how far they can shrink the public float through buybacks or share placements without consequences. They must plan corporate actions around keeping the float above the line.",
+        "For investors, replacing automatic suspensions with disclosure means they are less likely to be stuck unable to trade a stock. Better transparency on float helps them judge how liquid and reliable a share really is."
+      ],
+      "lawFirms": [
+        "Capital markets teams advise issuers on how to measure their float, pick the right threshold and meet the new monthly and annual disclosure duties. Rule changes like this generate compliance work across the whole universe of listed clients.",
+        "Lawyers also advise on remediation when a company breaches the float, drafting restoration plans and managing the exchange relationship. Candidates should note that ongoing listing obligations, not just IPOs, keep capital markets teams busy.",
+        "Corporate teams running buybacks, placings and privatisations must factor the float rules into every deal so they do not accidentally trip the threshold. Understanding these mechanics shows the kind of practical commercial awareness firms look for."
+      ],
+      "sources": [
+        {
+          "title": "New ongoing public float requirements from 1 January 2026 (Charltons)",
+          "url": "https://www.charltonslaw.com/new-ongoing-public-float-requirements-for-hkex-listed-companies-from-1-january-2026/"
+        },
+        {
+          "title": "HKEX Revises Ongoing Public Float Requirements (Bird & Bird)",
+          "url": "https://www.twobirds.com/en/insights/2026/china/hkex-revises-ongoing-public-float-requirements-what-listed-issuers-need-to-know"
+        }
+      ],
+      "week": "2026-W03",
+      "weekLabel": "12–18 Jan 2026",
+      "status": "pending",
+      "id": "2026-W03-008"
+    },
+    {
+      "headline": "PwC Tips Hong Kong for Another Record IPO Year in 2026",
+      "date": "2026-01-05",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets"
+      ],
+      "whatsTheNews": "On 5 January 2026, PwC published its forecast for Hong Kong's IPO market for the year ahead. The firm predicts that around 150 companies will list in Hong Kong in 2026, raising between HK$320 billion and HK$350 billion. That would build on 2025, when Hong Kong reclaimed the global top spot for IPO money raised, pulling in close to HK$285.8 billion. PwC expects more than ten companies to each raise over HK$5 billion, and it expects mainland China A-share companies to keep using Hong Kong as a place to raise international funds. The forecast points to falling interest rates and supportive government policy as the main reasons for the optimism.",
+      "whatItMeans": "An IPO forecast is an accounting firm's estimate of how much money companies will raise by listing new shares over the coming year. Funds raised is the total cash all those new listings bring in. When PwC says Hong Kong topped the global table in 2025, it means HKEX hosted more IPO money than New York, London or any other exchange. An A-share company is a firm already listed on a mainland Chinese exchange that then seeks a second listing in Hong Kong to reach international investors. A big forecast signals that the deal pipeline, and the legal and banking work that comes with it, should stay busy.",
+      "clients": [
+        "For companies thinking about listing, a bullish forecast and falling rates make Hong Kong an attractive place to raise money in 2026. Cheaper borrowing costs lift investor appetite, which can mean a higher valuation and a smoother offering.",
+        "For investment banks and sponsors, a fat pipeline of 150 expected deals means fee income and a reason to add headcount. The flip side is competition for the best mandates and pressure to price deals well in a crowded calendar.",
+        "For mainland A-share companies, Hong Kong offers a route to global capital they cannot easily reach at home. Repeated dual listings deepen the link between mainland and Hong Kong markets and keep Hong Kong relevant as China's offshore fundraising hub."
+      ],
+      "lawFirms": [
+        "Capital markets teams are the direct winners, because every one of those forecast listings needs lawyers on the prospectus, the due diligence and the exchange filings. A predicted record year is essentially a forecast of billable work for these teams.",
+        "A-share to Hong Kong dual listings keep cross-border practices busy, since these deals straddle two legal systems and two regulators. Trainees who can follow how mainland and Hong Kong rules fit together will find plenty to do.",
+        "A high-volume IPO year also stretches firm resources, so candidates should know that capital markets is where the hours and the deal exposure are. Mentioning the PwC forecast in an interview shows you track the market your future team serves."
+      ],
+      "sources": [
+        {
+          "title": "PwC: Hong Kong IPO market to continue growth trend in 2026, expected to reach HKD320 billion to HKD350 billion",
+          "url": "https://www.pwchk.com/en/press-room/press-releases/pr-050126.html"
+        }
+      ],
+      "week": "2026-W02",
+      "weekLabel": "5–11 Jan 2026",
+      "status": "pending",
+      "id": "2026-W02-002"
+    },
+    {
+      "headline": "Hong Kong Stocks Storm Into 2026 With Biggest Jump Since May",
+      "date": "2026-01-02",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "Funds / Asset Management"
+      ],
+      "whatsTheNews": "Hong Kong's stock market opened 2026 with a sharp rally. On 2 January 2026, the Hang Seng Index climbed 2.8 percent to close at 26,338.47, its biggest single-day gain since May. Technology stocks led the move, with the Hang Seng Tech Index up about 3.6 percent. Big gainers included Baidu, which rose more than 9 percent after its AI chip unit filed for an IPO, along with Alibaba, Tencent and SMIC. Investors were betting that the strong run in mainland and Hong Kong markets through 2025 would continue, helped by expectations of supportive policy from Beijing.",
+      "whatItMeans": "The Hang Seng Index is the main scoreboard for the Hong Kong stock market, tracking its largest listed companies. When the index rises, it means those companies are worth more on the day. The Hang Seng Tech Index is a narrower scoreboard focused on big technology names. A rally is a fast, broad rise in prices. A strong start to the year matters because rising share prices make it easier and cheaper for companies to raise money by selling new shares, which feeds the IPO pipeline and keeps deal activity humming.",
+      "clients": [
+        "For listed companies, higher share prices lower the cost of raising new equity and can support follow-on share sales. A buoyant market is the backdrop companies want when deciding whether to launch an IPO or a fundraising.",
+        "For asset managers and funds, a rising market lifts the value of their holdings and tends to attract new money from investors chasing returns. That inflow then needs to be deployed, which keeps trading and investment activity high.",
+        "For banks and brokers, a strong market means more trading volume and more appetite for new deals. The opposite is also true, so a confident open to the year sets an upbeat tone for the businesses that live off market activity."
+      ],
+      "lawFirms": [
+        "Capital markets teams benefit because a hot market encourages companies to list and raise money, and those deals need lawyers. The Baidu chip-unit IPO filing referenced in the rally is the kind of mandate that generates work.",
+        "Funds and asset management teams advise the investors piling into the market, helping set up and run the vehicles that hold these shares. Rising markets often mean new fund launches, which is fee-generating work.",
+        "A confident market also drives M&A and equity-linked financings, spreading work across corporate and finance teams. Candidates should understand that market sentiment at the start of a year shapes how busy these teams will be."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong stocks jump into 2026 with biggest surge since May (SCMP)",
+          "url": "https://www.scmp.com/business/china-business/article/3338452/hong-kong-stocks-jump-2026-investors-bet-continued-bull-run"
+        }
+      ],
+      "week": "2026-W02",
+      "weekLabel": "5–11 Jan 2026",
+      "status": "pending",
+      "id": "2026-W02-003"
+    },
+    {
+      "headline": "Hong Kong Wins OECD Tick of Approval for Its Global Minimum Tax",
+      "date": "2026-01-06",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "Tax",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "In early January 2026, the OECD confirmed that Hong Kong's version of the global minimum tax has obtained transitional qualified status. This covers Hong Kong's income inclusion rule, its own Hong Kong minimum top-up tax, and a safe harbour for its domestic top-up tax, all running from 1 January 2025. The regime applies a 15 percent minimum tax floor to large multinational groups with annual revenue above 750 million euros. Hong Kong had enacted the underlying law, the Inland Revenue (Amendment) (Minimum Tax for Multinational Enterprise Groups) Ordinance 2025, in mid-2025. Qualified status means Hong Kong gets first claim to collect top-up tax on lightly taxed local profits before other countries can.",
+      "whatItMeans": "The OECD is the international body that designed a global deal, known as Pillar Two, to stop big companies shifting profits to very low-tax places. The rule sets a minimum effective tax rate of 15 percent on large multinationals. A top-up tax is the extra tax charged to lift a group up to that 15 percent floor. Qualified status is the OECD confirming that a country's version of the rules is recognised, which lets that country collect the top-up tax first rather than letting another country grab it. For Hong Kong, a famously low-tax place, this preserves its right to tax those profits at home rather than losing the revenue abroad.",
+      "clients": [
+        "For large multinationals based in or operating through Hong Kong, the 15 percent floor changes the tax maths and may raise their overall bill. They now have to calculate whether they fall below 15 percent in any jurisdiction and prepare for the new top-up tax filings.",
+        "For groups using Hong Kong as a low-tax holding location, the old advantage of a very low rate is reduced, since profits below 15 percent get topped up anyway. Companies will revisit their structures to see whether Hong Kong still makes sense for their setup.",
+        "For Hong Kong itself, qualified status means the territory keeps the tax revenue at home rather than surrendering it to other countries, which protects its public finances while keeping it OECD-compliant."
+      ],
+      "lawFirms": [
+        "Tax teams are busy advising multinationals on whether they are caught, how to calculate top-up tax, and how to restructure if needed. A major change to the tax base of large companies generates a long tail of advisory work.",
+        "Cross-border teams help groups reorganise holding structures that were built around Hong Kong's low rate. This is the kind of technical, high-stakes work that rewards candidates comfortable with both tax and corporate structuring.",
+        "Because the rules are new and detailed, firms also run training and compliance support for in-house teams. A trainee who can explain Pillar Two in plain terms stands out, because many clients are still getting to grips with it."
+      ],
+      "sources": [
+        {
+          "title": "IRD: Global minimum tax and Hong Kong minimum top-up tax for multinational enterprise groups",
+          "url": "https://www.ird.gov.hk/eng/tax/bus_beps.htm"
+        },
+        {
+          "title": "Hong Kong enacts law on BEPS 2.0 Pillar Two (EY)",
+          "url": "https://www.ey.com/en_gl/technical/tax-alerts/hong-kong-enacts-law-on-beps-20-pillar-two"
+        }
+      ],
+      "week": "2026-W02",
+      "weekLabel": "5–11 Jan 2026",
+      "status": "pending",
+      "id": "2026-W02-004"
+    },
+    {
+      "headline": "Tighter Trade Union Rules Take Effect in Hong Kong",
+      "date": "2026-01-05",
+      "region": "HK",
+      "practiceAreas": [
+        "Employment"
+      ],
+      "whatsTheNews": "Amendments to Hong Kong's trade union law took effect on 5 January 2026. The Trade Unions (Amendment) Bill 2025, passed by the Legislative Council in mid-2025, strengthens the powers of the Registrar of Trade Unions. The Registrar can now reject a trade union registration on national security grounds and restrict union funding from external forces such as foreign governments, political parties and international organisations. The law also adjusts penalties, and anyone convicted of a national security offence is permanently barred from registering or holding office in a trade union. Breaching that ban can bring a fine of HK$50,000 and up to three years in prison.",
+      "whatItMeans": "A trade union is an organisation that represents workers in dealings with employers. The Registrar of Trade Unions is the official who approves and oversees those unions. Registration is the legal approval a union needs to operate. External forces means foreign governments or bodies, and the law limits the money they can give to Hong Kong unions. The changes are part of Hong Kong's wider national security framework, and they reshape what counts as lawful union activity. For employers, it means the rules around employee associations and labour organising have shifted and internal policies may need updating.",
+      "clients": [
+        "For employers, this is a prompt to review and update any policies on trade unions and staff associations so they line up with the new rules. Getting this wrong could create legal and reputational exposure if a company is seen to support a non-compliant body.",
+        "For multinational companies with global union or works-council relationships, the limits on funding from external forces add a compliance layer to how local employee bodies interact with overseas parents. Cross-border labour arrangements may need a fresh look.",
+        "For unions and the workers they represent, the higher bar for registration and the funding restrictions change how they can organise and finance themselves. The practical room for independent organising narrows."
+      ],
+      "lawFirms": [
+        "Employment teams advise companies on what the amendments mean for their workforce policies, internal communications and any dealings with staff bodies. New labour legislation reliably generates advisory work for these teams.",
+        "Because the changes sit within the national security framework, employment lawyers increasingly work alongside compliance and risk specialists. Candidates should see how employment law now intersects with broader regulatory and political considerations in Hong Kong.",
+        "For trainees, this is a reminder that employment work is not only contracts and dismissals but also tracking statutory change and translating it into practical client steps. Knowing a current example like this shows commercial awareness in an interview."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong: Trade Unions (Amendment) Bill 2025 Bolsters Mechanisms to Safeguard National Security (Lewis Silkin)",
+          "url": "https://www.lewissilkin.com/insights/2025/08/20/hong-kong-trade-unions-amendment-bill-2025-bolsters-mechanisms-to-safeguard-national-security"
+        }
+      ],
+      "week": "2026-W02",
+      "weekLabel": "5–11 Jan 2026",
+      "status": "pending",
+      "id": "2026-W02-005"
+    },
+    {
+      "headline": "HKMA Lines Up HK$1 Billion Government Bond Sale",
+      "date": "2026-01-08",
+      "region": "HK",
+      "practiceAreas": [
+        "Banking & Finance",
+        "Capital Markets"
+      ],
+      "whatsTheNews": "On 8 January 2026, the Hong Kong Monetary Authority (HKMA) announced a tender to sell HK$1.0 billion of 10-year Hong Kong government bonds, with the auction held on 14 January 2026. The bonds carry an interest rate of 3.17 percent a year and mature in July 2035, and the indicative yield was around 3.12 percent. The sale was a re-opening, meaning more of an existing bond was issued rather than a brand new one. The day after, on 9 January, the HKMA announced a separate tender to re-open 3-year renminbi-denominated government bonds. These issues are part of Hong Kong's Infrastructure Bond Programme, which raises money for long-term projects.",
+      "whatItMeans": "The HKMA is Hong Kong's central banking authority, the body that manages the currency and oversees banks. A government bond is an IOU the government sells to investors, promising to pay interest and repay the amount at the end. A tender is the auction where investors bid for those bonds. The yield is the return an investor earns, which moves opposite to the price. A re-opening means selling more of a bond that already exists. The renminbi bond shows Hong Kong building out its offshore Chinese-currency market. Regular, well-received bond sales signal a deep, functioning debt market, which is the plumbing that supports the wider financial centre.",
+      "clients": [
+        "For banks and institutional investors, government bonds are a low-risk place to park money and a benchmark for pricing other loans and bonds. A steady supply gives them reliable assets to hold and trade.",
+        "For the government, the Infrastructure Bond Programme is a way to fund big long-term projects without relying only on reserves. Smooth, oversubscribed auctions keep borrowing cheap and signal market confidence.",
+        "For issuers eyeing the offshore renminbi market, Hong Kong's renminbi bond sales help build the pricing reference points and investor base that make it easier for companies to raise Chinese currency offshore."
+      ],
+      "lawFirms": [
+        "Banking and finance teams and debt capital markets lawyers paper these bond issues, drafting the terms and the programme documentation. A regular issuance calendar means recurring, dependable work for these teams.",
+        "The renminbi tranche keeps cross-border and China-focused finance lawyers involved, since offshore renminbi products bring their own legal and regulatory considerations. This is useful exposure for candidates interested in the China angle.",
+        "Debt work is often quieter in the headlines than M&A or IPOs but offers steady deal flow and a clear path to technical expertise. Knowing that government and infrastructure bonds underpin the finance practice is a smart point to raise in interviews."
+      ],
+      "sources": [
+        {
+          "title": "HKMA: Tender for the re-opening of 10-year HKD HKSAR Institutional Government Bonds (14 January 2026)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/01/20260108-3/"
+        },
+        {
+          "title": "HKMA: Tender for the re-opening of 3-year RMB HKSAR Institutional Government Bonds (15 January 2026)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/01/20260109-4/"
+        }
+      ],
+      "week": "2026-W02",
+      "weekLabel": "5–11 Jan 2026",
+      "status": "pending",
+      "id": "2026-W02-006"
+    },
+    {
+      "headline": "Chinese Chipmaker Biren Nearly Doubles On Hong Kong Debut",
+      "date": "2026-01-02",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "Biren Technology, a Chinese designer of graphics chips for artificial intelligence, listed on the Hong Kong Stock Exchange on 2 January 2026 and nearly doubled in value on its first day of trading. The company raised about HK$5.38 billion (around US$692 million) in net proceeds. It was the largest IPO so far under Hong Kong's Chapter 18C regime, a special set of rules that lets technology firms list before they earn meaningful revenue or profit. Biren is still loss-making, with net losses of more than HK$1.5 billion across 2022 to 2024, but it plans to spend about 85 percent of the money raised on research and development. It became the first home-grown Chinese GPU maker to list in Hong Kong.",
+      "whatItMeans": "An IPO, or initial public offering, is when a company sells its shares to the public for the first time and becomes listed on a stock exchange. A GPU (graphics processing unit) is a powerful chip that does the heavy maths behind artificial intelligence, the kind of product Nvidia is famous for. Chapter 18C is a Hong Kong listing rule designed for early-stage tech companies that have promising technology but little or no profit yet, so they can raise money from public investors. The fact that Biren almost doubled on day one shows investors are hungry for Chinese alternatives to American chips, partly because US export controls limit what China can buy abroad.",
+      "clients": [
+        "Chinese technology companies see Biren's pop as proof that Hong Kong is the place to raise large sums quickly, especially for chip and AI businesses shut out of US markets. That encourages more of them to choose Hong Kong for their listings.",
+        "Investors and cornerstone backers who bought in early made a fast paper gain, which strengthens appetite for the next wave of tech floats. Strong debuts make it easier for future issuers to price their shares at the top of the range.",
+        "Established chip buyers, such as data centre operators and cloud firms in China, gain a better-funded domestic supplier. With fresh capital going into research, Biren can push out next-generation chips faster, giving customers a real alternative to restricted foreign products."
+      ],
+      "lawFirms": [
+        "Equity capital markets teams that handle Chapter 18C listings are in demand, because these pre-revenue tech floats need careful drafting to explain the risks to investors. Candidates should care because 18C is a Hong Kong speciality and the deals are large and headline-grabbing.",
+        "China and cross-border teams advise on the structuring of mainland companies listing in Hong Kong, including approvals and the split between domestic and overseas shareholders. This is steady, sophisticated work that sits at the heart of Hong Kong's role as China's offshore fundraising hub.",
+        "Regulatory and risk teams help issuers and banks manage the disclosure duties that come with floating a loss-making business. A flood of 18C candidates means more of this gatekeeping work, which trainees often support through due diligence."
+      ],
+      "sources": [
+        {
+          "title": "Chinese AI Chipmaker Biren Skyrockets in Hong Kong Trading Debut - Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-01-02/chinese-ai-chipmaker-biren-skyrockets-in-hong-kong-trading-debut-102399603.html"
+        }
+      ],
+      "week": "2026-W01",
+      "weekLabel": "1–4 Jan 2026",
+      "status": "pending",
+      "id": "2026-W01-003"
+    },
+    {
+      "headline": "Baidu Spins Off Its Chip Unit Kunlunxin For A Hong Kong Float",
+      "date": "2026-01-02",
+      "region": "HK",
+      "practiceAreas": [
+        "Corporate / M&A",
+        "Capital Markets"
+      ],
+      "whatsTheNews": "Baidu, the Chinese search and AI giant, confidentially filed an application to list its chip-making unit Kunlunxin on the Hong Kong Stock Exchange, with news emerging around 1 to 2 January 2026. Kunlunxin designs artificial intelligence chips and already serves more than 100 enterprise customers, including a China Mobile order worth over one billion yuan. Baidu will keep control of the unit after the spin-off, meaning it stays the largest shareholder. The plan rides the wave of investor enthusiasm for Chinese semiconductors as the country pushes to become self-sufficient in chips. Baidu's own shares jumped about 8 percent on the news.",
+      "whatItMeans": "A spin-off is when a parent company carves out one of its divisions and lists it as a separate company on the stock market, while usually keeping a controlling stake. A confidential filing means the company submits its listing paperwork to the exchange privately first, before the full public version, which is common for big names that want to keep details quiet until they are ready. Kunlunxin makes AI chips, and listing it separately lets investors put a clear price tag on just that business, which is often higher than the value buried inside the parent. Self-sufficiency here means China wants to make its own advanced chips so it does not depend on American suppliers it can no longer freely buy from.",
+      "clients": [
+        "Large Chinese technology groups watching Baidu may copy the playbook and list their own high-value units. Carving out a fast-growing chip or AI arm can unlock value the market was ignoring while it sat inside a sprawling parent.",
+        "Baidu shareholders benefit because a separate listing puts a fresh, often higher, price on the chip business, which is why the parent's shares rose on the news. The cash raised can also be reinvested in core operations.",
+        "Chip customers like China Mobile gain a supplier with access to public money and a higher profile, which can speed up product development and give buyers more confidence in long-term supply."
+      ],
+      "lawFirms": [
+        "Corporate and M&A teams run the carve-out, untangling the unit from its parent, sorting out shared assets and contracts, and setting up the new corporate structure. Candidates should care because spin-offs combine deal mechanics with capital markets, giving broad exposure.",
+        "Equity capital markets teams then handle the actual Hong Kong listing, drafting the prospectus and managing the exchange's questions. A confidential filing means early, behind-the-scenes work that rewards firms trusted with sensitive plans.",
+        "China and cross-border teams advise on the regulatory approvals needed to list a mainland business offshore. With self-sufficiency driving a pipeline of chip spin-offs, this becomes a reliable source of high-end work."
+      ],
+      "sources": [
+        {
+          "title": "Baidu's Chip Unit Kunlunxin Files for Hong Kong IPO to Tap AI Investment Boom - Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-01-02/baidus-chip-unit-kunlunxin-files-for-hong-kong-ipo-to-tap-ai-investment-boom-102399601.html"
+        }
+      ],
+      "week": "2026-W01",
+      "weekLabel": "1–4 Jan 2026",
+      "status": "pending",
+      "id": "2026-W01-004"
+    },
+    {
+      "headline": "Accountants Tip Hong Kong IPOs To Top HK$300 Billion Again On AI Wave",
+      "date": "2026-01-05",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets"
+      ],
+      "whatsTheNews": "On 5 January 2026, Caixin reported that the big accounting firms expect Hong Kong's IPO market to raise at least HK$300 billion in 2026, with much of the momentum coming from artificial intelligence and biotechnology. Deloitte forecast about 160 listings raising at least HK$300 billion, while EY, PwC and KPMG projected roughly 150 to 200 IPOs raising about HK$320 billion to HK$350 billion. More than 350 listing applications were said to be under review by the exchange. The pipeline is heavy with AI, biotech and other new economy companies. This builds on 2025, when Hong Kong hosted 119 listings and ranked first in the world for funds raised.",
+      "whatItMeans": "An IPO is a company's first public share sale, and the forecasts here are the big four accounting firms predicting how much total money those sales will bring in across the year. A listing application is the paperwork a company files with the exchange to get permission to float, so a backlog of over 350 means a deep pipeline of future deals. AI and biotech are highlighted because investors are paying premium prices for those stories right now. New economy again means tech, internet, and life-sciences firms. When several rival firms all forecast similar large numbers, it signals genuine confidence rather than one firm talking up the market.",
+      "clients": [
+        "Companies in the listing queue gain reassurance that demand will hold up, which makes them more likely to push ahead and price ambitiously. A crowded pipeline also pressures firms to move quickly before sentiment cools.",
+        "AI and biotech businesses are clearly the favoured sectors, so founders in those fields find investors more willing to fund them at high valuations. That shapes where venture money and management attention flow.",
+        "Banks, accountants and other advisers benefit from sheer volume, because 150 to 200 listings is a lot of fee-earning work. The forecasts also help them plan hiring and resourcing for a busy year."
+      ],
+      "lawFirms": [
+        "Equity capital markets teams will be stretched by a deep pipeline, which means strong demand for lawyers who can run listings end to end. Candidates should care because high deal volume usually means more hands-on work and faster development.",
+        "Firms with sector expertise in AI and life sciences are best placed, since those are the hottest categories and they carry technical disclosure issues. Building knowledge in a favoured sector is a smart move for anyone eyeing capital markets.",
+        "Due diligence and verification work multiplies with each listing, and this is often where trainees and junior associates spend their time. A record pipeline means plenty of that foundational experience to go around."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong IPOs Seen Topping HK$300 Billion in 2026 on Tech Boom - Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-01-05/hong-kong-ipos-seen-topping-hk300-billion-in-2026-on-tech-boom-102400416.html"
+        }
+      ],
+      "week": "2026-W01",
+      "weekLabel": "1–4 Jan 2026",
+      "status": "pending",
+      "id": "2026-W01-005"
+    },
+    {
+      "headline": "Zhipu Becomes The World's First Listed AGI Company In Hong Kong Debut",
+      "date": "2026-01-08",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "Zhipu AI, a leading Chinese rival to OpenAI, listed on the Hong Kong Stock Exchange on 8 January 2026 and its shares jumped on debut. The company raised about HK$4.17 billion at an offer price of HK$116.20 per share, reaching a valuation of roughly HK$55.5 billion (around US$7.1 billion). The stock opened higher and traded up about 8 percent at HK$126 during the morning, having overcome an early dip below the offer price. Demand was extraordinary, with Hong Kong retail investors oversubscribing the deal about 1,159 times. Zhipu, founded in 2019 and incubated at Tsinghua University, said it would put around 70 percent of the proceeds into research on its AI models through 2028.",
+      "whatItMeans": "An IPO is a company's first public share sale. AGI, or artificial general intelligence, means AI that aims to match or beat humans across a wide range of tasks rather than one narrow job, and Zhipu builds the large foundation models behind such systems. Oversubscribed 1,159 times means investors asked for more than a thousand times the shares actually available, which is a sign of frenzied demand and usually points to a strong first-day pop. A cornerstone or retail investor commits money before trading starts. The offer price is the fixed price at which shares are sold in the IPO, and the share trading above it on day one means buyers were willing to pay a premium straight away.",
+      "clients": [
+        "Other Chinese AI companies see Zhipu's reception as a green light, because a giant oversubscription and a strong debut prove deep investor appetite. That encourages the next tier of AI firms to file for their own Hong Kong listings.",
+        "Investors and cornerstone backers gained quick paper profits, which reinforces the rush into AI stocks and lifts valuations across the sector. Heavy demand also lets future issuers price at the top of their range.",
+        "Enterprise customers and partners of Zhipu benefit from a better-funded supplier, since most of the money goes into research. A well-capitalised AI developer can ship stronger models, which helps the businesses building on its technology."
+      ],
+      "lawFirms": [
+        "Equity capital markets teams run these landmark tech floats, drafting the prospectus and steering the deal through the exchange. Candidates should care because being on a record-breaking, first-of-its-kind listing is exactly the kind of standout experience that builds a career.",
+        "China and cross-border teams handle the structuring of a mainland AI champion listing offshore, including approvals and share class arrangements. This sits at the core of why international firms keep big Hong Kong benches.",
+        "Technology and IP teams advise on the intellectual property and data issues that underpin an AI company's value, which must be clearly described to investors. A wave of AI listings makes this specialist input increasingly sought after."
+      ],
+      "sources": [
+        {
+          "title": "China's Zhipu AI Jumps in Hong Kong Debut - Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-01-08/chinas-zhipu-ai-jumps-in-hong-kong-debut-102401610.html"
+        }
+      ],
+      "week": "2026-W01",
+      "weekLabel": "1–4 Jan 2026",
+      "status": "pending",
+      "id": "2026-W01-006"
+    },
+    {
+      "headline": "GPU Maker Iluvatar CoreX Soars On Hong Kong Debut, Oversubscribed 414 Times",
+      "date": "2026-01-08",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "Iluvatar CoreX, a Chinese maker of general-purpose graphics chips for AI computing, listed in Hong Kong on 8 January 2026 and climbed sharply on debut. The shares opened about 31 percent higher at HK$190.2 before easing to around HK$162.5 by midday, still up about 12 percent on the offer price. The company raised roughly HK$3.5 billion and reached a market value of around HK$41.3 billion (about US$5.3 billion). The Hong Kong public tranche was oversubscribed about 414 times. Iluvatar became the second Chinese graphics chipmaker to list in the city, as investors hunt for home-grown alternatives to Nvidia. The business is still loss-making, with net losses widening to about 892 million yuan in 2024.",
+      "whatItMeans": "An IPO is a company's first public share sale, and a debut pop means the price jumps once trading starts. A GPU (graphics processing unit) is the heavy-duty chip that powers AI work, the kind Nvidia dominates globally. General-purpose means the chip can handle many different AI tasks rather than one narrow function. Oversubscribed 414 times means investors wanted more than four hundred times the shares on offer, a sign of intense demand. The company being loss-making means it spends more than it earns, which is common for young chip firms pouring money into research, and Hong Kong's listing rules allow such companies to float under special chapters for early-stage tech.",
+      "clients": [
+        "Chinese chip designers see another successful float and conclude Hong Kong is the best venue to fund their growth, especially while US export controls block access to the most advanced foreign chips. That deepens the pipeline of semiconductor listings.",
+        "Investors chasing the AI hardware theme get another way to bet on China's push for chip independence, and the strong debut rewards those who got in early. Such demand makes it easier for the next chipmaker to raise money on good terms.",
+        "Chinese buyers of AI computing power gain another funded domestic supplier, giving them more choice beyond restricted Nvidia products. Fresh IPO cash lets Iluvatar invest in better chips, which matters to data centres and AI developers."
+      ],
+      "lawFirms": [
+        "Equity capital markets teams handling pre-revenue tech listings are busy, because loss-making chip floats need careful risk disclosure to satisfy the exchange and protect investors. Candidates should care because these are large, technical deals that build serious capital markets skills.",
+        "China and cross-border teams advise on listing a mainland chipmaker offshore, including the approvals and structuring involved. This is a defining workstream for Hong Kong-based international firms.",
+        "Technology-focused lawyers help explain the company's chip technology and supply chain risks in the prospectus, which is central to value in a semiconductor float. A run of chip listings keeps this specialist demand high."
+      ],
+      "sources": [
+        {
+          "title": "Chinese GPU-Maker Iluvatar CoreX Climbs in Hong Kong Debut With $5.3 Billion Valuation - Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-01-08/chinese-gpu-maker-iluvatar-corex-climbs-in-hong-kong-debut-with-53-billion-valuation-102401708.html"
+        }
+      ],
+      "week": "2026-W01",
+      "weekLabel": "1–4 Jan 2026",
+      "status": "pending",
+      "id": "2026-W01-007"
     }
   ]
 }
