@@ -350,6 +350,36 @@
       "id": "2026-W25-004"
     },
     {
+      "headline": "Hong Kong's official reserves climb again as Exchange Fund foreign assets rise HK$26.8 billion in May",
+      "date": "2026-06-12",
+      "practiceAreas": [
+        "Banking & Finance"
+      ],
+      "region": "HK",
+      "whatsTheNews": "On 12 June the HKMA published the May 2026 figures for the Exchange Fund, the city's giant pool of reserves used to defend the Hong Kong dollar. Foreign assets, meaning the fund's external holdings, rose by HK$26.8 billion during the month to HK$3,681.8 billion. The monetary base stood at HK$2,072.2 billion. The data is a routine monthly health check on the firepower behind Hong Kong's currency system and showed the war chest growing rather than shrinking, a reassuring signal after some volatile months earlier in the year.",
+      "whatItMeans": "The Exchange Fund is Hong Kong's rainy-day reserve, controlled by the HKMA, and its main job is to keep the Hong Kong dollar pegged tightly to the US dollar. 'Foreign assets' are the parts of that fund invested outside Hong Kong, such as US government bonds and overseas equities, which the HKMA can sell to buy Hong Kong dollars if the currency comes under pressure. The 'monetary base' is essentially the foundation of money in the system, the cash and bank reserves the HKMA must fully back with foreign currency under Hong Kong's currency-board rules. When these numbers rise, it signals the system has ample backing and the peg is secure. This may sound technical, but a stable currency is the bedrock that lets Hong Kong function as an international finance hub, so investors and businesses watch these monthly updates for any sign of strain.",
+      "clients": [
+        "Businesses and investors operating in Hong Kong dollars get reassurance that the currency peg remains well-defended, which underpins stable financing costs and removes the risk of sudden currency swings hurting cross-border deals.",
+        "Banks rely on a strong Exchange Fund as the ultimate backstop for the monetary system, and rising reserves support confidence in Hong Kong dollar liquidity and the smooth functioning of the interbank market.",
+        "International firms choosing Hong Kong as a regional base value the predictability that comes from a robustly backed currency, one of the city's long-standing selling points against rival hubs with more volatile currencies."
+      ],
+      "lawFirms": [
+        "Banking and finance lawyers track reserve and monetary data because it shapes the macro backdrop for the lending, bond and currency-hedging deals they advise on, and stability here keeps deal flow predictable.",
+        "Firms advising on debt issuance and structured products use the health of the peg as a baseline assumption, and any sign of stress would prompt fresh risk analysis for clients exposed to Hong Kong dollar instruments.",
+        "Regulatory teams monitor HKMA disclosures to anticipate any policy shifts, since the strength of the Exchange Fund informs how much room the authority has to adjust liquidity tools that affect their clients."
+      ],
+      "sources": [
+        {
+          "title": "Analytical Accounts of the Exchange Fund (HKMA)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260612-3/"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W24",
+      "weekLabel": "8–14 Jun 2026",
+      "id": "2026-W24-001"
+    },
+    {
       "headline": "Hong Kong prices the world's biggest digital bond at HK$12 billion",
       "date": "2026-06-11",
       "region": "HK",
@@ -386,7 +416,7 @@
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
       "status": "pending",
-      "id": "2026-W24-001"
+      "id": "2026-W24-002"
     },
     {
       "headline": "Hong Kong's monetary authority pushes tokenised money to corporate treasurers",
@@ -417,7 +447,7 @@
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
       "status": "pending",
-      "id": "2026-W24-002"
+      "id": "2026-W24-003"
     },
     {
       "headline": "Senasic chip IPO draws frenzied retail demand as it kicks off in Hong Kong",
@@ -448,10 +478,10 @@
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
       "status": "pending",
-      "id": "2026-W24-003"
+      "id": "2026-W24-004"
     },
     {
-      "id": "2026-W24-004",
+      "id": "2026-W24-005",
       "status": "pending",
       "headline": "Sunac China Begins Distributing Restructuring Consideration to Offshore Creditors",
       "week": "2026-W24",
@@ -485,6 +515,103 @@
           "url": "https://www.mondaq.com/china/insolvencybankruptcy/1761542"
         }
       ]
+    },
+    {
+      "headline": "Hong Kong unveils a tax-sweetened plan to lure multinational treasury hubs",
+      "date": "2026-06-09",
+      "practiceAreas": [
+        "Tax",
+        "Corporate"
+      ],
+      "region": "HK",
+      "whatsTheNews": "On 9 June, Financial Services and the Treasury Secretary Christopher Hui launched an Action Plan to attract multinational corporations to set up Corporate Treasury Centres (CTCs) in Hong Kong. The plan, drawn up with the Inland Revenue Department, the HKMA and Invest Hong Kong, promises to overhaul the existing tax breaks for treasury activities with a more competitive tiered system and a new pre-approval mechanism that gives companies upfront certainty on their tax treatment. The government plans a public consultation later in 2026, with draft legislation targeted for the first half of 2027. Hong Kong already has tax treaties with 57 economies and wants to expand that network, especially across Belt and Road countries.",
+      "whatItMeans": "A Corporate Treasury Centre is the in-house finance department of a big multinational group, the team that manages the group's cash, loans, foreign currency and financial risk across all its companies worldwide. Governments compete to host these hubs because they bring high-value finance jobs and cement a city's status as a regional headquarters location. The key lure here is tax: a 'tiered' concession means different (lower) tax rates depending on how much treasury activity a company does, and a 'pre-approval mechanism' lets a company get the tax authority to confirm in advance that it qualifies, removing the risk of a nasty surprise later. Tax treaties (the 57 mentioned) stop the same income being taxed twice in two countries. The plan matters because Singapore is Hong Kong's big rival for these regional treasury hubs, and tax certainty is often the deciding factor.",
+      "clients": [
+        "Multinational groups deciding where to base their Asian treasury operations now have a stronger reason to pick Hong Kong. The promise of a pre-approval mechanism is especially valuable to finance chiefs who hate uncertainty, because it lets them lock in their tax position before committing resources.",
+        "Companies already running treasury functions in Hong Kong stand to benefit from the revamped concessions and may look to scale up, moving more group financing and cash-pooling activity into the city to capture the better rates.",
+        "Banks and financial institutions gain because a bigger cluster of corporate treasurers means more demand for cash management, hedging, lending and the tokenised finance tools Hong Kong is promoting, deepening the city's financial ecosystem."
+      ],
+      "lawFirms": [
+        "Tax teams will be central to advising clients on whether they qualify for the new tiered concessions and how to structure their treasury operations to maximise the benefit, then guiding them through the pre-approval process once it launches.",
+        "Corporate and structuring lawyers will help multinationals set up or relocate treasury entities, navigating the interaction between Hong Kong's regime, the group's home-country tax rules, and the expanding network of double-tax treaties.",
+        "Firms should engage with the upcoming public consultation on behalf of clients, shaping the detail of the legislation and positioning themselves as go-to advisers once the new rules reach the Legislative Council in 2027."
+      ],
+      "sources": [
+        {
+          "title": "Government announces Action Plan to Promote Development of Corporate Treasury Centres in Hong Kong (gov.hk)",
+          "url": "https://www.info.gov.hk/gia/general/202606/09/P2026060900365.htm"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W24",
+      "weekLabel": "8–14 Jun 2026",
+      "id": "2026-W24-006"
+    },
+    {
+      "headline": "Hong Kong's central bank warns the public over fake ZA Bank websites",
+      "date": "2026-06-09",
+      "practiceAreas": [
+        "Banking & Finance",
+        "Cybersecurity"
+      ],
+      "region": "HK",
+      "whatsTheNews": "On 9 June the HKMA issued a scam alert flagging fraudulent websites and fake internet-banking login screens impersonating ZA Bank, one of Hong Kong's virtual banks. The HKMA, acting on a report from ZA Bank, reminded the public that genuine banks never send SMS or email messages with embedded links to log in or transact, and never ask for passwords or one-time passwords by phone, email or text. Anyone who had handed over personal details or made a transaction was urged to contact ZA Bank and report it to the police.",
+      "whatItMeans": "A scam alert like this is the HKMA, Hong Kong's banking regulator, publicly flagging that criminals have built convincing copycat websites to trick customers into typing in their banking passwords. ZA Bank is a 'virtual bank', meaning it operates entirely online with no physical branches, which makes its customers a natural target for fake-website phishing. A 'one-time password' (OTP) is the temporary code a bank texts you to confirm a transaction, and fraudsters who capture it can drain an account in minutes. These alerts matter because Hong Kong is pushing hard to be a digital-finance leader, and public trust in online and virtual banking can be undermined fast if scams go unchecked. The regulator issues these warnings to blunt the fraud and remind everyone that legitimate banks never ask for login details through links.",
+      "clients": [
+        "Banks, especially digital-only ones, face constant impersonation risk and must invest in monitoring for fake sites, warning customers quickly, and working with regulators and police to take down fraudulent pages before losses mount.",
+        "Bank customers are reminded never to log in through links in messages and to go directly to official apps or websites, a simple habit that defeats most phishing attempts.",
+        "Businesses handling customer payments should treat this as a prompt to review their own fraud controls and customer-communication practices, since a single successful scam can trigger reputational and regulatory fallout."
+      ],
+      "lawFirms": [
+        "Banking and regulatory lawyers advise institutions on their obligations to detect, report and respond to impersonation scams, and on liability questions when customers lose money to fraud.",
+        "Cybersecurity and data-protection teams help banks build incident-response plans and coordinate takedowns of fraudulent sites, work that grows as digital banking expands.",
+        "Firms also counsel clients on the consumer-protection and disclosure duties that follow a scam, helping limit both customer harm and the risk of regulatory criticism."
+      ],
+      "sources": [
+        {
+          "title": "Scam alert related to banks (HKMA)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260609-3/"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W24",
+      "weekLabel": "8–14 Jun 2026",
+      "id": "2026-W24-007"
+    },
+    {
+      "headline": "Hong Kong's red-hot IPO market hits a hangover as new listings sink after debut",
+      "date": "2026-06-08",
+      "practiceAreas": [
+        "Capital Markets",
+        "Equity Capital Markets"
+      ],
+      "region": "HK",
+      "whatsTheNews": "Hong Kong has been the world's busiest place to float a company in 2026, but a CNBC report on 8 June flagged a growing problem: many of these new stocks slump soon after listing. Of roughly 179 companies that listed since January 2025, about half saw their share price fall over the following three months, with AI firm Deepexi down more than 51%. Analysts blame intense competition among banks, thin fees, and a habit of money flowing out of pricier Hong Kong shares into cheaper mainland-listed equivalents once a stock joins the Stock Connect trading link. Even so, Goldman Sachs still expects companies to raise around US$60 billion through Hong Kong listings this year, nearly double the 2025 total.",
+      "whatItMeans": "An IPO (initial public offering) is when a private company sells shares to the public for the first time and lists on a stock exchange. Hong Kong has won bragging rights as the top global venue for IPOs in 2026, but raising lots of money is not the same as those shares performing well afterwards. When a freshly listed stock jumps on day one then quietly sinks, early investors who bought in lose money, and a pattern of this can damage confidence in the whole market. Stock Connect is a system that lets mainland Chinese investors buy Hong Kong shares and vice versa, and here it is blamed for pulling cash toward cheaper A-shares (mainland-listed shares of the same company). The story matters because Hong Kong's revival as a finance hub depends not just on deal volume but on whether investors actually make money.",
+      "clients": [
+        "Companies planning to list need to think harder about pricing. Setting an offer price too high to maximise the cash raised can backfire if the shares then fall, hurting the company's reputation and its long-term relationship with investors. Advisers will be pushing clients toward more realistic valuations and stronger cornerstone investor support.",
+        "Investment banks that underwrite IPOs face a squeeze. Low fees and fierce competition mean banks are taking on more deals for less money, and a wave of poorly performing listings could prompt regulators to scrutinise how aggressively they market deals. Banks may need to be more selective about which floats they take on.",
+        "Asset managers and institutional investors are growing wary of chasing first-day pops. The pattern of post-listing declines means buy-side clients will demand more diligence and may sit out hyped deals, which over time disciplines the market and rewards genuinely strong companies."
+      ],
+      "lawFirms": [
+        "Capital markets teams advising issuers will spend more time on disclosure and valuation support, helping clients justify their pricing and avoid the reputational damage of a sinking stock. Robust prospectus drafting becomes even more important when scrutiny is rising.",
+        "Firms acting for underwriters need to manage liability risk. If a stock collapses after listing and investors feel misled, lawyers must ensure the offering documents were watertight and that due diligence was thorough, protecting both the bank and themselves.",
+        "Regulatory and contentious teams should anticipate more questions from the SFC about IPO quality, sponsor conduct, and aftermarket behaviour. Firms that can advise on both the deal and the regulatory fallout will be in demand as the market matures."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong's IPO boom is developing a performance problem (CNBC)",
+          "url": "https://www.cnbc.com/2026/06/08/hong-kongs-ipo-boom-is-developing-a-performance-problem.html"
+        },
+        {
+          "title": "Weak Performance Trends in Hong Kong IPO Market (Intellectia)",
+          "url": "https://intellectia.ai/news/stock/weak-performance-trends-in-hong-kong-ipo-market"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W24",
+      "weekLabel": "8–14 Jun 2026",
+      "id": "2026-W24-008"
     },
     {
       "headline": "Hong Kong Johnson warns profit could fall up to 90% even as sales surge",
@@ -1878,6 +2005,41 @@
       "id": "2026-W19-001"
     },
     {
+      "headline": "Baidu's AI chip unit Kunlunxin targets a US$14.7 billion valuation in a Shanghai-Hong Kong double listing",
+      "date": "2026-05-08",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets / ECM",
+        "Technology"
+      ],
+      "clients": [
+        "Baidu is the Chinese search and AI giant that owns Kunlunxin. By floating its chip unit separately, Baidu can raise fresh cash for an expensive, capital-hungry business while keeping a big stake, so the parent unlocks value without selling the whole thing. Companies do this spin-off-and-list move when one division is worth more on its own than buried inside a sprawling group.",
+        "Kunlunxin designs the kind of AI chips that train large language models, a field where China is racing to cut its reliance on US suppliers like Nvidia. A target valuation of at least 100 billion yuan (about US$14.7 billion) signals how hungry investors are for a home-grown alternative, which gives the company cheaper money to fund research and factory capacity.",
+        "Other Chinese chipmakers eyeing listings benefit from the read-across. A strong Kunlunxin valuation sets a benchmark that lifts how the whole sector is priced, making it easier for rivals like Biren and Iluvatar CoreX peers to raise money on good terms."
+      ],
+      "lawFirms": [
+        "A dual listing in Shanghai (the STAR Market) and Hong Kong means lawyers must run two separate regulatory processes at once, each with its own disclosure rules, regulators and timetables. That is double the documentation and double the coordination, so issuer-side capital markets teams bill heavily and need people fluent in both mainland and Hong Kong listing regimes.",
+        "The mandatory STAR Market 'tutoring' or guidance process, overseen by sponsor China International Capital Corp and signed off by the China Securities Regulatory Commission, is a structured pre-IPO grooming phase. Counsel advise on corporate governance clean-ups, related-party deals and disclosure so the company is listing-ready, which is steady advisory work months before any shares trade.",
+        "Carving a unit like Kunlunxin out of Baidu involves restructuring work: untangling shared assets, intellectual property, staff and intercompany contracts so the spun-off business can stand alone. Corporate and IP lawyers handle this separation, and getting it wrong creates disclosure and liability problems later."
+      ],
+      "whatsTheNews": "On 8 May 2026, the South China Morning Post reported that Kunlunxin, the AI chip arm of Chinese tech group Baidu, is aiming for a valuation of at least 100 billion yuan (around US$14.7 billion) in a planned dual listing. The company has kicked off the mandatory guidance process for an IPO on Shanghai's STAR Market, with state-backed China International Capital Corp acting as sponsor, alongside a separate listing plan in Hong Kong. The China Securities Regulatory Commission published official notice of the tutoring process. The move rides a wave of Chinese chipmakers tapping public markets as Beijing pushes for tech self-reliance.",
+      "whatItMeans": "A dual listing means selling shares to the public in two markets, here Shanghai and Hong Kong. A valuation is what the whole company is judged to be worth. The huge number reflects investor appetite for Chinese AI chips as an alternative to US-made ones. For students, this is a clean example of how a tech parent spins off a fast-growing unit to raise money, and how one big deal can set the price benchmark for a whole sector of upcoming listings.",
+      "sources": [
+        {
+          "title": "Baidu chip unit Kunlunxin eyes US$14.7b valuation in Hong Kong IPO: sources (SCMP)",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3352891/baidu-chip-unit-kunlunxin-eyes-us146b-valuation-hong-kong-ipo-sources"
+        },
+        {
+          "title": "Baidu Chip Unit Kunlunxin Launches STAR Market IPO Process (TrendForce)",
+          "url": "https://www.trendforce.com/news/2026/05/08/news-baidu-chip-unit-kunlunxin-reportedly-launches-star-market-ipo-process-hk-listing-valuation-seen-near-hk100b/"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W19",
+      "weekLabel": "4–10 May 2026",
+      "id": "2026-W19-002"
+    },
+    {
       "headline": "Hong Kong banks get a new digital tool to lend to small traders",
       "date": "2026-05-07",
       "practiceAreas": [
@@ -1906,7 +2068,104 @@
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "status": "pending",
-      "id": "2026-W19-002"
+      "id": "2026-W19-003"
+    },
+    {
+      "headline": "Hong Kong stocks hit a two-month high as Middle East ceasefire hopes spark a global rally",
+      "date": "2026-05-07",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "Capital Markets / ECM",
+        "Banking & Finance"
+      ],
+      "clients": [
+        "Listed companies in Hong Kong benefit directly when the market rallies. Higher share prices make it cheaper to raise money by selling new shares, and they boost the value of any stock used to pay for acquisitions, so a rising market quietly reopens the deal and fundraising window.",
+        "Asset managers and brokers earn more when markets climb and trading volumes jump. The Hang Seng Tech Index rising 3.1 percent in a day means active funds and trading desks see gains and busier order books, which feeds through to fees and performance numbers.",
+        "Energy-sensitive businesses such as airlines, shipping and manufacturers gain from the same trigger. The rally was driven partly by oil futures retreating from record highs, and lower fuel costs ease the squeeze on companies whose biggest input is energy."
+      ],
+      "lawFirms": [
+        "A reopened market window means more equity capital markets work. When prices are high and sentiment is positive, companies rush to launch IPOs and share placements, and lawyers are needed to draft prospectuses and steer deals through the exchange, so a sustained rally fills the pipeline.",
+        "Geopolitical swings like a Middle East conflict force lawyers to advise on force majeure clauses, sanctions exposure and shipping or insurance contracts tied to the Strait of Hormuz. A possible de-escalation changes that risk picture, generating advisory work on contracts that were drafted for a war scenario.",
+        "Volatile markets keep disputes and regulatory teams busy. Sharp moves can trigger margin calls, defaults and complaints from investors who lost money, and law firms advise both the financial institutions and clients caught on the wrong side of fast price swings."
+      ],
+      "whatsTheNews": "On 7 May 2026, the South China Morning Post reported that Hong Kong's stock market closed at a two-month high, with the Hang Seng Index up 1.6 percent at 26,626.28, its strongest level since late February. The Hang Seng Tech Index jumped 3.1 percent. The rally was driven by optimism that hostilities in the Middle East could be winding down, after reports the United States proposed a deal with Iran to reopen the Strait of Hormuz, plus oil prices easing back from record highs and resilient earnings from US technology firms.",
+      "whatItMeans": "The Hang Seng Index is the main scoreboard for Hong Kong's biggest listed companies, so a 1.6 percent jump means investors broadly turned more confident in one day. The trigger here is geopolitics: the Strait of Hormuz is a narrow sea route that a huge share of the world's oil passes through, so any sign that conflict there is calming pushes oil prices down and lifts shares. For students, this shows how events far from Hong Kong, like a Middle East ceasefire rumour, move the local market and the cost of doing deals.",
+      "sources": [
+        {
+          "title": "Hong Kong stocks cross 26,500 on easing Middle East concerns (SCMP)",
+          "url": "https://www.scmp.com/business/markets/article/3352687/hong-kong-stocks-cross-26500-easing-middle-east-concerns"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W19",
+      "weekLabel": "4–10 May 2026",
+      "id": "2026-W19-004"
+    },
+    {
+      "headline": "Hong Kong's SFC bans four ex-directors of China Candy after cash was overstated by up to 97 percent",
+      "date": "2026-05-07",
+      "region": "HK",
+      "practiceAreas": [
+        "Disputes & Investigations",
+        "Corporate / M&A"
+      ],
+      "clients": [
+        "Independent non-executive directors across Hong Kong's listed companies are the real audience here. Two of those banned were INEDs who were meant to be the outside check on management, and the court found they fell short, so the ruling is a warning that sitting on a board is not a passive title and carries personal legal risk.",
+        "Investors who relied on the company's accounts are the people the action is meant to protect. China Candy's reported cash was overstated by 87 percent and then 97 percent, meaning shareholders were trading on numbers that were almost entirely fictional, and enforcement like this is how the regulator tries to keep faith in published figures.",
+        "Companies recruiting board members feel the knock-on effect. A high-profile disqualification makes good candidates more cautious about which boards to join and pushes firms to offer better information, training and insurance to attract them."
+      ],
+      "lawFirms": [
+        "The Securities and Futures Commission brought these disqualification orders in the Court of First Instance, so this is the kind of regulatory litigation that enforcement and disputes lawyers run. Defending or pursuing directors through court over accounting failures is specialist, document-heavy work that can stretch over years.",
+        "The case sharpens advice law firms give on directors' duties. Because the court focused on the directors failing to follow up on red flags that external professionals had already flagged, lawyers will use it to coach boards on what 'reasonable steps' actually look like, which is steady governance advisory work.",
+        "Corporate teams running IPOs and ongoing compliance will cite this when stress-testing a company's internal controls and audit trail. The fabricated bank records at the heart of the case are exactly what due diligence is supposed to catch, so the ruling reinforces how much verification work sponsors and their lawyers must do."
+      ],
+      "whatsTheNews": "On 7 May 2026, the Securities and Futures Commission announced it had obtained court orders in the Court of First Instance disqualifying four former directors of China Candy Holdings, a former GEM-listed company. Former chair-level executive directors Li Yuna and Yvonne Hung were banned for 33 and 24 months, while independent non-executive directors Fangus Chu Wai Wa and Ong King Keung each got 12 months. The SFC found the company's 2016 interim and annual reports overstated its cash and bank balances by 87 percent and 97 percent, with fabricated records used to hide the gap, and the directors failed to act on warning signs raised by outside professionals.",
+      "whatItMeans": "The SFC is Hong Kong's markets watchdog. A disqualification order is a court ruling that bars someone from acting as a company director for a set time, here up to nearly three years. The key lesson is that directors, including the supposedly independent ones brought in to keep management honest, can be personally punished for not chasing up obvious red flags in the accounts, even if they did not commit the fraud themselves. For students, this is a concrete example of what directors' duties mean in practice and what happens when boards rubber-stamp bad numbers.",
+      "sources": [
+        {
+          "title": "SFC obtains disqualification orders against former directors of China Candy Holdings Limited (SFC press release)",
+          "url": "https://apps.sfc.hk/edistributionWeb/api/news/list-content?refNo=26PR67&lang=EN"
+        },
+        {
+          "title": "SFC disqualifies four ex-directors of China Candy, longest ban 33 months (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/331442/SFC-disqualifies-four-ex-directors-of-China-Candy-longest-ban-33-months"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W19",
+      "weekLabel": "4–10 May 2026",
+      "id": "2026-W19-005"
+    },
+    {
+      "headline": "Hong Kong lines up a HK$1.5 billion floating-rate bond sale to fund its infrastructure push",
+      "date": "2026-05-07",
+      "region": "HK",
+      "practiceAreas": [
+        "Debt Capital Markets",
+        "Banking & Finance"
+      ],
+      "clients": [
+        "The Hong Kong government is the borrower, raising money it will spend on infrastructure projects under a dedicated Infrastructure Bond Framework. Issuing bonds lets the government fund big long-term building works without dipping into reserves all at once, spreading the cost over time.",
+        "Banks and institutional investors are the buyers. These are institutional notes, so big financial players bid for them, and a floating rate tied to the Hong Kong Dollar Overnight Index Average means the interest they earn moves with short-term rates, which appeals to investors who want protection if rates rise.",
+        "Construction and engineering firms benefit further down the line. The proceeds are ring-fenced for infrastructure, so a steady flow of government bond money underpins the project pipeline that these companies rely on for work."
+      ],
+      "lawFirms": [
+        "Government bond issuance is bread-and-butter debt capital markets work for law firms. Even a routine HK$1.5 billion tender needs lawyers to prepare and check the offering terms, confirm the notes fit the Infrastructure Bond Framework, and make sure the structure is legally sound before money changes hands.",
+        "The floating-rate feature, with interest indexed to HONIA and paid quarterly, adds drafting precision. Lawyers must get the benchmark mechanics and fallback wording exactly right, because any ambiguity in how the rate is calculated can trigger disputes over what investors are owed.",
+        "A recurring government bond programme creates a steady stream of repeat instructions. Firms that win a place on the panel advising on these regular tenders get reliable, ongoing work as each new tranche comes to market."
+      ],
+      "whatsTheNews": "On 7 May 2026, the Hong Kong Monetary Authority announced a tender of HK$1.5 billion in one-year floating-rate notes under the government's Infrastructure Bond Programme. The tender is set for 13 May 2026 with settlement the next day. The notes carry interest indexed to the Hong Kong Dollar Overnight Index Average, known as HONIA, paid quarterly, and the proceeds are earmarked for infrastructure projects under the Infrastructure Bond Framework.",
+      "whatItMeans": "A bond is essentially an IOU: the government borrows money from investors and promises to pay it back with interest. A floating rate means the interest is not fixed but moves with a benchmark, here HONIA, which tracks the cost of borrowing Hong Kong dollars overnight. The HKMA runs these sales on the government's behalf. For students, this shows how a government raises money for long-term projects like roads and rail by tapping financial markets rather than just using tax revenue, and why the structure of a bond, fixed versus floating, matters to the investors buying it.",
+      "sources": [
+        {
+          "title": "Tender of 1-year HONIA-indexed Floating Rate Notes to be held on Wednesday, 13 May 2026 (HKMA press release)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/05/20260507-6/"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W19",
+      "weekLabel": "4–10 May 2026",
+      "id": "2026-W19-006"
     },
     {
       "headline": "HSBC profit dips as bad-loan charges bite, Hong Kong shares slide",
@@ -1941,7 +2200,7 @@
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "status": "pending",
-      "id": "2026-W19-003"
+      "id": "2026-W19-007"
     },
     {
       "headline": "HKMA survey says small firms found it a little easier to borrow",
@@ -1975,7 +2234,7 @@
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "status": "pending",
-      "id": "2026-W19-004"
+      "id": "2026-W19-008"
     },
     {
       "headline": "HKMA warns public over fake OCBC and CITIC banking websites",
@@ -2006,7 +2265,7 @@
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "status": "pending",
-      "id": "2026-W19-005"
+      "id": "2026-W19-009"
     },
     {
       "headline": "China's tech giants fuel a Hong Kong IPO boom and a maturing finance hub",
@@ -2037,7 +2296,7 @@
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "status": "pending",
-      "id": "2026-W19-006"
+      "id": "2026-W19-010"
     },
     {
       "headline": "Tighter Trade Union Rules Take Effect in Hong Kong",
@@ -2071,7 +2330,7 @@
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "status": "pending",
-      "id": "2026-W19-007"
+      "id": "2026-W19-011"
     },
     {
       "id": "2026-W18-001",
@@ -7199,6 +7458,37 @@
       "id": "2026-W02-015"
     },
     {
+      "headline": "Hong Kong's finance chief bets the city's future on fusing finance with technology",
+      "date": "2026-01-04",
+      "practiceAreas": [
+        "Banking and Finance",
+        "Technology"
+      ],
+      "region": "HK",
+      "whatsTheNews": "Financial Secretary Paul Chan used a start-of-year message to argue that combining finance and technology is Hong Kong's biggest competitive edge, after tech stocks led the market's strong opening to 2026. He noted that more than 400 new-economy companies are now listed in the city, making up about 15% of listed firms but roughly 30% of total market value and trading. Chan pointed to a GPU chip company setting up research and headquarters at Cyberport, working with local AI firms, as proof the strategy is landing. He also flagged strong demand at the Hong Kong-Shenzhen Innovation and Technology Park in the Lok Ma Chau Loop, where the first lab buildings are nearly 80% occupied by around 60 companies focused on AI and life sciences. His pitch: build a richer ecosystem where money and innovation feed each other to keep Hong Kong globally competitive.",
+      "whatItMeans": "The Financial Secretary is Hong Kong's most senior official for economic and financial policy, roughly the equivalent of a finance minister. New-economy companies are firms in fast-growing sectors like AI, semiconductors, biotech and internet services, as opposed to old-economy businesses like property or banking. When Chan says these firms are 15% of listed companies but 30% of market value and turnover, he means a small number of tech names now drive an outsized share of the stock market's worth and daily trading, so their fortunes increasingly steer the whole market. Cyberport and the Lok Ma Chau Loop are government-backed tech hubs designed to attract companies with subsidised space and infrastructure. The message matters because government priorities shape funding, incentives and regulation, telling businesses and advisers where the official support, and the work, will flow.",
+      "clients": [
+        "Technology and AI companies, especially mainland firms eyeing an overseas base, are being actively courted with subsidised space at Cyberport and the Lok Ma Chau Loop. Setting up a regional headquarters or R&D centre in Hong Kong can unlock incentives, but companies should check eligibility and any conditions attached to government support.",
+        "Banks and asset managers should note the official steer toward financing technology firms, which points to growth in tech lending, IPO underwriting and venture funding. Aligning products with the government's finance-plus-tech theme can open doors to public-private initiatives.",
+        "Property and infrastructure investors involved in the Northern Metropolis and Lok Ma Chau Loop developments gain confidence from strong early occupancy, signalling real tenant demand rather than empty showcase buildings."
+      ],
+      "lawFirms": [
+        "Corporate and commercial teams advising companies relocating or expanding into Hong Kong will handle incorporation, headquarters set-up, employment and the negotiation of incentive packages with bodies like Cyberport and InvestHK.",
+        "Intellectual property and technology lawyers are needed as AI and life-sciences firms cluster in the innovation parks, raising questions on patents, data, licensing and cross-border R&D collaboration with Shenzhen partners.",
+        "Banking and finance practices can expect more mandates structuring loans, funds and capital raises aimed at the new-economy sector, as the government nudges financial firms to bankroll technology growth."
+      ],
+      "sources": [
+        {
+          "title": "Financial chief urges deeper finance-innovation integration to boost HK's competitiveness (The Standard)",
+          "url": "https://www.thestandard.com.hk/news/article/320711/Financial-chief-urges-deeper-finance-innovation-integration-to-boost-HKs-competitiveness"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W01",
+      "weekLabel": "1–4 Jan 2026",
+      "id": "2026-W01-001"
+    },
+    {
       "headline": "Hong Kong's property market hits a four-year high as 2025 sales top US$79 billion",
       "date": "2026-01-03",
       "practiceAreas": [
@@ -7227,7 +7517,7 @@
       "status": "pending",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "id": "2026-W01-001"
+      "id": "2026-W01-002"
     },
     {
       "headline": "CK Hutchison's US$23 billion ports sale faces a make-or-break 2026",
@@ -7258,7 +7548,7 @@
       "status": "pending",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "id": "2026-W01-002"
+      "id": "2026-W01-003"
     },
     {
       "headline": "Hong Kong Stocks Storm Into 2026 With Biggest Jump Since May",
@@ -7289,7 +7579,7 @@
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "status": "rejected",
-      "id": "2026-W01-003"
+      "id": "2026-W01-004"
     },
     {
       "headline": "Chinese Chipmaker Biren Nearly Doubles On Hong Kong Debut",
@@ -7320,7 +7610,7 @@
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "status": "rejected",
-      "id": "2026-W01-004"
+      "id": "2026-W01-005"
     },
     {
       "headline": "Baidu Spins Off Its Chip Unit Kunlunxin For A Hong Kong Float",
@@ -7351,7 +7641,7 @@
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "status": "rejected",
-      "id": "2026-W01-005"
+      "id": "2026-W01-006"
     },
     {
       "headline": "Hong Kong shops ring up a sixth straight month of growth as November sales rise 6.5%",
@@ -7386,7 +7676,7 @@
       "status": "pending",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "id": "2026-W01-006"
+      "id": "2026-W01-007"
     },
     {
       "headline": "Hong Kong's IPO crown carries into 2026 after US$37 billion blockbuster year",
@@ -7421,10 +7711,45 @@
       "status": "pending",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "id": "2026-W01-007"
+      "id": "2026-W01-008"
     },
     {
-      "id": "2026-W01-008",
+      "headline": "Chipmaker Hua Hong swallows sister foundry Huali in a RMB8.3 billion China chip mega-merger",
+      "date": "2026-01-02",
+      "practiceAreas": [
+        "Mergers and Acquisitions",
+        "Capital Markets"
+      ],
+      "region": "HK",
+      "whatsTheNews": "Hua Hong Semiconductor, a chip foundry listed in Hong Kong, said it will buy about 97.5% of its sister company Shanghai Huali Microelectronics (HLMC) in a deal worth around RMB8.27 billion. Hua Hong will pay by issuing 191 million new shares to four state-linked investors, including the Chinese government's national chip fund, rather than paying cash. The takeover hands Hua Hong full ownership of Huali's factories and adds roughly 38,000 wafers a month of production capacity for mature chips used in cars and appliances. The move follows a near-identical buyout days earlier by rival SMIC, also listed in Hong Kong, signalling a fresh wave of consolidation as Beijing pushes to build self-sufficient chipmaking champions. Hua Hong shares jumped 9.4% on the first trading day of 2026 as investors cheered the deal.",
+      "whatItMeans": "A foundry is a factory that manufactures chips designed by other companies. Hua Hong and Huali are both part of the same state-backed group, so this is an internal reshuffle that pulls two related businesses under one roof, known as consolidation. Because Hua Hong is paying with new shares instead of cash, this is a share-for-share deal: the sellers (mostly Chinese government investment funds) end up owning a slice of the enlarged Hua Hong. China is doing this to combine scattered chip operations into bigger, stronger national players that can keep making semiconductors despite US export controls. For a Hong Kong-listed company, such a deal triggers stock exchange rules on connected transactions (deals between related parties), which require independent review and often a shareholder vote to protect minority investors.",
+      "clients": [
+        "Chinese state-owned and technology groups planning to merge related subsidiaries should expect heavy scrutiny of connected-party deals. When a buyer and seller share a controlling shareholder, Hong Kong listing rules demand independent valuations and sometimes a vote by unconnected shareholders, so building that governance trail early avoids delays.",
+        "Investors and cornerstone funds in the semiconductor sector get a clear signal that Beijing favours consolidation over fragmentation. That can lift valuations of national champions like Hua Hong and SMIC, but it also means smaller standalone foundries may become acquisition targets or struggle to compete on scale.",
+        "Multinational suppliers and customers of Chinese foundries need to track who ultimately controls capacity. A bigger Hua Hong with more wafer output changes pricing power and supply security for buyers of mature chips used in cars, appliances and industrial gear."
+      ],
+      "lawFirms": [
+        "M&A and capital markets teams advising on share-for-share deals will be busy structuring the share issuance, securing China Securities Regulatory Commission and exchange approvals, and drafting the connected-transaction circular that Hong Kong-listed issuers must send to shareholders.",
+        "Regulatory and antitrust lawyers should assess merger-control filings in China and any foreign-investment angles, since combining two large foundries concentrates national chip capacity and may attract competition review.",
+        "Corporate governance advisers are needed to manage conflicts of interest, set up an independent board committee, and appoint an independent financial adviser to opine on whether the terms are fair to minority shareholders, a standard requirement for connected transactions in Hong Kong."
+      ],
+      "sources": [
+        {
+          "title": "China's Chip Consolidation Heats Up: Hua Hong Acquires 97.5% of Huali, Following SMIC's Earlier Move (TrendForce)",
+          "url": "https://www.trendforce.com/news/2026/01/02/news-chinas-chip-consolidation-heats-up-hua-hong-acquires-97-5-of-huali-following-smics-earlier-move/"
+        },
+        {
+          "title": "Hong Kong stocks open 2026 with strongest rally in seven months (China Daily HK)",
+          "url": "https://www.chinadailyhk.com/hk/article/626368"
+        }
+      ],
+      "status": "pending",
+      "week": "2026-W01",
+      "weekLabel": "1–4 Jan 2026",
+      "id": "2026-W01-009"
+    },
+    {
+      "id": "2026-W01-010",
       "status": "pending",
       "headline": "Hong Kong's Biggest Listed Companies Must Now Report Their Climate Impact",
       "week": "2026-W01",
@@ -7487,7 +7812,7 @@
       "status": "pending",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "id": "2026-W01-009"
+      "id": "2026-W01-011"
     },
     {
       "headline": "New 468 Rule Makes It Easier for Part-Time Staff to Earn Full Employment Rights",
@@ -7521,7 +7846,7 @@
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "status": "pending",
-      "id": "2026-W01-010"
+      "id": "2026-W01-012"
     },
     {
       "headline": "Hong Kong Moves to Licence Crypto Advisers and Managers, Consultation Closes 23 January",
