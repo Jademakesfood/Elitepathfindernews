@@ -51,7 +51,7 @@
   .en-status{margin-top:16px;font-size:13px;color:rgba(255,255,255,.35);min-height:18px;letter-spacing:.02em;}
 
   /* ===== TOC ===== */
-  .en-wrap{max-width:880px;margin:0 auto;padding:0 clamp(24px,6vw,56px);}
+  .en-wrap{width:100%;padding:0 clamp(18px,2.4vw,48px);}
   .en-toc{margin:clamp(34px,5vw,48px) auto;}
   .en-toc-label{font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:18px;}
   .en-toc-list{margin:0;padding:0;list-style:none;counter-reset:toc;display:grid;
@@ -95,7 +95,15 @@
 
   .en-body-outer{max-height:0;overflow:hidden;transition:max-height .45s var(--ease);}
   .en-card.is-open .en-body-outer{max-height:9000px;transition:max-height .7s var(--ease);}
-  .en-body-inner{padding:4px 0 clamp(30px,4vw,42px);max-width:680px;}
+  .en-body-inner{padding:4px 0 clamp(30px,4vw,42px);}
+  .en-body-grid{display:grid;gap:clamp(18px,2vw,32px) clamp(30px,3.5vw,64px);}
+  @media(min-width:1040px){ .en-body-grid{grid-template-columns:1fr 1fr;align-items:start;} }
+  .en-section .en-prose,.en-section .en-bullets{max-width:760px;}
+  .en-week-head{display:flex;align-items:center;gap:14px;font-family:var(--serif);font-weight:600;
+    font-size:clamp(16px,1.7vw,19px);color:var(--text);padding:34px 0 8px;}
+  .en-week-head .ct{font-family:var(--sans);font-size:11px;font-weight:600;color:var(--muted);
+    background:var(--grey-bg);border-radius:999px;padding:2px 10px;}
+  .en-week-head .ln{flex:1;height:1px;background:var(--line);}
 
   .en-section{margin-bottom:28px;}
   .en-section:last-child{margin-bottom:0;}
@@ -171,10 +179,6 @@
       <ol id="en-toc-list" class="en-toc-list"></ol>
     </nav>
     <main id="en-list" class="en-list"></main>
-    <footer class="en-footer">
-      <div class="sig">Elite Pathfinder</div>
-      From candidate to training contract, we guide you through every step.
-    </footer>
   </div>
 </div>
 
@@ -197,59 +201,74 @@
   function fmtDate(iso){var M=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
     var p=String(iso||'').split('-');if(p.length<3)return'';return parseInt(p[2],10)+' '+M[parseInt(p[1],10)-1]+' '+p[0];}
 
-  var DATA=[], weekList=[], weeksMap={}, areas=[], curWeek=0, curArea="all", io=null;
+  var MONTHS=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  var DATA=[], weekList=[], weeksMap={}, areas=[], curWeek="latest", curArea="all", io=null, gid=0;
+
+  function monthOf(w){ var d=(weeksMap[w]&&weeksMap[w][0]&&weeksMap[w][0].date)||''; var p=d.split('-');
+    return p.length<2?'Other':MONTHS[parseInt(p[1],10)-1]+' '+p[0]; }
+  function curCode(){ return curWeek==='latest'?weekList[0]:curWeek; }
+  function inArea(it){ return curArea==="all" || arr(it.practiceAreas).indexOf(curArea)>=0; }
+  function itemsOf(w){ return arr(weeksMap[w]).filter(inArea); }
 
   function build(){
     weeksMap={};
     DATA.forEach(function(it){ var w=it.week||'(none)'; (weeksMap[w]=weeksMap[w]||[]).push(it); });
-    weekList=Object.keys(weeksMap).sort().reverse();   // newest first
+    weekList=Object.keys(weeksMap).sort().reverse();
     Object.keys(weeksMap).forEach(function(w){ weeksMap[w].sort(function(a,b){return (b.date||'').localeCompare(a.date||'');}); });
     areas=[]; var seen={};
     DATA.forEach(function(it){ arr(it.practiceAreas).forEach(function(a){ if(!seen[a]){seen[a]=1;areas.push(a);} }); });
     areas.sort();
-    weekSel.innerHTML=weekList.map(function(w){ return '<option value="'+esc(w)+'">'+esc(weeksMap[w][0].weekLabel||w)+'</option>'; }).join("");
+    var html='<option value="all">All weeks</option>', curM=null;
+    weekList.forEach(function(w){ var m=monthOf(w);
+      if(m!==curM){ if(curM!==null)html+='</optgroup>'; html+='<optgroup label="'+esc(m)+'">'; curM=m; }
+      html+='<option value="'+esc(w)+'">'+esc(weeksMap[w][0].weekLabel||w)+'</option>'; });
+    if(curM!==null)html+='</optgroup>';
+    weekSel.innerHTML=html;
     areaSel.innerHTML='<option value="all">All practice areas</option>'+areas.map(function(a){return '<option value="'+esc(a)+'">'+esc(a)+'</option>';}).join("");
-  }
-
-  function currentItems(){
-    var items=arr(weeksMap[weekList[curWeek]]);
-    if(curArea!=="all") items=items.filter(function(it){return arr(it.practiceAreas).indexOf(curArea)>=0;});
-    return items;
   }
 
   function render(){
     if(!weekList.length){ statusEl.textContent="No approved briefings yet."; tocEl.style.display="none";
       listEl.innerHTML='<div class="en-empty">No briefings published yet. Check back soon.</div>'; return; }
-    curWeek=Math.max(0,Math.min(curWeek,weekList.length-1));
-    weekSel.value=weekList[curWeek];
-    var items=currentItems();
-    var label=weeksMap[weekList[curWeek]][0].weekLabel||weekList[curWeek];
-    statusEl.textContent=label+"  ·  "+items.length+" briefing"+(items.length!==1?"s":"")+(curArea!=="all"?"  ·  "+curArea:"");
-    prevBtn.disabled=curWeek>=weekList.length-1;
-    nextBtn.disabled=curWeek<=0;
+    var allMode=(curWeek==="all");
+    var wcode=allMode?null:curCode();
+    if(!allMode && weekList.indexOf(wcode)<0){ curWeek=weekList[0]; wcode=weekList[0]; }
+    weekSel.value=allMode?"all":wcode;
+    gid=0; var html="", total=0, tocItems=null;
 
-    if(!items.length){ tocEl.style.display="none";
-      listEl.innerHTML='<div class="en-empty">Nothing in this week for '+esc(curArea)+'.</div>'; return; }
+    if(allMode){
+      weekList.forEach(function(w){ var items=itemsOf(w); if(!items.length)return; total+=items.length;
+        html+='<div class="en-week-head">'+esc(weeksMap[w][0].weekLabel||w)+'<span class="ct">'+items.length+'</span><span class="ln"></span></div>'+items.map(cardHTML).join(""); });
+      statusEl.textContent="All weeks  ·  "+total+" briefing"+(total!==1?"s":"")+(curArea!=="all"?"  ·  "+curArea:"");
+      prevBtn.disabled=true; nextBtn.disabled=true;
+    } else {
+      var items=itemsOf(wcode); total=items.length; tocItems=items;
+      statusEl.textContent=(weeksMap[wcode][0].weekLabel||wcode)+"  ·  "+total+" briefing"+(total!==1?"s":"")+(curArea!=="all"?"  ·  "+curArea:"");
+      var idx=weekList.indexOf(wcode); prevBtn.disabled=idx>=weekList.length-1; nextBtn.disabled=idx<=0;
+      html=items.map(cardHTML).join("");
+    }
 
-    tocEl.style.display="block";
-    tocList.innerHTML=items.map(function(it,i){
-      return '<li><a class="en-toc-link" data-t="en-c-'+i+'"><span><span class="en-toc-title">'+esc(it.headline||"Untitled")+
-        '</span><span class="en-toc-meta">'+esc(fmtDate(it.date))+'</span></span></a></li>';
-    }).join("");
-    Array.prototype.forEach.call(tocList.querySelectorAll(".en-toc-link"),function(link){
-      link.addEventListener("click",function(e){ e.preventDefault(); scrollTo(link.getAttribute("data-t")); });
-    });
+    if(!total){ tocEl.style.display="none";
+      listEl.innerHTML='<div class="en-empty">Nothing here for '+(curArea!=="all"?esc(curArea):'this filter')+'.</div>'; return; }
+    listEl.innerHTML=html;
 
-    listEl.innerHTML=items.map(cardHTML).join("");
+    if(tocItems){ tocEl.style.display="block"; var k=0;
+      tocList.innerHTML=tocItems.map(function(it){ var id="en-c-"+(k++);
+        return '<li><a class="en-toc-link" data-t="'+id+'"><span><span class="en-toc-title">'+esc(it.headline||"Untitled")+
+          '</span><span class="en-toc-meta">'+esc(fmtDate(it.date))+'</span></span></a></li>'; }).join("");
+      Array.prototype.forEach.call(tocList.querySelectorAll(".en-toc-link"),function(link){
+        link.addEventListener("click",function(e){ e.preventDefault(); scrollTo(link.getAttribute("data-t")); }); });
+    } else { tocEl.style.display="none"; }
+
     Array.prototype.forEach.call(listEl.querySelectorAll(".en-card-header"),function(h){
       h.addEventListener("click",function(e){ if(e.target.closest("a"))return;
-        var c=document.getElementById(h.getAttribute("data-c")); if(c)c.classList.toggle("is-open"); });
-    });
+        var c=document.getElementById(h.getAttribute("data-c")); if(c)c.classList.toggle("is-open"); }); });
     var first=document.getElementById("en-c-0"); if(first)first.classList.add("is-open");
     reveal();
   }
 
-  function cardHTML(it,i){
+  function cardHTML(it){
+    var i=gid++;
     var tags='<span class="en-tag region">'+esc(it.region||'HK')+'</span>'+
       arr(it.practiceAreas).map(function(a){return '<span class="en-tag">'+esc(a)+'</span>';}).join("");
     var src=arr(it.sources);
@@ -265,13 +284,12 @@
         '<h3 class="en-title">'+esc(it.headline||"Untitled")+'</h3>'+
         '<div class="en-meta">'+meta+'</div>'+
       '</div><div class="en-toggle"><svg viewBox="0 0 16 16" fill="none"><path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div></div>'+
-      '<div class="en-body-outer"><div class="en-body-inner">'+
+      '<div class="en-body-outer"><div class="en-body-inner"><div class="en-body-grid">'+
         '<div class="en-section"><div class="en-sec-label">What\'s the news?</div><div class="en-prose">'+paras(it.whatsTheNews)+'</div></div>'+
         (it.whatItMeans?'<div class="en-section en-means"><div class="en-sec-label">What does this mean?</div><div class="en-prose">'+paras(it.whatItMeans)+'</div></div>':'')+
         (arr(it.clients).length?'<div class="en-section"><div class="en-sec-label">Why it matters to clients</div><ul class="en-bullets">'+clients+'</ul></div>':'')+
         (arr(it.lawFirms).length?'<div class="en-section firms"><div class="en-sec-label">Why it matters to law firms</div><ul class="en-bullets">'+firms+'</ul></div>':'')+
-        reads+
-      '</div></div></article>';
+      '</div>'+reads+'</div></div></article>';
   }
 
   function scrollTo(id){ var el=document.getElementById(id); if(!el)return; el.classList.add("is-open");
@@ -288,10 +306,10 @@
 
   function skel(n){var o="";for(var i=0;i<n;i++){o+='<div class="en-skel"><div class="en-skel-line" style="height:11px;width:120px;margin-bottom:14px"></div><div class="en-skel-line" style="height:22px;width:70%;margin-bottom:8px"></div><div class="en-skel-line" style="height:13px;width:160px"></div></div>';}return o;}
 
-  weekSel.addEventListener("change",function(){ curWeek=weekSel.selectedIndex; render(); });
-  areaSel.addEventListener("change",function(){ curArea=areaSel.value; render(); });
-  prevBtn.addEventListener("click",function(){ curWeek++; render(); });
-  nextBtn.addEventListener("click",function(){ curWeek--; render(); });
+  weekSel.addEventListener("change",function(){ curWeek=weekSel.value; render(); });
+  areaSel.addEventListener("change",function(){ curArea=areaSel.value; if(curArea!=="all"){curWeek="all";weekSel.value="all";} render(); });
+  prevBtn.addEventListener("click",function(){ if(curWeek==='all')return; var idx=weekList.indexOf(curCode()); if(idx<weekList.length-1){curWeek=weekList[idx+1];render();} });
+  nextBtn.addEventListener("click",function(){ if(curWeek==='all')return; var idx=weekList.indexOf(curCode()); if(idx>0){curWeek=weekList[idx-1];render();} });
 
   listEl.innerHTML=skel(3); statusEl.textContent="Loading…";
   fetch(PUBLISHED_URL,{cache:"no-store"}).then(function(r){ if(!r.ok)throw 0; return r.json(); })
