@@ -10,7 +10,7 @@
   "items": [
     {
       "id": "2026-W26-001",
-      "status": "pending",
+      "status": "rejected",
       "headline": "Chinese PCB Equipment Maker CFMEE Smashes Hong Kong Records with 1,009x Oversubscription",
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
@@ -44,7 +44,7 @@
     },
     {
       "id": "2026-W26-002",
-      "status": "pending",
+      "status": "rejected",
       "headline": "Apple Supplier Lingyi iTech Raises HK$8.26 Billion in Hong Kong H-Share Listing",
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-W26-003",
-      "status": "pending",
+      "status": "rejected",
       "headline": "SG Micro Analog Chipmaker Surges 47% on Hong Kong Secondary Listing Debut",
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
@@ -113,7 +113,7 @@
     },
     {
       "id": "2026-W26-004",
-      "status": "pending",
+      "status": "rejected",
       "headline": "Keytop Parking Soars 210% as China's First AI Parking Stock Debuts in Hong Kong",
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
@@ -175,7 +175,7 @@
           "url": "https://www.censtatd.gov.hk/en/scode230.html"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
       "id": "2026-W26-005"
@@ -206,7 +206,7 @@
           "url": "https://www.thestandard.com.hk/finance/article/335518/EY-sees-84-Hong-Kong-IPOs-in-first-half-of-2026-raising-2098-billion"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
       "id": "2026-W26-006"
@@ -237,7 +237,7 @@
           "url": "https://www.scmp.com/tech/big-tech/article/3358183/apple-supplier-luxshare-precision-industry-passes-hearing-hong-kong-listing"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
       "id": "2026-W26-007"
@@ -272,7 +272,7 @@
           "url": "https://www.semafor.com/article/06/24/2026/chinese-ai-firm-zhipu-plans-billion-dollar-share-sale-amid-rally"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
       "id": "2026-W26-008"
@@ -309,7 +309,7 @@
       ],
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W26-009"
     },
     {
@@ -338,7 +338,7 @@
           "url": "https://www.scmp.com/business/investor-relations/ipo-quote-profile/article/3358011/chinese-red-chip-start-granted-regulatory-approval-amid-rumoured-crackdown"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
       "id": "2026-W26-010"
@@ -375,7 +375,7 @@
       ],
       "week": "2026-W26",
       "weekLabel": "22–28 Jun 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W26-011"
     },
     {
@@ -410,12 +410,12 @@
       ],
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W25-001"
     },
     {
       "id": "2026-W25-002",
-      "status": "pending",
+      "status": "published",
       "headline": "HKMA Holds Base Rate at 4% After US Fed Keeps Rates Steady in June",
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
@@ -473,7 +473,7 @@
           "url": "https://www.hkex.com.hk/News/News-Release/2026/2606184news?sc_lang=en"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
       "id": "2026-W25-003"
@@ -509,7 +509,7 @@
       ],
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W25-004"
     },
     {
@@ -540,7 +540,7 @@
       ],
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W25-005"
     },
     {
@@ -573,7 +573,7 @@
           "url": "https://www.bakermckenzie.com/en/newsroom/2026/06/senasic-ipo"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
       "id": "2026-W25-006"
@@ -604,7 +604,7 @@
           "url": "https://www.thestandard.com.hk/finance/article/334918/Six-firms-seek-to-raise-up-to-198-billion-in-Hong-Kong-offerings"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
       "id": "2026-W25-007"
@@ -635,7 +635,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260617-5/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
       "id": "2026-W25-008"
@@ -666,7 +666,7 @@
           "url": "https://www.censtatd.gov.hk/en/press_release_detail.html?id=5616"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
       "id": "2026-W25-009"
@@ -697,7 +697,7 @@
           "url": "https://www.bbntimes.com/financial/hang-seng-index-falls-to-24-493-95-as-profit-taking-and-china-data-concerns-weigh-on-hong-kong-market-despite-oil-relief"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W25",
       "weekLabel": "15–21 Jun 2026",
       "id": "2026-W25-010"
@@ -727,7 +727,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260612-3/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
       "id": "2026-W24-001"
@@ -768,7 +768,7 @@
       ],
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W24-002"
     },
     {
@@ -799,7 +799,7 @@
       ],
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W24-003"
     },
     {
@@ -830,12 +830,12 @@
       ],
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W24-004"
     },
     {
       "id": "2026-W24-005",
-      "status": "pending",
+      "status": "rejected",
       "headline": "Sunac China Begins Distributing Restructuring Consideration to Offshore Creditors",
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
@@ -895,7 +895,7 @@
           "url": "https://www.info.gov.hk/gia/general/202606/09/P2026060900365.htm"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
       "id": "2026-W24-006"
@@ -926,7 +926,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/06/20260609-3/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
       "id": "2026-W24-007"
@@ -961,7 +961,7 @@
           "url": "https://intellectia.ai/news/stock/weak-performance-trends-in-hong-kong-ipo-market"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W24",
       "weekLabel": "8–14 Jun 2026",
       "id": "2026-W24-008"
@@ -998,7 +998,7 @@
       ],
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W23-001"
     },
     {
@@ -1029,7 +1029,7 @@
       ],
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W23-002"
     },
     {
@@ -1060,7 +1060,7 @@
       ],
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W23-003"
     },
     {
@@ -1099,7 +1099,7 @@
       ],
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W23-004"
     },
     {
@@ -1130,7 +1130,7 @@
       ],
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W23-005"
     },
     {
@@ -1163,7 +1163,7 @@
           "url": "https://www.thestandard.com.hk/finance/article/333573/HKEX-signs-MOUs-with-AIFC-Authority-and-Astana-International-Exchange-to-enhance-Central-Asia-market-connectivity"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
       "id": "2026-W23-006"
@@ -1193,7 +1193,7 @@
           "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355689/hong-kong-retail-sales-rise-86-april-back-higher-visitor-arrivals"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
       "id": "2026-W23-007"
@@ -1228,7 +1228,7 @@
           "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355722/hong-kong-media-groups-sign-kazakhstan-deals-deepen-journalism-business-ties"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
       "id": "2026-W23-008"
@@ -1269,12 +1269,12 @@
       ],
       "week": "2026-W23",
       "weekLabel": "1–7 Jun 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W23-009"
     },
     {
       "id": "2026-W22-001",
-      "status": "pending",
+      "status": "rejected",
       "headline": "All Hong Kong Banks Meet HKMA Operational Resilience Deadline on 31 May",
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
@@ -1335,7 +1335,7 @@
       ],
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W22-002"
     },
     {
@@ -1364,7 +1364,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/05/20260529-5/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
       "id": "2026-W22-003"
@@ -1395,7 +1395,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/05/20260529-3/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
       "id": "2026-W22-004"
@@ -1436,7 +1436,7 @@
       ],
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W22-005"
     },
     {
@@ -1469,7 +1469,7 @@
           "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355186/hong-kong-exports-surge-43-april-driven-strong-demand-ai-electronics"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
       "id": "2026-W22-006"
@@ -1510,7 +1510,7 @@
       ],
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W22-007"
     },
     {
@@ -1543,7 +1543,7 @@
           "url": "https://www.timothyloh.com/insights/latest-news/circular-on-provision-of-relevant-stablecoin-service-by-virtual-asset-trading-platforms-and-licensed-corporations-20260527"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
       "id": "2026-W22-008"
@@ -1580,7 +1580,7 @@
       ],
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W22-009"
     },
     {
@@ -1611,7 +1611,7 @@
       ],
       "week": "2026-W22",
       "weekLabel": "25–31 May 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W22-010"
     },
     {
@@ -1650,7 +1650,7 @@
       ],
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W21-001"
     },
     {
@@ -1679,7 +1679,7 @@
           "url": "https://www.info.gov.hk/gia/general/202605/22/P2026052200570.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
       "id": "2026-W21-002"
@@ -1710,14 +1710,14 @@
           "url": "https://www.info.gov.hk/gia/general/202605/22/P2026052200317.htm"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
       "id": "2026-W21-003"
     },
     {
       "id": "2026-W21-004",
-      "status": "pending",
+      "status": "published",
       "headline": "CSRC Proposes RMB1.85 Billion Fine on Futu for Unlicensed Mainland Securities Services",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
@@ -1786,7 +1786,7 @@
       ],
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W21-005"
     },
     {
@@ -1814,7 +1814,7 @@
           "url": "https://www.info.gov.hk/gia/general/202605/21/P2026052100401.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
       "id": "2026-W21-006"
@@ -1845,7 +1845,7 @@
           "url": "https://www.info.gov.hk/gia/general/202605/21/P2026052100396.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
       "id": "2026-W21-007"
@@ -1880,7 +1880,7 @@
           "url": "https://www.thestandard.com.hk/finance/article/331939/Robot-Phoenix-Intelligences-retail-tranche-became-the-most-oversubscribed-in-history-at-14891-times"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
       "id": "2026-W21-008"
@@ -1911,7 +1911,7 @@
           "url": "https://www.info.gov.hk/gia/general/202605/20/P2026052000240.htm"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
       "id": "2026-W21-009"
@@ -1942,14 +1942,14 @@
           "url": "https://www.info.gov.hk/gia/general/202605/20/P2026052000379.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
       "id": "2026-W21-010"
     },
     {
       "id": "2026-W21-011",
-      "status": "pending",
+      "status": "rejected",
       "headline": "Capital A Exits Distressed Status After Six-Year Restructure, Eyes Hong Kong Listing",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
@@ -2009,7 +2009,7 @@
           "url": "https://www.info.gov.hk/gia/general/202605/18/P2026051800516.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
       "id": "2026-W21-012"
@@ -2040,14 +2040,14 @@
           "url": "https://www.info.gov.hk/gia/general/202605/18/P2026051800373.htm"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W21",
       "weekLabel": "18–24 May 2026",
       "id": "2026-W21-013"
     },
     {
       "id": "2026-W20-001",
-      "status": "pending",
+      "status": "rejected",
       "headline": "SFC Acts as 'Collection Agent' for Investors as HK$1.5 Billion Giordano Payout Queue Forms in Central",
       "week": "2026-W20",
       "weekLabel": "11–17 May 2026",
@@ -2083,7 +2083,7 @@
     },
     {
       "id": "2026-W20-002",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong's Economy Grows 5.9%, Its Fastest in Almost Five Years",
       "week": "2026-W20",
       "weekLabel": "11–17 May 2026",
@@ -2146,7 +2146,7 @@
           "url": "https://www.imf.org/en/news/articles/2026/05/13/mcs-05152026-hong-kong-sar-staff-concluding-statement-of-the-2026-article-iv-mission"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W20",
       "weekLabel": "11–17 May 2026",
       "id": "2026-W20-003"
@@ -2179,7 +2179,7 @@
       ],
       "week": "2026-W20",
       "weekLabel": "11–17 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W20-004"
     },
     {
@@ -2214,12 +2214,12 @@
       ],
       "week": "2026-W20",
       "weekLabel": "11–17 May 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W20-005"
     },
     {
       "id": "2026-W20-006",
-      "status": "pending",
+      "status": "rejected",
       "headline": "HKMA Exchange Fund Foreign Assets Rose HK$84.4 Billion in April to HK$3.66 Trillion",
       "week": "2026-W20",
       "weekLabel": "11–17 May 2026",
@@ -2282,14 +2282,14 @@
           "url": "https://www.sfc.hk/en/News-and-announcements/News/Enforcement-news"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W20",
       "weekLabel": "11–17 May 2026",
       "id": "2026-W20-007"
     },
     {
       "id": "2026-W20-008",
-      "status": "pending",
+      "status": "rejected",
       "headline": "Segantii Insider Trading Trial Enters Pivotal Phase as Key Bank Witness Takes the Stand",
       "week": "2026-W20",
       "weekLabel": "11–17 May 2026",
@@ -2354,7 +2354,7 @@
       ],
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W19-001"
     },
     {
@@ -2387,7 +2387,7 @@
           "url": "https://www.trendforce.com/news/2026/05/08/news-baidu-chip-unit-kunlunxin-reportedly-launches-star-market-ipo-process-hk-listing-valuation-seen-near-hk100b/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "id": "2026-W19-002"
@@ -2420,7 +2420,7 @@
       ],
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W19-003"
     },
     {
@@ -2449,7 +2449,7 @@
           "url": "https://www.scmp.com/business/markets/article/3352687/hong-kong-stocks-cross-26500-easing-middle-east-concerns"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "id": "2026-W19-004"
@@ -2484,7 +2484,7 @@
           "url": "https://www.thestandard.com.hk/finance/article/331442/SFC-disqualifies-four-ex-directors-of-China-Candy-longest-ban-33-months"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "id": "2026-W19-005"
@@ -2515,7 +2515,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/05/20260507-6/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
       "id": "2026-W19-006"
@@ -2552,7 +2552,7 @@
       ],
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W19-007"
     },
     {
@@ -2586,7 +2586,7 @@
       ],
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W19-008"
     },
     {
@@ -2617,7 +2617,7 @@
       ],
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W19-009"
     },
     {
@@ -2648,7 +2648,7 @@
       ],
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W19-010"
     },
     {
@@ -2682,12 +2682,12 @@
       ],
       "week": "2026-W19",
       "weekLabel": "4–10 May 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W19-011"
     },
     {
       "id": "2026-W18-001",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong Court Recognises PRC Court-Supervised Restructuring in Landmark Common Law Ruling",
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
@@ -2723,7 +2723,7 @@
     },
     {
       "id": "2026-W18-002",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong Holds Interest Rates With the Fed as Rate-Cut Hopes Build",
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
@@ -2783,7 +2783,7 @@
       ],
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W18-003"
     },
     {
@@ -2817,7 +2817,7 @@
       ],
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W18-004"
     },
     {
@@ -2852,7 +2852,7 @@
       ],
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W18-005"
     },
     {
@@ -2886,7 +2886,7 @@
       ],
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W18-006"
     },
     {
@@ -2921,12 +2921,12 @@
       ],
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W18-007"
     },
     {
       "id": "2026-W18-008",
-      "status": "pending",
+      "status": "rejected",
       "headline": "CATL Raises HK$39.2 Billion in Hong Kong's Largest Share Placement of 2026",
       "week": "2026-W18",
       "weekLabel": "27 Apr–3 May 2026",
@@ -2992,7 +2992,7 @@
       ],
       "week": "2026-W17",
       "weekLabel": "20–26 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W17-001"
     },
     {
@@ -3023,7 +3023,7 @@
       ],
       "week": "2026-W17",
       "weekLabel": "20–26 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W17-002"
     },
     {
@@ -3058,7 +3058,7 @@
       ],
       "week": "2026-W17",
       "weekLabel": "20–26 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W17-003"
     },
     {
@@ -3089,7 +3089,7 @@
       ],
       "week": "2026-W17",
       "weekLabel": "20–26 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W17-004"
     },
     {
@@ -3120,7 +3120,7 @@
       ],
       "week": "2026-W17",
       "weekLabel": "20–26 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W17-005"
     },
     {
@@ -3155,7 +3155,7 @@
       ],
       "week": "2026-W17",
       "weekLabel": "20–26 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W17-006"
     },
     {
@@ -3190,7 +3190,7 @@
       ],
       "week": "2026-W17",
       "weekLabel": "20–26 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W17-007"
     },
     {
@@ -3225,7 +3225,7 @@
       ],
       "week": "2026-W17",
       "weekLabel": "20–26 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W17-008"
     },
     {
@@ -3256,7 +3256,7 @@
       ],
       "week": "2026-W17",
       "weekLabel": "20–26 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W17-009"
     },
     {
@@ -3287,12 +3287,12 @@
       ],
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W16-001"
     },
     {
       "id": "2026-W16-002",
-      "status": "pending",
+      "status": "published",
       "headline": "Court of Final Appeal Kills 80-Year-Old Milmo Principle in Landmark Hong Kong Land Law Ruling",
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
@@ -3350,7 +3350,7 @@
           "url": "https://www.thestandard.com.hk/finance/article/329496/Hang-Seng-reaches-26394-points-as-tech-stocks-rally"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
       "id": "2026-W16-003"
@@ -3387,7 +3387,7 @@
       ],
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W16-004"
     },
     {
@@ -3420,7 +3420,7 @@
           "url": "https://wkzo.com/2026/04/14/chinas-huaqin-seeks-to-raise-nearly-581-million-in-hk-listing-amid-market-volatility/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
       "id": "2026-W16-005"
@@ -3451,7 +3451,7 @@
           "url": "https://www.scmp.com/business/china-business/article/3350130/china-sell-us23-billion-bonds-hong-kong-biggest-deal-2023"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
       "id": "2026-W16-006"
@@ -3488,7 +3488,7 @@
       ],
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W16-007"
     },
     {
@@ -3521,14 +3521,14 @@
           "url": "https://www.lw.com/en/insights/key-regulatory-updates-for-hong-kong-listed-companies-march-april-2026"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
       "id": "2026-W16-008"
     },
     {
       "id": "2026-W16-009",
-      "status": "pending",
+      "status": "rejected",
       "headline": "HKMA Reports Exchange Fund Foreign Assets Fell HK$59.5 Billion in March Amid Global Market Turbulence",
       "week": "2026-W16",
       "weekLabel": "13–19 Apr 2026",
@@ -3593,47 +3593,8 @@
       ],
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W15-001"
-    },
-    {
-      "id": "2026-W15-002",
-      "status": "pending",
-      "headline": "HKMA Hands Out Hong Kong's First Stablecoin Licences to HSBC and a Standard Chartered Venture",
-      "week": "2026-W15",
-      "weekLabel": "6–12 Apr 2026",
-      "date": "2026-04-10",
-      "region": "HK",
-      "practiceAreas": [
-        "Financial Regulatory",
-        "FinTech / TMT"
-      ],
-      "whatsTheNews": "On 10 April 2026, the Hong Kong Monetary Authority granted the city's first ever stablecoin issuer licences. They went to HSBC and to Anchorpoint Financial, a joint venture backed by Standard Chartered, the telecoms group HKT, and Animoca Brands. The two were chosen from a large pool of applicants under rules that took effect in 2025. Both plan to launch their Hong Kong dollar stablecoins later in 2026.",
-      "whatItMeans": "A stablecoin is digital money designed to always equal a real currency, here one coin for one Hong Kong dollar. An issuer is the company that creates and stands behind the coin, and it must hold enough safe assets to repay every holder. A licence is official permission to do this, and the HKMA granting only two shows how high the bar is. HSBC has said it wants to plug its stablecoin into everyday tools like its banking app and PayMe.",
-      "clients": [
-        "Winning a licence is just the start. The two issuers now need ongoing legal and compliance advice to launch and run their coins within the rules.",
-        "Losing applicants need a new plan. Firms that did not get a licence must decide whether to reapply, partner with a winner, or change their model, and they will seek advice on the options.",
-        "Businesses can start using stablecoins. Once these coins launch, companies will want to know the legal and tax treatment of using them for payments, which creates fresh questions for advisers."
-      ],
-      "lawFirms": [
-        "A brand-new market means brand-new work. Helping issuers launch, and helping businesses use stablecoins, is advisory work that did not exist before.",
-        "Banking, payments, and crypto skills combine. The work rewards firms that can blend financial regulation with technology know-how.",
-        "Early movers build the reputation. Firms involved in the first licences become the names clients think of, which pulls in the next wave of digital-money work for juniors to cut their teeth on."
-      ],
-      "sources": [
-        {
-          "title": "HKMA - Granting of stablecoin issuer licences",
-          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/04/20260410-4/"
-        },
-        {
-          "title": "HSBC welcomes HKMA's grant of a Hong Kong stablecoin issuer licence",
-          "url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-welcomes-hkmas-grant-of-a-hong-kong-stablecoin-issuer-licence"
-        },
-        {
-          "title": "HSBC, Anchorpoint granted stablecoin issuer licences - RTHK",
-          "url": "https://news.rthk.hk/rthk/en/component/k2/1850625-20260410.htm"
-        }
-      ]
     },
     {
       "headline": "Hong Kong's privacy watchdog warns that AI agents are a whole new risk to your data",
@@ -3663,7 +3624,7 @@
       ],
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W15-003"
     },
     {
@@ -3692,14 +3653,14 @@
           "url": "https://www.caixinglobal.com/2026-04-10/tech-brief-april-10-manycore-tech-launches-hong-kong-ipo-102432495.html"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
       "id": "2026-W15-004"
     },
     {
       "id": "2026-W15-005",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong Smashes IPO Records With HK$110 Billion in Three Months",
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
@@ -3760,7 +3721,7 @@
       ],
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W15-006"
     },
     {
@@ -3791,7 +3752,7 @@
       ],
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W15-007"
     },
     {
@@ -3820,7 +3781,7 @@
           "url": "https://www.pv-magazine.com/2026/04/08/sigenergy-launches-hong-kong-ipo/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
       "id": "2026-W15-008"
@@ -3851,7 +3812,7 @@
           "url": "https://www.scmp.com/business/banking-finance/article/3349396/more-global-firms-eye-hong-kong-cheaper-yuan-loans-bonds-stanchart"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W15",
       "weekLabel": "6–12 Apr 2026",
       "id": "2026-W15-009"
@@ -3882,7 +3843,7 @@
           "url": "https://www.fso.gov.hk/eng/blog/blog20260405.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
       "id": "2026-W14-001"
@@ -3917,7 +3878,7 @@
           "url": "https://www.news.gov.hk/eng/2026/04/20260402/20260402_143519_722.html"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
       "id": "2026-W14-002"
@@ -3954,7 +3915,7 @@
       ],
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W14-003"
     },
     {
@@ -3985,7 +3946,7 @@
       ],
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W14-004"
     },
     {
@@ -4020,12 +3981,12 @@
       ],
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W14-005"
     },
     {
       "id": "2026-W14-006",
-      "status": "pending",
+      "status": "rejected",
       "headline": "Manycore Tech Clears HKEX Listing Hearing, Bringing Hong Kong IPO Pipeline to Boil",
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
@@ -4085,7 +4046,7 @@
       ],
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W14-007"
     },
     {
@@ -4116,7 +4077,7 @@
       ],
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W14-008"
     },
     {
@@ -4151,7 +4112,7 @@
       ],
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W14-009"
     },
     {
@@ -4182,7 +4143,7 @@
       ],
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W14-010"
     },
     {
@@ -4211,7 +4172,7 @@
           "url": "https://www.info.gov.hk/gia/general/202603/30/P2026033000607.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W14",
       "weekLabel": "30 Mar–5 Apr 2026",
       "id": "2026-W14-011"
@@ -4244,12 +4205,12 @@
       ],
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W13-001"
     },
     {
       "id": "2026-W13-002",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong Tightens Tax Information-Sharing Rules with AEOI Amendment Bill",
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
@@ -4314,7 +4275,7 @@
       ],
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W13-003"
     },
     {
@@ -4347,7 +4308,7 @@
           "url": "https://www.bloomberg.com/news/articles/2026-03-26/moonshot-is-said-to-consider-hong-kong-ipo-as-ai-stocks-flourish"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
       "id": "2026-W13-004"
@@ -4388,7 +4349,7 @@
       ],
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W13-005"
     },
     {
@@ -4421,7 +4382,7 @@
           "url": "https://www.info.gov.hk/gia/general/202603/25/P2026032500671.htm"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
       "id": "2026-W13-006"
@@ -4454,12 +4415,12 @@
       ],
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W13-007"
     },
     {
       "id": "2026-W13-008",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong's Privacy Watchdog Turns Its Attention to AI and Your Data",
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
@@ -4516,7 +4477,7 @@
       ],
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W13-009"
     },
     {
@@ -4551,7 +4512,7 @@
       ],
       "week": "2026-W13",
       "weekLabel": "23–29 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W13-010"
     },
     {
@@ -4586,7 +4547,7 @@
       ],
       "week": "2026-W12",
       "weekLabel": "16–22 Mar 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W12-001"
     },
     {
@@ -4615,7 +4576,7 @@
           "url": "https://www.info.gov.hk/gia/general/202603/20/P2026032000231.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W12",
       "weekLabel": "16–22 Mar 2026",
       "id": "2026-W12-002"
@@ -4646,7 +4607,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/03/20260320-3/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W12",
       "weekLabel": "16–22 Mar 2026",
       "id": "2026-W12-003"
@@ -4679,7 +4640,7 @@
       ],
       "week": "2026-W12",
       "weekLabel": "16–22 Mar 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W12-004"
     },
     {
@@ -4714,7 +4675,7 @@
       ],
       "week": "2026-W12",
       "weekLabel": "16–22 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W12-005"
     },
     {
@@ -4744,7 +4705,7 @@
       ],
       "week": "2026-W12",
       "weekLabel": "16–22 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W12-006"
     },
     {
@@ -4779,7 +4740,7 @@
       ],
       "week": "2026-W12",
       "weekLabel": "16–22 Mar 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W12-007"
     },
     {
@@ -4808,7 +4769,7 @@
           "url": "https://www.info.gov.hk/gia/general/202603/17/P2026031700280.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W12",
       "weekLabel": "16–22 Mar 2026",
       "id": "2026-W12-008"
@@ -4841,7 +4802,7 @@
       ],
       "week": "2026-W12",
       "weekLabel": "16–22 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W12-009"
     },
     {
@@ -4872,7 +4833,7 @@
       ],
       "week": "2026-W11",
       "weekLabel": "9–15 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W11-001"
     },
     {
@@ -4901,7 +4862,7 @@
           "url": "https://www.info.gov.hk/gia/general/202603/13/P2026031300271.htm"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W11",
       "weekLabel": "9–15 Mar 2026",
       "id": "2026-W11-002"
@@ -4932,7 +4893,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/03/20260313-3/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W11",
       "weekLabel": "9–15 Mar 2026",
       "id": "2026-W11-003"
@@ -4969,7 +4930,7 @@
       ],
       "week": "2026-W11",
       "weekLabel": "9–15 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W11-004"
     },
     {
@@ -5000,7 +4961,7 @@
       ],
       "week": "2026-W11",
       "weekLabel": "9–15 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W11-005"
     },
     {
@@ -5029,7 +4990,7 @@
           "url": "https://www.icac.org.hk/en/p/press/index_id_2262.html"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W11",
       "weekLabel": "9–15 Mar 2026",
       "id": "2026-W11-006"
@@ -5066,7 +5027,7 @@
       ],
       "week": "2026-W11",
       "weekLabel": "9–15 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W11-007"
     },
     {
@@ -5095,7 +5056,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/03/20260309-3/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W11",
       "weekLabel": "9–15 Mar 2026",
       "id": "2026-W11-008"
@@ -5132,7 +5093,7 @@
       ],
       "week": "2026-W10",
       "weekLabel": "2–8 Mar 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W10-001"
     },
     {
@@ -5165,7 +5126,7 @@
           "url": "https://www.usnews.com/news/world/articles/2026-03-06/ck-hutchison-intensifies-legal-push-as-panama-moves-to-seize-ports"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W10",
       "weekLabel": "2–8 Mar 2026",
       "id": "2026-W10-002"
@@ -5202,7 +5163,7 @@
       ],
       "week": "2026-W10",
       "weekLabel": "2–8 Mar 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W10-003"
     },
     {
@@ -5237,7 +5198,7 @@
       ],
       "week": "2026-W10",
       "weekLabel": "2–8 Mar 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W10-004"
     },
     {
@@ -5270,7 +5231,7 @@
           "url": "https://www.bloomberg.com/news/articles/2026-03-05/gm-backed-driverless-tech-firm-momenta-confidentially-files-for-hong-kong-ipo"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W10",
       "weekLabel": "2–8 Mar 2026",
       "id": "2026-W10-005"
@@ -5303,7 +5264,7 @@
       ],
       "week": "2026-W10",
       "weekLabel": "2–8 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W10-006"
     },
     {
@@ -5334,7 +5295,7 @@
       ],
       "week": "2026-W10",
       "weekLabel": "2–8 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W10-007"
     },
     {
@@ -5363,7 +5324,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/03/20260303-4/"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W10",
       "weekLabel": "2–8 Mar 2026",
       "id": "2026-W10-008"
@@ -5394,7 +5355,7 @@
           "url": "https://www.scmp.com/business/banking-finance/article/3345175/hong-kongs-strategy-hkic-prop-citys-office-market-seen-challenging"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W10",
       "weekLabel": "2–8 Mar 2026",
       "id": "2026-W10-009"
@@ -5427,7 +5388,7 @@
       ],
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W09-001"
     },
     {
@@ -5458,7 +5419,7 @@
       ],
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W09-002"
     },
     {
@@ -5489,7 +5450,7 @@
       ],
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W09-003"
     },
     {
@@ -5524,7 +5485,7 @@
       ],
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W09-004"
     },
     {
@@ -5557,14 +5518,14 @@
           "url": "https://www.scmp.com/business/article/3342403/hkex-eyes-expansion-fixed-income-global-investors-reassess-us-exposure"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
       "id": "2026-W09-005"
     },
     {
       "id": "2026-W09-006",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong's 2026-27 Budget Bets on Finance, AI and a First Surplus in Years",
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
@@ -5629,7 +5590,7 @@
       ],
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W09-007"
     },
     {
@@ -5662,7 +5623,7 @@
           "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344632/paul-chans-new-budget-sets-aside-hk30-billion-kick-start-northern-metropolis"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W09",
       "weekLabel": "23 Feb–1 Mar 2026",
       "id": "2026-W09-008"
@@ -5695,7 +5656,7 @@
       ],
       "week": "2026-W08",
       "weekLabel": "16–22 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W08-001"
     },
     {
@@ -5730,7 +5691,7 @@
       ],
       "week": "2026-W08",
       "weekLabel": "16–22 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W08-002"
     },
     {
@@ -5758,7 +5719,7 @@
           "url": "https://www.scmp.com/business/china-business/article/3344062/hong-kong-stocks-fall-market-reopens-after-3-day-lunar-new-year-holiday"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W08",
       "weekLabel": "16–22 Feb 2026",
       "id": "2026-W08-003"
@@ -5793,7 +5754,7 @@
           "url": "https://www.scmp.com/business/companies/article/3343758/chow-tai-fook-linked-firms-set-record-us192-million-hit-giordano-case"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W08",
       "weekLabel": "16–22 Feb 2026",
       "id": "2026-W08-004"
@@ -5828,7 +5789,7 @@
           "url": "https://www.crowdfundinsider.com/2026/02/262446-hong-kongs-securities-and-futures-commission-approves-digital-assets-trading-license-for-victory-fintech/"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W08",
       "weekLabel": "16–22 Feb 2026",
       "id": "2026-W08-005"
@@ -5858,7 +5819,7 @@
           "url": "https://www.scmp.com/business/china-business/article/3343666/hong-kong-stocks-slip-light-trading-investors-prepare-lunar-new-year-break"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W08",
       "weekLabel": "16–22 Feb 2026",
       "id": "2026-W08-006"
@@ -5893,7 +5854,7 @@
           "url": "https://asia.nikkei.com/business/markets/china-debt-crunch/country-garden-winding-up-case-dismissed-clearing-restructuring-path"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W08",
       "weekLabel": "16–22 Feb 2026",
       "id": "2026-W08-007"
@@ -5926,7 +5887,7 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W07-001"
     },
     {
@@ -5961,7 +5922,7 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W07-002"
     },
     {
@@ -5996,7 +5957,7 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W07-003"
     },
     {
@@ -6031,7 +5992,7 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W07-004"
     },
     {
@@ -6062,7 +6023,7 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W07-005"
     },
     {
@@ -6093,12 +6054,12 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W07-006"
     },
     {
       "id": "2026-W07-007",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong's Minimum Wage Rises to HK$43.10 Under a New Yearly System",
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
@@ -6154,7 +6115,7 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W07-008"
     },
     {
@@ -6189,7 +6150,7 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W07-009"
     },
     {
@@ -6224,7 +6185,7 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W07-010"
     },
     {
@@ -6259,7 +6220,7 @@
       ],
       "week": "2026-W07",
       "weekLabel": "9–15 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W07-011"
     },
     {
@@ -6287,7 +6248,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/02/20260206-3/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W06",
       "weekLabel": "2–8 Feb 2026",
       "id": "2026-W06-001"
@@ -6320,7 +6281,7 @@
       ],
       "week": "2026-W06",
       "weekLabel": "2–8 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W06-002"
     },
     {
@@ -6355,7 +6316,7 @@
       ],
       "week": "2026-W06",
       "weekLabel": "2–8 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W06-003"
     },
     {
@@ -6384,7 +6345,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/02/20260204-5/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W06",
       "weekLabel": "2–8 Feb 2026",
       "id": "2026-W06-004"
@@ -6417,7 +6378,7 @@
       ],
       "week": "2026-W06",
       "weekLabel": "2–8 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W06-005"
     },
     {
@@ -6448,7 +6409,7 @@
       ],
       "week": "2026-W06",
       "weekLabel": "2–8 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W06-006"
     },
     {
@@ -6479,7 +6440,7 @@
       ],
       "week": "2026-W06",
       "weekLabel": "2–8 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W06-007"
     },
     {
@@ -6510,7 +6471,7 @@
       ],
       "week": "2026-W06",
       "weekLabel": "2–8 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W06-008"
     },
     {
@@ -6539,7 +6500,7 @@
           "url": "https://www.scmp.com/business/china-business/article/3342032/hong-kong-stocks-drop-shaky-risk-sentiment-us-equities-and-metals-slide"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W06",
       "weekLabel": "2–8 Feb 2026",
       "id": "2026-W06-009"
@@ -6572,7 +6533,7 @@
       ],
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W05-001"
     },
     {
@@ -6607,7 +6568,7 @@
       ],
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W05-002"
     },
     {
@@ -6638,7 +6599,7 @@
       ],
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W05-003"
     },
     {
@@ -6673,7 +6634,7 @@
       ],
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W05-004"
     },
     {
@@ -6706,7 +6667,7 @@
           "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/5937882d/sfc-tightens-sponsor-compliance-framework-new-reporting-review-and-inspection-requirements"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
       "id": "2026-W05-005"
@@ -6747,7 +6708,7 @@
       ],
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W05-006"
     },
     {
@@ -6778,7 +6739,7 @@
       ],
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W05-007"
     },
     {
@@ -6811,7 +6772,7 @@
           "url": "https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbcs-proposal-to-privatise-hang-seng-bank-approved-by-hang-seng-bank-shareholders"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
       "id": "2026-W05-008"
@@ -6846,7 +6807,7 @@
           "url": "https://www.caixinglobal.com/2026-01-27/hong-kong-expands-gold-storage-launches-clearing-platform-to-cement-global-hub-role-102408266.html"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W05",
       "weekLabel": "26 Jan–1 Feb 2026",
       "id": "2026-W05-009"
@@ -6881,7 +6842,7 @@
           "url": "https://www.charltonslaw.com/hong-kong-sfc-suspends-licensed-representative-for-undisclosed-personal-trading/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
       "id": "2026-W04-001"
@@ -6918,7 +6879,7 @@
       ],
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W04-002"
     },
     {
@@ -6947,7 +6908,7 @@
           "url": "https://www.info.gov.hk/gia/general/202601/22/P2026012200447.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
       "id": "2026-W04-003"
@@ -6984,7 +6945,7 @@
       ],
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W04-004"
     },
     {
@@ -7019,12 +6980,12 @@
       ],
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W04-005"
     },
     {
       "id": "2026-W04-006",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong's First Big Cybersecurity Law Lands on Critical Companies",
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
@@ -7059,7 +7020,7 @@
     },
     {
       "id": "2026-W04-007",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong's Competition Court Lets a HK$150 Million Cartel Penalty Wait",
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
@@ -7124,7 +7085,7 @@
       ],
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W04-008"
     },
     {
@@ -7158,7 +7119,7 @@
       ],
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W04-009"
     },
     {
@@ -7191,7 +7152,7 @@
           "url": "https://www.scmp.com/business/banking-finance/article/3340302/hkma-unveils-20-point-road-map-modernise-hong-kongs-trade-finance-ecosystem"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W04",
       "weekLabel": "19–25 Jan 2026",
       "id": "2026-W04-010"
@@ -7222,7 +7183,7 @@
           "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3340295/hong-kong-steps-bid-become-global-gold-trading-hub-shanghai-agreement"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "id": "2026-W03-001"
@@ -7253,7 +7214,7 @@
           "url": "https://www.caixinglobal.com/2026-01-16/global-funds-flow-back-to-hong-kong-as-appetite-for-chinese-ipos-grows-102404232.html"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "id": "2026-W03-002"
@@ -7284,7 +7245,7 @@
           "url": "https://www.info.gov.hk/gia/general/202601/15/P2026011500257.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "id": "2026-W03-003"
@@ -7315,7 +7276,7 @@
           "url": "https://www.caixinglobal.com/2026-01-14/gigadevice-soars-in-hong-kong-debut-as-ai-demand-lifts-memory-chipmakers-102403429.html"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "id": "2026-W03-004"
@@ -7346,7 +7307,7 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/01/20260114-4/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "id": "2026-W03-005"
@@ -7377,7 +7338,7 @@
           "url": "https://www.caixinglobal.com/2026-01-14/xpeng-affiliate-aridge-eyes-hong-kong-listing-as-flying-cars-near-takeoff-102403431.html"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "id": "2026-W03-006"
@@ -7412,7 +7373,7 @@
           "url": "https://www.bloomberg.com/news/articles/2026-01-29/chinese-chip-designer-montage-seeks-up-to-902-million-in-hong-kong-listing"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "id": "2026-W03-007"
@@ -7447,7 +7408,7 @@
           "url": "https://www.bloomberg.com/news/articles/2026-01-11/omnivision-set-for-hong-kong-debut-after-616-million-offering"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "id": "2026-W03-008"
@@ -7478,7 +7439,7 @@
           "url": "https://www.info.gov.hk/gia/general/202601/13/P2026011300215.htm"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
       "id": "2026-W03-009"
@@ -7514,7 +7475,7 @@
       ],
       "week": "2026-W03",
       "weekLabel": "12–18 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W03-010"
     },
     {
@@ -7545,7 +7506,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W02-001"
     },
     {
@@ -7580,7 +7541,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
+      "status": "rejected",
       "id": "2026-W02-002"
     },
     {
@@ -7613,7 +7574,7 @@
           "url": "https://www.charltonslaw.com/hong-kong-sfc-obtains-court-order-to-freeze-up-to-hk85-2-million-in-assets-linked-to-wan-cheng-in-ramp-and-dump-scheme-and-manipulation-of-shares/"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "id": "2026-W02-003"
@@ -7648,7 +7609,7 @@
           "url": "https://meyka.com/blog/omnivision-integrated-circuits-prices-hong-kong-ipo-at-top-end-raises-616-million/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "id": "2026-W02-004"
@@ -7679,14 +7640,14 @@
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/01/20260109-5/"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "id": "2026-W02-005"
     },
     {
       "id": "2026-W02-006",
-      "status": "pending",
+      "status": "published",
       "headline": "HSBC Buys Out Hang Seng Bank in a US$14 Billion Take-Private",
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
@@ -7906,7 +7867,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W02-012"
     },
     {
@@ -7939,7 +7900,7 @@
           "url": "https://www.charltonslaw.com/hong-kong-sfc-fines-saxo-capital-markets-hk-limited-hk4-million-for-virtual-asset-product-distribution-breaches/"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
       "id": "2026-W02-013"
@@ -7975,7 +7936,7 @@
       ],
       "week": "2026-W02",
       "weekLabel": "5–11 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W02-014"
     },
     {
@@ -8034,7 +7995,7 @@
           "url": "https://www.thestandard.com.hk/news/article/320711/Financial-chief-urges-deeper-finance-innovation-integration-to-boost-HKs-competitiveness"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "id": "2026-W01-001"
@@ -8065,7 +8026,7 @@
           "url": "https://www.scmp.com/property/hong-kong-china/article/3338597/hong-kong-property-market-hits-4-year-high-2025-sales-top-hk616-billion"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "id": "2026-W01-002"
@@ -8096,7 +8057,7 @@
           "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3338430/could-2026-be-make-or-break-year-ck-hutchisons-panama-ports-deal"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "id": "2026-W01-003"
@@ -8224,7 +8185,7 @@
           "url": "https://www.thestandard.com.hk/hong-kong-news/article/320651/Hong-Kong-retail-sales-rise-65pc-in-November-2025"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "id": "2026-W01-007"
@@ -8259,7 +8220,7 @@
           "url": "https://www.scmp.com/opinion/comment/article/3338251/hong-kongs-ipo-market-rings-2026-high-note"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "id": "2026-W01-008"
@@ -8294,14 +8255,14 @@
           "url": "https://www.chinadailyhk.com/hk/article/626368"
         }
       ],
-      "status": "pending",
+      "status": "published",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "id": "2026-W01-009"
     },
     {
       "id": "2026-W01-010",
-      "status": "pending",
+      "status": "published",
       "headline": "Hong Kong's Biggest Listed Companies Must Now Report Their Climate Impact",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
@@ -8360,7 +8321,7 @@
           "url": "https://www.scmp.com/opinion/china-opinion/article/3338368/why-investors-should-remain-bullish-hong-kong-mainland-stocks-2026"
         }
       ],
-      "status": "pending",
+      "status": "rejected",
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
       "id": "2026-W01-011"
@@ -8396,7 +8357,7 @@
       ],
       "week": "2026-W01",
       "weekLabel": "1–4 Jan 2026",
-      "status": "pending",
+      "status": "published",
       "id": "2026-W01-012"
     },
     {
