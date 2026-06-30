@@ -303,5 +303,41 @@
     .catch(function(){ DATA=arr(FALLBACK.items); build(); render(); });
 })();
 </script>
+
+<script>
+/* ClickSpark — vanilla port (reactbits). Sparks radiate from each click inside the digest. */
+(function(){
+  var SIZE=10, RADIUS=15, COUNT=8, DURATION=400, WIDTH=2;
+  var reduced=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(reduced) return;
+  var app=document.getElementById('en-app'); if(!app) return;
+  var cv=document.createElement('canvas');
+  cv.style.cssText='position:fixed;inset:0;width:100%;height:100%;pointer-events:none;z-index:99999;';
+  document.body.appendChild(cv);
+  var ctx=cv.getContext('2d');
+  function resize(){ var dpr=window.devicePixelRatio||1; cv.width=innerWidth*dpr; cv.height=innerHeight*dpr;
+    cv.style.width=innerWidth+'px'; cv.style.height=innerHeight+'px'; ctx.setTransform(dpr,0,0,dpr,0,0); }
+  resize(); window.addEventListener('resize',resize);
+  var sparks=[], raf=null;
+  function ease(t){ return 1-Math.pow(1-t,3); }
+  function colorFor(t){ var el=t; while(el&&el.nodeType===1){ if(el.classList&&el.classList.contains('en-hero')) return '#ffffff'; el=el.parentNode; } return '#111111'; }
+  app.addEventListener('click',function(e){
+    var color=colorFor(e.target), now=performance.now();
+    for(var i=0;i<COUNT;i++) sparks.push({x:e.clientX,y:e.clientY,a:(2*Math.PI*i)/COUNT,s:now,c:color});
+    if(!raf) raf=requestAnimationFrame(tick);
+  });
+  function tick(now){
+    ctx.clearRect(0,0,cv.width,cv.height);
+    sparks=sparks.filter(function(s){ return now-s.s<=DURATION; });
+    for(var i=0;i<sparks.length;i++){ var s=sparks[i], t=(now-s.s)/DURATION, e=ease(t);
+      var d=e*RADIUS, len=SIZE*(1-e), ca=Math.cos(s.a), sa=Math.sin(s.a);
+      ctx.strokeStyle=s.c; ctx.lineWidth=WIDTH; ctx.lineCap='round'; ctx.globalAlpha=1-t;
+      ctx.beginPath(); ctx.moveTo(s.x+d*ca,s.y+d*sa); ctx.lineTo(s.x+(d+len)*ca,s.y+(d+len)*sa); ctx.stroke();
+    }
+    ctx.globalAlpha=1;
+    raf = sparks.length ? requestAnimationFrame(tick) : null;
+  }
+})();
+</script>
 </body>
 </html>
